@@ -58,38 +58,67 @@ https://github.com/bbauska/Table-of-Contents-WIP.git
 
 git
 
-### html-css
+### html and css
 
-html / css
+html & css
 
 ### flask
 
 flask
 
-#### Sub-sub-heading
+### ORMs and APIs
 
-This is an h3 heading
+ORMs & APIs
 
-## Heading
+### JavaScript
 
-This is an h1 heading
+JavaScript
 
-### Sub-heading
+### Front-ends
 
-This is an h2 heading
+Front-ends
 
-#### Sub-sub-heading
+### Django
 
-This is an h3 heading
+Django
 
-## Heading
+### Testing CI/CD
 
-This is an h1 heading
+Testing CI/CD
 
-### Sub-heading
+### GitHub - Travis
 
-This is an h2 heading
+GitHub - Travis
 
-#### Sub-sub-heading
+### Scalability
 
-This is an h3 heading
+Scalability
+
+### Security
+
+Security
+
+## CC0101EN - IBM's Introduction to Cloud Computing
+
+CC0101EN - IBM's Introduction to Cloud Computing
+
+### 
+
+sub
+### 
+
+sub
+### 
+
+sub
+### 
+
+sub
+### 
+
+sub
+
+### 
+
+sub
+
