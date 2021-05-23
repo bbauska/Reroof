@@ -47,10 +47,6 @@ https://github.com/bbauska/Table-of-Contents-WIP.git
   
 # Heading levels
 
-> This is a fixture to test heading levels
-
-<!-- toc -->
-
 ## cs50 - Web Programming with JavaScript and Python
 
 ### git
@@ -101,16 +97,27 @@ Security
 
 CC0101EN - IBM's Introduction to Cloud Computing
 
-### 
+### Overview
 
-sub
-### 
+Overview
 
-sub
-### 
+### Cloud Adoption and Emerging Technologies
 
-sub
-### 
+Cloud Adoption & Emerging Technologies
+
+### Cloud Computing Service & Deployment Models
+
+#### Service Models 
+##### IaaS
+##### PaaS
+##### SaaS
+
+#### Deployment-Models
+##### Public
+##### Private
+##### Hybrid
+
+## - CAD101EN - IBM's Introduction to Cloud Development with HTML5, CSS3, & JavaScript
 
 sub
 ### 
