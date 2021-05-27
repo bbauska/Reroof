@@ -9,7 +9,7 @@ https://github.com/bbauska/Table-of-Contents-WIP.git
   * [JavaScript](#JavaScript)
   * [Front Ends](#Front-Ends)
   * [Django](#Django)
-  * [Testing, CI/CD]{#Testing-CI-CD)
+  * [Testing, CI | CD]{#Testing-CI-CD)
   * [GitHub, Travis](#GitHub-Travis)
   * [Scalability](#Scalability)
   * [Security](#Security)
