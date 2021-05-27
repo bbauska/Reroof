@@ -1,6 +1,6 @@
 
 https://github.com/bbauska/Table-of-Contents-WIP.git
-- [CS50](#Web Programming with JS & Python)
+- [CS50 Web Programming with JavaScript & Python](#Web-Programming-with-JS-Python)
   * [git](#git)
   * [HTML, CSS](#HTML-CSS)
   * [Flask](#Flask)
