@@ -47,6 +47,7 @@ https://github.com/bbauska/Table-of-Contents-WIP.git
   * [GitHub](#CAD-Mod05)
 
 <!--------------------------------------------------------------------->
+<!--------------------------------------------------------------------->
 <h2 id="cb-pro">Coinbase Pro Running Balance</h2>
     SNAPSHOT 5/28/2021 10:34am<br>
     Portfolio > 100 $:
@@ -142,36 +143,48 @@ Take caution at all times because a roofing job is risky and difficult.
   <h4>Basic Step-by-Step Guide on How to Re-shingle a Roof</h4>
 
 You may follow this step-by-step guide on how to reshingle a roof. This is best executed by professionals so make sure to contact a trusted roofer for assistance. On the other hand, it is also good to know the process for your own guidance as a property owner.
-
-Step #1: Inspect your damaged roof
+<ul>
+<li>Step #1: Inspect your damaged roof</li>
 Conduct inspections of the house or building’s internal parts. Look for leaks, dark spots, or water stains on ceilings and walls. Then on the outside, see if there are cracked, curled, or missing shingles. You may also discover plant growth like molds or algae. Doing this will show you exact areas where re-shingling is needed.
 
 Basic Step-by-Step Guide on How to Re-shingle a Roof Getting to your roof is a tricky job and should be done with all safety measures. As we have stated, the general rule is to have a roofing professional assess any kind of damage before you proceed with re-roofing or re-shingling.
 
-Step #2: Remove or conceal broken shingles
+ <li>Step #2: Remove or conceal broken shingles</li>
 When you have successfully identified which shingles should be replaced, it is now the time to prep the area where you will place them. Remove old and damaged shingles by carefully lifting them up one by one. Clear the area by brushing off any excess product. If you see holes, you also need to conceal them by nailing aluminum flashing. This will cover it completely to prevent penetration of moisture.
 
-Step #3: Install roofing felt
+ <li>Step #3: Install roofing felt</li>
 Install a layer of roofing felt which will act as the base of the new shingles. This waterproof membrane is an important part of the process. It will prevent moisture penetration when it rains. The absence of a roofing felt will promote plant growth and may shorten your roofing’s lifespan.
 
 Make sure that the roofing felt strips slightly overlap each other. To finish it off, secure it with a nail or staple gun.
 
-Step #4: Draw chalk lines
+ <li>Step #4: Draw chalk lines</li>
 Using a chalk, draw lines to mark areas where you will place new shingles. Do not forget to measure from end to end for accuracy. In completing this step, take your time and aim for clear precise lines.
 
 The look of your new shingles lies on how carefully you have placed the markings. If done improperly, it might affect the overall look of your roof which is the opposite of what you want to achieve. In simpler terms, it will not look good.
 
-Step #5: Prepare your new shingles
+ <li>Step #5: Prepare your new shingles</li>
 By the time you are finished marking the areas, you will be able to determine the number of shingles needed to replace old ones. Prepare the shingles for installation by removing the tabs using a knife.
 
-Step #6: Install the shingles
+ <li>Step #6: Install the shingles</li>
 When you are finally ready to lay the shingles, start by centering the first piece over the line markings. Afterwards, secure it with nails on each corner. Place the next shingle beside it until the first row of shingles is filled. Repeat the process for other areas of your roof.
- 
+</ul> 
+<!--------------------------------------------------------------------->
 <h3 id="find-store">Find a Store</h3>
+<!--------------------------------------------------------------------->
+
 <h3 id="pick-your-shingles">Pick Your Shingles</h3>
+<!--------------------------------------------------------------------->
 <h3 id="find-contractor">Find Contractor</h3>
+<!--------------------------------------------------------------------->
 <h3 id="total-protection-roof-system">Total Protection Roof System</h3>
+![image](https://user-images.githubusercontent.com/41387907/120037368-5ec73a00-bfb6-11eb-808f-825d3f59a724.png)
+![image](https://user-images.githubusercontent.com/41387907/120037480-90400580-bfb6-11eb-9fcb-d94cc873b0f5.png)
+![image](https://user-images.githubusercontent.com/41387907/120037519-9e8e2180-bfb6-11eb-9c7b-168ef29190ff.png)
+![image](https://user-images.githubusercontent.com/41387907/120037564-afd72e00-bfb6-11eb-85b8-e64f75ad2700.png)
+
+<!--------------------------------------------------------------------->
 <h3 id="roofing-components">Roofing Components (or, what makes up a roof?)</h3>
+<!--------------------------------------------------------------------->
 
 <!--------------------------------------------------------------------->
 
