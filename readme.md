@@ -47,7 +47,7 @@ https://github.com/bbauska/Table-of-Contents-WIP.git
   
 # Heading levels
 
-<a id = "Web-Programming-with-JS-Python">cs50 - Web Programming with JavaScript and Python</a>
+<h2 id = "Web-Programming-with-JS-Python">cs50 - Web Programming with JavaScript and Python</h2>
 
 ### git
 
