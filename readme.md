@@ -48,7 +48,7 @@ https://github.com/bbauska/Table-of-Contents-WIP.git
   
 # Heading levels
 <h2 id="cb-pro">Coinbase Pro Running Balance</h2>
-    SNAPSHOT 5/28/2021 10:34am 
+    SNAPSHOT 5/28/2021 10:34am<br>
     ![image](https://user-images.githubusercontent.com/41387907/120022505-587a9300-bfa1-11eb-82f4-35286177afd4.png)
     ![image](https://user-images.githubusercontent.com/41387907/120022701-a2637900-bfa1-11eb-942d-100dff41a4b6.png)
 
