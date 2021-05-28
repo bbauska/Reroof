@@ -152,7 +152,8 @@ Take caution at all times because a roofing job is risky and difficult.
 
 <h4>Layers to a roof</h4>
 <ul>
- <li><h5>1st Layer:</h5> Ice & Water Barrier Protection Underlay - Rhinoproof barrier next to the wood</li>
+ <li><h5>1st Layer: Ice & Water Barrier</h5></li>
+  Ice & Water Barrier Protection Underlay - Rhinoproof barrier next to the wood
 Overview
 The self-adhered layer in a roof deck protection system provides a waterproof barrier for vulnerable areas on a roof. Whether the building is faced with wind-driven rain or the potential for ice damming, having a waterproof barrier will help provide protection for a long-lasting roof.
 
