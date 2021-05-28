@@ -37,19 +37,19 @@ https://github.com/bbauska/Table-of-Contents-WIP.git
     + [HTML5 Input Element: Attributes for the Input Tag](#CAD-Mod03-2)
   * [JavaScript Programming for Web Appliations](#CAD-Mod04)
     + [JavaScript Language: Overview & Syntax](#CAD-Mod04-1)
-	+ [CAD-Mod04-2](#JavaScript: Variables & Control Statements)
-	+ [CAD-Mod04-3](#JavaScript: Functions & Prototypes)
-	+ [CAD-Mod04-4](#Client-Side: JavaScript with HTML)
-	+ [CAD-Mod04-5](#Client-Side: JavaScript with DOM)
-	+ [CAD-Mod04-6](#JavaScript DOM Objects)
-	+ [CAD-Mod04-7](#JavaScript APIs)
-  * [CAD-Mod05](#GitHub)
+    + [JavaScript: Variables & Control Statements](#CAD-Mod04-2)
+    + [JavaScript: Functions & Prototypes](#CAD-Mod04-3)
+    + [Client-Side: JavaScript with HTML](#CAD-Mod04-4)
+    + [Client-Side: JavaScript with DOM](#CAD-Mod04-5)
+    + [JavaScript DOM Objects)(#CAD-Mod04-6)
+    + [JavaScript APIs)(#CAD-Mod04-7)
+  * [GitHub](#CAD-Mod05)
   
 # Heading levels
 
-<h2 id = "Web-Programming-with-JS-Python">cs50 - Web Programming with JavaScript and Python</h2>
+<h2 id="Web-Programming-with-JS-Python">cs50 - Web Programming with JavaScript and Python</h2>
 
-### git
+<h3 id="git">git</h3>
 
 git
 
