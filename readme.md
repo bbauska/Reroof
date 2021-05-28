@@ -88,15 +88,16 @@ Up and down like columns, or<br>
 Top across then down, like rows
  </p>
 <h3 id="roofing-basics">Roofing Basics</h3>
-These are the basic materials needed to perform a re-shingling project:
-
-Safety Gears (gloves, helmet, boots, etc.)
-Roofing Shingles
-Roofing Felt
-Chalk
-Utility Knife
-Nail/Staple Gun
-Ladder
+<h4>These are the basic materials needed to perform a re-shingling project:</h4>
+<ul>
+<li>Safety Gears (gloves, helmet, boots, etc.)</li>
+<li>Roofing Shingles</li>
+<li>Roofing Felt</li>
+<li>Chalk</li>
+<li>Utility Knife</li>
+<li>Nail/Staple Gun</li>
+<li>Ladder</li>
+</ul>
 <h5>Steps to Re-Shingle</h5>
 <ol>
  <li>1. Inspect for damage to roof</li>
@@ -108,34 +109,25 @@ As we have emphasized before, there is no such thing as a perfect roofing materi
 
 Before we continue, we would like to make it clear that dealing with any roofing issue is a serious matter. While it is advantageous to know the basics, you and your family’s safety are still the top priority. No matter how minor the problem is, always consider talking to a roofing professional. They are equipped with the proper training to perform these tasks. Workmanship is also crucial for it can influence the performance and look of your roofing.
 
-Where do you start?
+<p4>Where do you start?</p4>
 When performing a re-shingling project, the first step is to know the type of material that you will be working on. Of course, you need to match it with the previously installed roofing system. If you change your mind and want a different roofing system, it will be a case for replacement.
 
 In terms of cost and duration of the project, it varies depending on the size of your roof and choice of material. If it is more complicated to install, then it would take longer.
 
+<ul>
 Here is a quick rundown of the different types of roofing shingles:
 
-Asphalt-based shingle: It is durable (can last up to 15 to 30 years), attractive, and eco-friendly. However, its protective granules may dislodge and decay due to harsh weather conditions. It also least expensive costing only about $1 to $4 per square foot.
-Slate: Made from traditional stones, these are durable, long-lasting, and fireproof. They are expensive and difficult to install but could, later on, increase your property’s resale value. There is also an option to go for synthetic slates which are more lightweight and less expensive.
-Wood: It is rust-proof, long-lasting, and classic. Treatments are needed to prevent infestations. It costs more or less $7 per square foot.
-Solar: Labor and materials are a huge long-term investment. In fact, it costs as much as $21 per square foot. However, solar shingles could lower electricity costs up to 60%.
-Copper: As a metal composition, this is highly wind and fire resistant. It can decrease energy cost but could not filter external noise. This is also on the pricier side at it costs more or less $15 per square foot.
-Fiberglass: This is lightweight and cost-effective ($4 to $5 per square foot). However, they are less durable than other types.
+<li>Asphalt-based shingle: It is durable (can last up to 15 to 30 years), attractive, and eco-friendly. However, its protective granules may dislodge and decay due to harsh weather conditions. It also least expensive costing only about $1 to $4 per square foot.</li>
+<li>Slate: Made from traditional stones, these are durable, long-lasting, and fireproof. They are expensive and difficult to install but could, later on, increase your property’s resale value. There is also an option to go for synthetic slates which are more lightweight and less expensive.
+<li>Wood: It is rust-proof, long-lasting, and classic. Treatments are needed to prevent infestations. It costs more or less $7 per square foot.
+<li>Solar: Labor and materials are a huge long-term investment. In fact, it costs as much as $21 per square foot. However, solar shingles could lower electricity costs up to 60%.</li>
+<li>Copper: As a metal composition, this is highly wind and fire resistant. It can decrease energy cost but could not filter external noise. This is also on the pricier side at it costs more or less $15 per square foot.</li>
+<li>Fiberglass: This is lightweight and cost-effective ($4 to $5 per square foot). However, they are less durable than other types.</li>
+ </ul>
 
  <p5>What do you need?</p5>
 Basic Step-by-Step Guide on How to Re-shingle a Roof
 
-These are the basic materials needed to perform a re-shingling project:
-
- <ol>
-<li>Safety Gears (gloves, helmet, boots, etc.)</li>
-<li>Roofing Shingles</li>
-<li>Roofing Felt</li>
-<li>Chalk</li>
-<li>Utility Knife</li>
-<li>Nail/Staple Gun</li>
-<li>Ladder</li>
- </ol>
 <p>Important safety reminders
 We cannot emphasize enough how risky this task is. Aside from being difficult, you need to have the right skills to implement the re-shingling correctly. For starters, read about the safety measures you need to keep in mind and abide by to stay protected at all times.
  </p>
