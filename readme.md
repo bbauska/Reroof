@@ -18,7 +18,7 @@ https://github.com/bbauska/Table-of-Contents-WIP.git
   * [Roofing Basics](#roofing-basics)
   * [Find Store](#find-store)
   * [Pick Your Shingles](#pick-your-shingles)
-  * [Find-Contractor](#Find-contractor)
+  * [Find Contractor](#Find-contractor)
   * [Total Protection](#total-protection-roof-system)
   * [Roofing Components](#roofing-components)
   * [Another roofing header](#roofing-sub-99)
@@ -175,9 +175,13 @@ When you are finally ready to lay the shingles, start by centering the first pie
 <hr size="8" width="90%" color="green">
 <!--------------------------------------------------------------------->
 <h3 id="total-protection-roof-system">Total Protection Roof System</h3>
+<hr>
 ![image](https://user-images.githubusercontent.com/41387907/120037368-5ec73a00-bfb6-11eb-808f-825d3f59a724.png)
+<hr>
 ![image](https://user-images.githubusercontent.com/41387907/120037480-90400580-bfb6-11eb-9fcb-d94cc873b0f5.png)
+<hr>
 ![image](https://user-images.githubusercontent.com/41387907/120037519-9e8e2180-bfb6-11eb-9c7b-168ef29190ff.png)
+<hr>
 ![image](https://user-images.githubusercontent.com/41387907/120037564-afd72e00-bfb6-11eb-85b8-e64f75ad2700.png)
 <hr size="8" width="90%" color="green">
 
