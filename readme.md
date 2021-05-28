@@ -49,29 +49,29 @@ https://github.com/bbauska/Table-of-Contents-WIP.git
 
 <h2 id="Web-Programming-with-JS-Python">cs50 - Web Programming with JavaScript and Python</h2>
 
-<h3 id="git">git</h3>
+    <h3 id="git">git</h3>
 
-<h3 id="html-css">HTML/CSS</h3>
+    <h3 id="html-css">HTML/CSS</h3>
 
-<h3 id="Flask">Flask</h3>
+    <h3 id="Flask">Flask</h3>
 
-<h3 id="SQL">SQL</h3>
+    <h3 id="SQL">SQL</h3>
 
-<h3 id="ORM-API">ORMs, APIs</h3>
+    <h3 id="ORM-API">ORMs, APIs</h3>
 
-<h3 id="JavaScript">JavaScript</h3>
+    <h3 id="JavaScript">JavaScript</h3>
 
-<h3 id="Front-Ends">Front Ends</h3>
+    <h3 id="Front-Ends">Front Ends</h3>
 
-<h3 id="Django">Django</h3>
+    <h3 id="Django">Django</h3>
 
-<h3 id="Testing-CICD">Testing, CI/CD</h3>
+    <h3 id="Testing-CICD">Testing, CI/CD</h3>
 
-<h3 id="GitHub-Travis">GitHub, Travis</h3>
+    <h3 id="GitHub-Travis">GitHub, Travis</h3>
 
-<h3 id="Scalability">Scalabilty</h3>
+    <h3 id="Scalability">Scalabilty</h3>
 
-<h3 id="Security">Security</h3>
+    <h3 id="Security">Security</h3>
 
 <h2 id="Ready-to-Build-a-Roof-DIY">Roof</h2>
 
@@ -79,34 +79,15 @@ https://github.com/bbauska/Table-of-Contents-WIP.git
 
 <h2 id="CC0101EN">CC0101EN: IBM's Introduction to Cloud Computing</h2>
 
-### Overview
+    <h3 id="Overview">    Overview</h3>
+    <h3 id="CC-2">    Cloud Adoption and Emerging Technologies</h3>
+    
+    <h3 id="CC-3">Cloud Computing Service & Deployment Models</h3>
+    
+        <h4 id="Service-Models">Service Models: IaaS, PaaS, Saas</h4>
+        <h4 id="Deployment-Models">Deployment-Models: Public, Private, Hybrid</h4>
+<br>
 
-Overview
+<h2 id="CAD101EN">CAD101EN: IBM's Introduction to Cloud Development with HTML5, CSS3, & JavaScript</h2>
 
-### Cloud Adoption and Emerging Technologies
-
-Cloud Adoption & Emerging Technologies
-
-### Cloud Computing Service & Deployment Models
-
-#### Service Models 
-##### IaaS
-##### PaaS
-##### SaaS
-
-#### Deployment-Models
-##### Public
-##### Private
-##### Hybrid
-
-## - CAD101EN - IBM's Introduction to Cloud Development with HTML5, CSS3, & JavaScript
-
-sub
-### 
-
-sub
-
-### 
-
-sub
-
+<!--------------------------------------------------------------------->
