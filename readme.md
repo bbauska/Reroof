@@ -152,16 +152,18 @@ Take caution at all times because a roofing job is risky and difficult.
 
 <h4>Layers to a roof</h4>
 <ul>
- <li><h5>1st Layer: Ice & Water Barrier</h5></li>
-  Ice & Water Barrier Protection Underlay - Rhinoproof barrier next to the wood
-Overview
+ <li>1st Layer: Ice & Water Barrier</li>
+Overview<br>
+ Ice & Water Barrier Protection Underlay - Rhinoproof barrier next to the wood
 The self-adhered layer in a roof deck protection system provides a waterproof barrier for vulnerable areas on a roof. Whether the building is faced with wind-driven rain or the potential for ice damming, having a waterproof barrier will help provide protection for a long-lasting roof.
 
 RhinoRoof® Granulated self-adhered underlayment provides that essential waterproof barrier as a second line of defense against water mitigation. RhinoRoof® Granulated combined with a synthetic underlayment, such as RhinoRoof® U20 creates an underlayment system to protect the roof deck from eave to peak.
  Ice & Water Barriers
 RhinoRoof® Granulated Self-Adhered Underlayment
- <li>2nd Layer: Underlayment</li>
- Overview Underlayment Products
+
+<li>2nd Layer: Underlayment</li>
+Overview<br>
+ Underlayment Products
 Deck Defense® High Performance Synthetic Roof Underlayment
 Deck Defense® High Performance Synthetic Roof Underlayment features a durable construction that works with your shingles to help shield your home from moisture infiltration.
 ProArmor® Synthetic Roof Underlayment
@@ -173,9 +175,9 @@ RhinoRoof® U20 is 12 times stronger than #30 felt and offers excellent wind res
 Titanium® UDL25, UDL30, & UDL50 Synthetic Roofing Underlayment
 Titanium® X30 Premium Synthetic Underlayment
  
- <li>3rd Layer:  Hip & Ridge Shingles</li>
+ <li>3rd Layer: Hip & Ridge Shingles</li>
+Overview<br>
 Berkshire® Hip & Ridge Shingles
- Overview
 
 Specifically designed for use with Berkshire® Collection Shingles, Berkshire® Hip & Ridge Shingles provide a sophisticated finishing element.
 
@@ -185,7 +187,7 @@ Specifically designed for use with Berkshire® Collection Shingles, Berkshire® 
     Berkshire® Hip & Ridge Shingles are required for the 15-year Algae Resistance Warranty* on Berkshire® Collection Shingles
  
  <li>4th Layer: Starter Shingles</li>
- 
+Overview<br>
  Starter Shingles
 Starter Shingle Roll
 
@@ -197,8 +199,8 @@ Starter Strip Plus Shingle
 
 Starter Strip Plus Shingle helps save time by eliminating the need to cut shingles to create a starter row. Starter Strip Plus Shingle is packaged two pieces per shingle, and perforated down the center for easy separation.
 
- <li>5th Layer: Deck Seal</li>
- Overview
+ <li>5th (and FINAL) Layer: Deck Seal & Ventilation</li>
+ Overview<br>
   The DeckSeal Self-Adhered Roofing System is an excellent solution for low slope applications* 1/4:12 to 2:12 on residential re-roofing jobs.
 
 The Owens Corning® DeckSeal Roofing System offers numerous advantages over competitive low slope products:
