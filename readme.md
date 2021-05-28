@@ -241,6 +241,12 @@ The versatile DeckSeal Roofing System can be applied as either a 2 or 3 ply syst
     Complements VentSure® Ridge Vents for balanced intake and exhaust
 
 As a key component of a VentSure® Balanced Air Ventilation System, the VentSure® vents are an essential part of the Total Protection Roofing System^. 
+ <h4>Anatomy of a Roof</h4>
+ ![image](https://user-images.githubusercontent.com/41387907/120049999-b4a8db80-bfd0-11eb-9317-22cde13b470c.png)
+
+ <h4>Which Roofing Shingle to Buy?</h4>
+ ![image](https://user-images.githubusercontent.com/41387907/120050108-094c5680-bfd1-11eb-8ff1-9e5b2abd259c.png)
+
 <hr size="8" width="90%" color="green">
 <!--------------------------------------------------------------------->
 <h3 id="find-store">Find a Store</h3>
