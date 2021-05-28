@@ -29,7 +29,7 @@ https://github.com/bbauska/Table-of-Contents-WIP.git
   * [Cloud Computing Service & Deployment Models](#CC-3)
     + [Service Models: IaaS, PaaS, Saas](#Service-Models)
 	+ [Deployment-Models](#Public, Private, Hybrid)
-- [CAD101EN: IBM's Introduction to Cloud Development with HTML5, CSS3, & JavaScript)(#CAD101EN)
+- [CAD101EN: IBM's Introduction to Cloud Development with HTML5, CSS3, & JavaScript](#CAD101EN)
   * [Introduction to Programming for the Cloud](#CAD-Mod01)
   * [HTML5 and CSS3](#CAD-Mod02)
   * [HTML5 Elements](#CAD-Mod03)
