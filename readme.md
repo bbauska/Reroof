@@ -1,5 +1,6 @@
 
 https://github.com/bbauska/Table-of-Contents-WIP.git
+- [Coinbase Pro Running Balance](#cb-pro)
 - [CS50 Web Programming with JavaScript & Python](#web-programming-with-js-python)
   * [git](#git)
   * [HTML, CSS](#html-css)
@@ -46,6 +47,7 @@ https://github.com/bbauska/Table-of-Contents-WIP.git
   * [GitHub](#CAD-Mod05)
   
 # Heading levels
+<h2 id="cb-pro">Coinbase Pro Running Balance</h2>
 
 <h2 id="web-programming-with-js-python">cs50 - Web Programming with JavaScript and Python</h2>
 
