@@ -197,7 +197,7 @@ When you are finally ready to lay the shingles, start by centering the first pie
         <h4 id="Service-Models">Service Models: IaaS, PaaS, Saas</h4>
         <h4 id="Deployment-Models">Deployment-Models: Public, Private, Hybrid</h4>
 <br>
-<hr size="22" width="150%" color="dark green">
+<hr size="28" width="90%" color="black">
 <!--------------------------------------------------------------------->
 
 <h2 id="CAD101EN">CAD101EN: IBM's Introduction to Cloud Development with HTML5, CSS3, & JavaScript</h2>
