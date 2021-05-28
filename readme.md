@@ -4,8 +4,8 @@ https://github.com/bbauska/Table-of-Contents-WIP.git
   * [git](#git)
   * [HTML, CSS](#HTML-CSS)
   * [Flask](#Flask)
-  * [sql](#SQL)
-  * [ORMs, APIs](#ORMs-APIs)
+  * [SQL](#SQL)
+  * [ORMs, APIs](#ORM-API)
   * [JavaScript](#JavaScript)
   * [Front Ends](#Front-Ends)
   * [Django](#Django)
@@ -35,7 +35,7 @@ https://github.com/bbauska/Table-of-Contents-WIP.git
   * [HTML5 Elements](#CAD-Mod03)
     + [HTML5 Tags & Structural Elements](#CAD-Mod03-1)
     + [HTML5 Input Element: Attributes for the Input Tag](#CAD-Mod03-2)
-  * [JavaScript Programming for Web Appliations](#CAD-Mod04)
+  * [JavaScript Programming for Web Applications](#CAD-Mod04)
     + [JavaScript Language: Overview & Syntax](#CAD-Mod04-1)
     + [JavaScript: Variables & Control Statements](#CAD-Mod04-2)
     + [JavaScript: Functions & Prototypes](#CAD-Mod04-3)
@@ -51,51 +51,33 @@ https://github.com/bbauska/Table-of-Contents-WIP.git
 
 <h3 id="git">git</h3>
 
-git
+<h3 id="html-css">HTML/CSS</h3>
 
-### html and css
+<h3 id="Flask">Flask</h3>
 
-html & css
+<h3 id="SQL">SQL</h3>
 
-### flask
+<h3 id="ORM-API">ORMs, APIs</h3>
 
-flask
+<h3 id="JavaScript">JavaScript</h3>
 
-### ORMs and APIs
+<h3 id="Front-Ends">Front Ends</h3>
 
-ORMs & APIs
+<h3 id="Django">Django</h3>
 
-### JavaScript
+<h3 id="Testing-CICD">Testing, CI/CD</h3>
 
-JavaScript
+<h3 id="GitHub-Travis">GitHub, Travis</h3>
 
-### Front-ends
+<h3 id="Scalability">Scalabilty</h3>
 
-Front-ends
+<h3 id="Security">Security</h3>
 
-### Django
+<h2 id="Ready-to-Build-a-Roof-DIY">Roof</h2>
 
-Django
+<!--------------------------------------------------------------------->
 
-### Testing CI/CD
-
-Testing CI/CD
-
-### GitHub - Travis
-
-GitHub - Travis
-
-### Scalability
-
-Scalability
-
-### Security
-
-Security
-
-## CC0101EN - IBM's Introduction to Cloud Computing
-
-CC0101EN - IBM's Introduction to Cloud Computing
+<h2 id="CC0101EN">CC0101EN: IBM's Introduction to Cloud Computing</h2>
 
 ### Overview
 
