@@ -146,17 +146,12 @@ You may follow this step-by-step guide on how to reshingle a roof. This is best 
 <ul>
 <li>Step #1: Inspect your damaged roof</li>
 Conduct inspections of the house or building’s internal parts. Look for leaks, dark spots, or water stains on ceilings and walls. Then on the outside, see if there are cracked, curled, or missing shingles. You may also discover plant growth like molds or algae. Doing this will show you exact areas where re-shingling is needed.
-
 Basic Step-by-Step Guide on How to Re-shingle a Roof Getting to your roof is a tricky job and should be done with all safety measures. As we have stated, the general rule is to have a roofing professional assess any kind of damage before you proceed with re-roofing or re-shingling.
-
  <li>Step #2: Remove or conceal broken shingles</li>
 When you have successfully identified which shingles should be replaced, it is now the time to prep the area where you will place them. Remove old and damaged shingles by carefully lifting them up one by one. Clear the area by brushing off any excess product. If you see holes, you also need to conceal them by nailing aluminum flashing. This will cover it completely to prevent penetration of moisture.
-
  <li>Step #3: Install roofing felt</li>
 Install a layer of roofing felt which will act as the base of the new shingles. This waterproof membrane is an important part of the process. It will prevent moisture penetration when it rains. The absence of a roofing felt will promote plant growth and may shorten your roofing’s lifespan.
-
 Make sure that the roofing felt strips slightly overlap each other. To finish it off, secure it with a nail or staple gun.
-
  <li>Step #4: Draw chalk lines</li>
 Using a chalk, draw lines to mark areas where you will place new shingles. Do not forget to measure from end to end for accuracy. In completing this step, take your time and aim for clear precise lines.
 
@@ -168,26 +163,30 @@ By the time you are finished marking the areas, you will be able to determine th
  <li>Step #6: Install the shingles</li>
 When you are finally ready to lay the shingles, start by centering the first piece over the line markings. Afterwards, secure it with nails on each corner. Place the next shingle beside it until the first row of shingles is filled. Repeat the process for other areas of your roof.
 </ul> 
+<hr size="8" width="90%" color="green">
 <!--------------------------------------------------------------------->
 <h3 id="find-store">Find a Store</h3>
+<hr size="8" width="90%" color="green">
 <!--------------------------------------------------------------------->
-
 <h3 id="pick-your-shingles">Pick Your Shingles</h3>
+<hr size="8" width="90%" color="green">
 <!--------------------------------------------------------------------->
 <h3 id="find-contractor">Find Contractor</h3>
+<hr size="8" width="90%" color="green">
 <!--------------------------------------------------------------------->
 <h3 id="total-protection-roof-system">Total Protection Roof System</h3>
 ![image](https://user-images.githubusercontent.com/41387907/120037368-5ec73a00-bfb6-11eb-808f-825d3f59a724.png)
 ![image](https://user-images.githubusercontent.com/41387907/120037480-90400580-bfb6-11eb-9fcb-d94cc873b0f5.png)
 ![image](https://user-images.githubusercontent.com/41387907/120037519-9e8e2180-bfb6-11eb-9c7b-168ef29190ff.png)
 ![image](https://user-images.githubusercontent.com/41387907/120037564-afd72e00-bfb6-11eb-85b8-e64f75ad2700.png)
+<hr size="8" width="90%" color="green">
 
 <!--------------------------------------------------------------------->
 <h3 id="roofing-components">Roofing Components (or, what makes up a roof?)</h3>
+<hr size="8" width="90%" color="green">
 <!--------------------------------------------------------------------->
 
 <!--------------------------------------------------------------------->
-
 <h2 id="CC0101EN">CC0101EN: IBM's Introduction to Cloud Computing</h2>
 
     <h3 id="Overview">    Overview</h3>
@@ -198,9 +197,9 @@ When you are finally ready to lay the shingles, start by centering the first pie
         <h4 id="Service-Models">Service Models: IaaS, PaaS, Saas</h4>
         <h4 id="Deployment-Models">Deployment-Models: Public, Private, Hybrid</h4>
 <br>
-
+<hr size="22" width="150%" color="green">
 <!--------------------------------------------------------------------->
 
 <h2 id="CAD101EN">CAD101EN: IBM's Introduction to Cloud Development with HTML5, CSS3, & JavaScript</h2>
-
+<hr size="8" width="90%" color="green">
 <!--------------------------------------------------------------------->
