@@ -14,7 +14,7 @@ https://github.com/bbauska/Table-of-Contents-WIP.git
   * [GitHub, Travis](#github-travis)
   * [Scalability](#scalability)
   * [Security](#security)
-- [Roof](#ready-to-build-a-roof-diy)
+- [Roof - with shingles](#ready-to-build-a-roof-diy)
   * [Roofing Basics](#roofing-basics)
   * [Find Store](#find-store)
   * [Pick Your Shingles](#pick-your-shingles)
@@ -83,7 +83,10 @@ https://github.com/bbauska/Table-of-Contents-WIP.git
     <h3 id="security">Security</h3>
 
 <h2 id="ready-to-build-a-roof-diy">Roof</h2>
-
+<p>Stair Step or Stagger?
+Up and down like columns, or
+Top across then down, like rows
+ </p>
 <!--------------------------------------------------------------------->
 
 <h2 id="CC0101EN">CC0101EN: IBM's Introduction to Cloud Computing</h2>
