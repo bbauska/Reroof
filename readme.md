@@ -1,25 +1,25 @@
 
 https://github.com/bbauska/Table-of-Contents-WIP.git
-- [CS50 Web Programming with JavaScript & Python](#Web-Programming-with-JS-Python)
+- [CS50 Web Programming with JavaScript & Python](#web-programming-with-js-python)
   * [git](#git)
-  * [HTML, CSS](#HTML-CSS)
+  * [HTML, CSS](#html-css)
   * [Flask](#Flask)
   * [SQL](#SQL)
-  * [ORMs, APIs](#ORM-API)
-  * [JavaScript](#JavaScript)
-  * [Front Ends](#Front-Ends)
-  * [Django](#Django)
-  * [Testing, CI-CD](#Testing-CICD)
-  * [GitHub, Travis](#GitHub-Travis)
-  * [Scalability](#Scalability)
-  * [Security](#Security)
-- [Roof](#Ready-to-Build-a-Roof-DIY)
-  * [Roofing Basics](#Roofing-Basics)
-  * [Find Store](#Find-Store)
-  * [Pick Your Shingles](#Pick-Your-Shingles)
-  * [Find-Contractor](#Find-Contractor)
-  * [Total Protection](#Total-Protection-Roof-System)
-  * [Roofing Components](#Roofing-Components)
+  * [ORMs, APIs](#orm-api)
+  * [JavaScript](#javascript)
+  * [Front Ends](#front-ends)
+  * [Django](#django)
+  * [Testing, CI-CD](#testing-cicd)
+  * [GitHub, Travis](#github-travis)
+  * [Scalability](#scalability)
+  * [Security](#security)
+- [Roof](#ready-to-build-a-roof-diy)
+  * [Roofing Basics](#roofing-basics)
+  * [Find Store](#find-store)
+  * [Pick Your Shingles](#pick-your-shingles)
+  * [Find-Contractor](#Find-contractor)
+  * [Total Protection](#total-protection-roof-system)
+  * [Roofing Components](#roofing-components)
   * [Another roofing header](#roofing-sub-99)
     + [Roofing Sub Sub Heading 1](#roofing-sub-sub-heading-1)
     + [Roofing Sub Sub Heading 2](#roofing-sub-sub-heading-2)
@@ -47,33 +47,33 @@ https://github.com/bbauska/Table-of-Contents-WIP.git
   
 # Heading levels
 
-<h2 id="Web-Programming-with-JS-Python">cs50 - Web Programming with JavaScript and Python</h2>
+<h2 id="web-programming-with-js-python">cs50 - Web Programming with JavaScript and Python</h2>
 
     <h3 id="git">git</h3>
 
     <h3 id="html-css">HTML/CSS</h3>
 
-    <h3 id="Flask">Flask</h3>
+    <h3 id="flask">Flask</h3>
 
-    <h3 id="SQL">SQL</h3>
+    <h3 id="sql">SQL</h3>
 
-    <h3 id="ORM-API">ORMs, APIs</h3>
+    <h3 id="orm-api">ORMs, APIs</h3>
 
-    <h3 id="JavaScript">JavaScript</h3>
+    <h3 id="javascript">JavaScript</h3>
 
-    <h3 id="Front-Ends">Front Ends</h3>
+    <h3 id="front-ends">Front Ends</h3>
 
-    <h3 id="Django">Django</h3>
+    <h3 id="django">Django</h3>
 
-    <h3 id="Testing-CICD">Testing, CI/CD</h3>
+    <h3 id="testing-CICD">Testing, CI/CD</h3>
 
-    <h3 id="GitHub-Travis">GitHub, Travis</h3>
+    <h3 id="github-travis">GitHub, Travis</h3>
 
-    <h3 id="Scalability">Scalabilty</h3>
+    <h3 id="scalability">Scalabilty</h3>
 
-    <h3 id="Security">Security</h3>
+    <h3 id="security">Security</h3>
 
-<h2 id="Ready-to-Build-a-Roof-DIY">Roof</h2>
+<h2 id="ready-to-build-a-roof-diy">Roof</h2>
 
 <!--------------------------------------------------------------------->
 
