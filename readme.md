@@ -45,7 +45,7 @@ https://github.com/bbauska/Table-of-Contents-WIP.git
     + [JavaScript DOM Objects](#CAD-Mod04-6)
     + [JavaScript APIs](#CAD-Mod04-7)
   * [GitHub](#CAD-Mod05)
-
+<hr size="8" width="90%" color="green">
 <!--------------------------------------------------------------------->
 <!--------------------------------------------------------------------->
 <h2 id="cb-pro">Coinbase Pro Running Balance</h2>
@@ -54,7 +54,7 @@ https://github.com/bbauska/Table-of-Contents-WIP.git
     ![image](https://user-images.githubusercontent.com/41387907/120022505-587a9300-bfa1-11eb-82f4-35286177afd4.png)
    Price / Coin Pd:
    ![image](https://user-images.githubusercontent.com/41387907/120022701-a2637900-bfa1-11eb-942d-100dff41a4b6.png)
-
+<hr size="8" width="90%" color="green">
 <!--------------------------------------------------------------------->
 <h2 id="web-programming-with-js-python">cs50 - Web Programming with JavaScript and Python</h2>
 
@@ -81,7 +81,7 @@ https://github.com/bbauska/Table-of-Contents-WIP.git
     <h3 id="scalability">Scalabilty</h3>
 
     <h3 id="security">Security</h3>
-
+<hr size="8" width="90%" color="green">
 <!--------------------------------------------------------------------->
 <h2 id="ready-to-build-a-roof-diy">Roof</h2>
 <p>Stair Step or Staggering?<br>
