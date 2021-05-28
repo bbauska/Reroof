@@ -28,7 +28,7 @@ https://github.com/bbauska/Table-of-Contents-WIP.git
   * [Cloud Adoption and Emerging Technologies](#CC-2)
   * [Cloud Computing Service & Deployment Models](#CC-3)
     + [Service Models: IaaS, PaaS, Saas](#Service-Models)
-	+ [Deployment-Models](#Public, Private, Hybrid)
+    + [Deployment-Models: Public, Private, Hybrid](#Deployment-Models)
 - [CAD101EN: IBM's Introduction to Cloud Development with HTML5, CSS3, & JavaScript](#CAD101EN)
   * [Introduction to Programming for the Cloud](#CAD-Mod01)
   * [HTML5 and CSS3](#CAD-Mod02)
@@ -41,8 +41,8 @@ https://github.com/bbauska/Table-of-Contents-WIP.git
     + [JavaScript: Functions & Prototypes](#CAD-Mod04-3)
     + [Client-Side: JavaScript with HTML](#CAD-Mod04-4)
     + [Client-Side: JavaScript with DOM](#CAD-Mod04-5)
-    + [JavaScript DOM Objects)(#CAD-Mod04-6)
-    + [JavaScript APIs)(#CAD-Mod04-7)
+    + [JavaScript DOM Objects](#CAD-Mod04-6)
+    + [JavaScript APIs](#CAD-Mod04-7)
   * [GitHub](#CAD-Mod05)
   
 # Heading levels
