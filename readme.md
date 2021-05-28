@@ -100,6 +100,21 @@ Top across then down, like rows
 <li>Ladder</li>
 </ul>
 
+<p4>Where do you start?</p4>
+When performing a re-shingling project, the first step is to know the type of material that you will be working on. Of course, you need to match it with the previously installed roofing system. If you change your mind and want a different roofing system, it will be a case for replacement.
+
+In terms of cost and duration of the project, it varies depending on the size of your roof and choice of material. If it is more complicated to install, then it would take longer.
+
+<h4>Here is a quick rundown of the different types of roofing shingles:</h4>
+<ul?
+<li>Asphalt-based shingle: It is durable (can last up to 15 to 30 years), attractive, and eco-friendly. However, its protective granules may dislodge and decay due to harsh weather conditions. It also least expensive costing only about $1 to $4 per square foot.</li>
+<li>Slate: Made from traditional stones, these are durable, long-lasting, and fireproof. They are expensive and difficult to install but could, later on, increase your property’s resale value. There is also an option to go for synthetic slates which are more lightweight and less expensive.
+<li>Wood: It is rust-proof, long-lasting, and classic. Treatments are needed to prevent infestations. It costs more or less $7 per square foot.
+<li>Solar: Labor and materials are a huge long-term investment. In fact, it costs as much as $21 per square foot. However, solar shingles could lower electricity costs up to 60%.</li>
+<li>Copper: As a metal composition, this is highly wind and fire resistant. It can decrease energy cost but could not filter external noise. This is also on the pricier side at it costs more or less $15 per square foot.</li>
+<li>Fiberglass: This is lightweight and cost-effective ($4 to $5 per square foot). However, they are less durable than other types.</li>
+ </ul>
+ 
 <h4>Basic Step-by-Step Guide on How to Re-shingle a Roof</h4>
 <ol>
 You may follow this step-by-step guide on how to reshingle a roof. This is best executed by professionals so make sure to contact a trusted roofer for assistance. On the other hand, it is also good to know the process for your own guidance as a property owner.
@@ -113,39 +128,14 @@ Install a layer of roofing felt which will act as the base of the new shingles. 
 Make sure that the roofing felt strips slightly overlap each other. To finish it off, secure it with a nail or staple gun.
  <li>Step #4: Draw chalk lines</li>
 Using a chalk, draw lines to mark areas where you will place new shingles. Do not forget to measure from end to end for accuracy. In completing this step, take your time and aim for clear precise lines.
-
 The look of your new shingles lies on how carefully you have placed the markings. If done improperly, it might affect the overall look of your roof which is the opposite of what you want to achieve. In simpler terms, it will not look good.
-
  <li>Step #5: Prepare your new shingles</li>
 By the time you are finished marking the areas, you will be able to determine the number of shingles needed to replace old ones. Prepare the shingles for installation by removing the tabs using a knife.
-
  <li>Step #6: Install the shingles</li>
 When you are finally ready to lay the shingles, start by centering the first piece over the line markings. Afterwards, secure it with nails on each corner. Place the next shingle beside it until the first row of shingles is filled. Repeat the process for other areas of your roof.
 </ol>
-Conduct inspections of the house or building’s internal parts. Look for leaks, dark spots, or water stains on ceilings and walls. Then on the outside, see if there are cracked, curled, or missing shingles. You may also discover plant growth like molds or algae. Doing this will show you exact areas where re-shingling is needed. 
-Basic Step-by-Step Guide on How to Re-shingle a Roof
 
-As we have emphasized before, there is no such thing as a perfect roofing material. Roofs are exposed to natural and man-made elements causing damage over time. Yes, you can count on its promising features like durability, longevity, and many more. However, no matter how much you try to avoid it, there will come a time when you will need to confront repairs or replacements. In minor instances, basic roofing skills come handy. It is helpful to equip yourself with basic skills on how to fix your roof. That is why in this blog post, we will take you through the simplest process on how to reshingle a roof.
-
-Before we continue, we would like to make it clear that dealing with any roofing issue is a serious matter. While it is advantageous to know the basics, you and your family’s safety are still the top priority. No matter how minor the problem is, always consider talking to a roofing professional. They are equipped with the proper training to perform these tasks. Workmanship is also crucial for it can influence the performance and look of your roofing.
-
-<p4>Where do you start?</p4>
-When performing a re-shingling project, the first step is to know the type of material that you will be working on. Of course, you need to match it with the previously installed roofing system. If you change your mind and want a different roofing system, it will be a case for replacement.
-
-In terms of cost and duration of the project, it varies depending on the size of your roof and choice of material. If it is more complicated to install, then it would take longer.
-
-<ul>
-Here is a quick rundown of the different types of roofing shingles:
-
-<li>Asphalt-based shingle: It is durable (can last up to 15 to 30 years), attractive, and eco-friendly. However, its protective granules may dislodge and decay due to harsh weather conditions. It also least expensive costing only about $1 to $4 per square foot.</li>
-<li>Slate: Made from traditional stones, these are durable, long-lasting, and fireproof. They are expensive and difficult to install but could, later on, increase your property’s resale value. There is also an option to go for synthetic slates which are more lightweight and less expensive.
-<li>Wood: It is rust-proof, long-lasting, and classic. Treatments are needed to prevent infestations. It costs more or less $7 per square foot.
-<li>Solar: Labor and materials are a huge long-term investment. In fact, it costs as much as $21 per square foot. However, solar shingles could lower electricity costs up to 60%.</li>
-<li>Copper: As a metal composition, this is highly wind and fire resistant. It can decrease energy cost but could not filter external noise. This is also on the pricier side at it costs more or less $15 per square foot.</li>
-<li>Fiberglass: This is lightweight and cost-effective ($4 to $5 per square foot). However, they are less durable than other types.</li>
- </ul>
-
- <p5>What do you need?</p5>
+<p5>What do you need?</p5>
 
 <p>Important safety reminders
 We cannot emphasize enough how risky this task is. Aside from being difficult, you need to have the right skills to implement the re-shingling correctly. For starters, read about the safety measures you need to keep in mind and abide by to stay protected at all times.
@@ -159,6 +149,38 @@ Be mindful of your surroundings. Check if there are people passing by who might 
 Take caution at all times because a roofing job is risky and difficult.
  </body>
 </ul> 
+
+<h4>Layers to a roof</h4>
+<ul>
+ <li>1st Layer: Ice & Water Barrier Protection Underlay - Rhinoproof barrier next to the wood</li>
+Overview
+The self-adhered layer in a roof deck protection system provides a waterproof barrier for vulnerable areas on a roof. Whether the building is faced with wind-driven rain or the potential for ice damming, having a waterproof barrier will help provide protection for a long-lasting roof.
+
+RhinoRoof® Granulated self-adhered underlayment provides that essential waterproof barrier as a second line of defense against water mitigation. RhinoRoof® Granulated combined with a synthetic underlayment, such as RhinoRoof® U20 creates an underlayment system to protect the roof deck from eave to peak.
+ Ice & Water Barriers
+RhinoRoof® Granulated Self-Adhered Underlayment
+ <li><b>2nd Layer:</b> Underlayment</li>
+ Overview
+RhinoRoof® U20 Synthetic Roofing Underlayment
+ 
+ <li>3rd layer  Hip & Ridge Shingles</li>
+Berkshire® Hip & Ridge Shingles
+ 
+ <li>4th Starter Shingles</li>
+ 
+ Starter Shingles
+Starter Shingle Roll
+
+Eliminate the need for cutting shingle tabs or inverting them to create a starter row. Simply apply a single course of Starter Shingle Roll along a clean, dry and smooth eave line or rake edge after removing the release sheet.
+Starter Shingles
+Starter Strip Shingle
+
+Owens Corning™ Starter Strip Shingle helps save time by eliminating the need to cut shingles to create a starter row.
+Starter Shingles
+Starter Strip Plus Shingle
+
+Starter Strip Plus Shingle helps save time by eliminating the need to cut shingles to create a starter row. Starter Strip Plus Shingle is packaged two pieces per shingle, and perforated down the center for easy separation.
+ <li>5th
 <hr size="8" width="90%" color="green">
 <!--------------------------------------------------------------------->
 <h3 id="find-store">Find a Store</h3>
