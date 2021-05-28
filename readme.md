@@ -152,35 +152,75 @@ Take caution at all times because a roofing job is risky and difficult.
 
 <h4>Layers to a roof</h4>
 <ul>
- <li>1st Layer: Ice & Water Barrier Protection Underlay - Rhinoproof barrier next to the wood</li>
+ <li><h5>1st Layer:</h5> Ice & Water Barrier Protection Underlay - Rhinoproof barrier next to the wood</li>
 Overview
 The self-adhered layer in a roof deck protection system provides a waterproof barrier for vulnerable areas on a roof. Whether the building is faced with wind-driven rain or the potential for ice damming, having a waterproof barrier will help provide protection for a long-lasting roof.
 
 RhinoRoof® Granulated self-adhered underlayment provides that essential waterproof barrier as a second line of defense against water mitigation. RhinoRoof® Granulated combined with a synthetic underlayment, such as RhinoRoof® U20 creates an underlayment system to protect the roof deck from eave to peak.
  Ice & Water Barriers
 RhinoRoof® Granulated Self-Adhered Underlayment
- <li><b>2nd Layer:</b> Underlayment</li>
- Overview
+ <li>2nd Layer: Underlayment</li>
+ Overview Underlayment Products
+Deck Defense® High Performance Synthetic Roof Underlayment
+Deck Defense® High Performance Synthetic Roof Underlayment features a durable construction that works with your shingles to help shield your home from moisture infiltration.
+ProArmor® Synthetic Roof Underlayment
+Owens Corning® ProArmor® Synthetic Roof Underlayment with Fusion Back Coating Technology™ is strong, durable and repels water unlike #15 felt. It’s also light, easy to install and contributes to safe working conditions.
+Fiberglas™ Reinforced Felt Underlayment
+Fiberglas™ Reinforced Felt Underlayment adds an extra layer of protection beneath the shingles, helping prevent moisture from reaching the roof deck.
 RhinoRoof® U20 Synthetic Roofing Underlayment
+RhinoRoof® U20 is 12 times stronger than #30 felt and offers excellent wind resistance and durability through heavy roof traffic and adverse weather conditions.
+Titanium® UDL25, UDL30, & UDL50 Synthetic Roofing Underlayment
+Titanium® X30 Premium Synthetic Underlayment
  
- <li>3rd layer  Hip & Ridge Shingles</li>
+ <li>3rd Layer:  Hip & Ridge Shingles</li>
 Berkshire® Hip & Ridge Shingles
+ Overview
+
+Specifically designed for use with Berkshire® Collection Shingles, Berkshire® Hip & Ridge Shingles provide a sophisticated finishing element.
+
+    Berkshire® Hip & Ridge Shingles features our patented SureNail® Technology with Triple Layer protection®. SureNail® Technology adds a layer of reinforcing fabric in the nailing zone.
+    Thickness, proportion and color selection reminiscent of natural slate
+    Limited lifetime warranty*/† based on the coverage of the Berkshire® Shingle installed
+    Berkshire® Hip & Ridge Shingles are required for the 15-year Algae Resistance Warranty* on Berkshire® Collection Shingles
  
- <li>4th Starter Shingles</li>
+ <li>4th Layer: Starter Shingles</li>
  
  Starter Shingles
 Starter Shingle Roll
 
 Eliminate the need for cutting shingle tabs or inverting them to create a starter row. Simply apply a single course of Starter Shingle Roll along a clean, dry and smooth eave line or rake edge after removing the release sheet.
-Starter Shingles
 Starter Strip Shingle
 
 Owens Corning™ Starter Strip Shingle helps save time by eliminating the need to cut shingles to create a starter row.
-Starter Shingles
 Starter Strip Plus Shingle
 
 Starter Strip Plus Shingle helps save time by eliminating the need to cut shingles to create a starter row. Starter Strip Plus Shingle is packaged two pieces per shingle, and perforated down the center for easy separation.
- <li>5th
+
+ <li>5th Layer: Deck Seal</li>
+ Overview
+  The DeckSeal Self-Adhered Roofing System is an excellent solution for low slope applications* 1/4:12 to 2:12 on residential re-roofing jobs.
+
+The Owens Corning® DeckSeal Roofing System offers numerous advantages over competitive low slope products:
+
+    Dual Compound Formulation to meet the performance needs of different layers:
+    - Top coat compound provides excellent granule adhesion
+    - Back coat compound provides aggressive adhesion to the substrate
+    Granule free adhesive selvage edge on both the side and end laps
+    Attractive colors that complement popular shingle offerings
+    Peace of mind that one trusted manufacturer warrants** both shingles and low slope roofing components
+
+The versatile DeckSeal Roofing System can be applied as either a 2 or 3 ply system providing excellent protection to meet a range of customer needs. 
+ 
+ Properly ventilating your attic is one of the best ways to increase the longevity and performance of your roof. As part of a VentSure® Balanced Air Ventilation System of intake and exhaust, the VentSure® InFlow® Vent helps reduce heat and moisture buildup that can lead to ice damming and roof deterioration. The InFlow® Vent is an ideal solution for roofs without soffits or used as a supplemental intake on roofs requiring additional ventilation. Keeping your attic well-ventilated may even reduce your energy costs.*
+
+    Durable construction for long-lasting performance
+    A bottom-intake design that helps protect against wind-driven rain up to 110 MPH
+    An ideal solution for soffit-less, exposed-rafter homes and homes without adequate air intake
+    Helps minimize the impact of ice damming
+    Blends into roofline with a low-profile design
+    Complements VentSure® Ridge Vents for balanced intake and exhaust
+
+As a key component of a VentSure® Balanced Air Ventilation System, the VentSure® vents are an essential part of the Total Protection Roofing System^. 
 <hr size="8" width="90%" color="green">
 <!--------------------------------------------------------------------->
 <h3 id="find-store">Find a Store</h3>
