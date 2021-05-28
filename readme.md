@@ -103,6 +103,29 @@ Top across then down, like rows
 <ol>
  <li>1. Inspect for damage to roof</li>
 </ol>
+  <h4>Basic Step-by-Step Guide on How to Re-shingle a Roof</h4>
+
+You may follow this step-by-step guide on how to reshingle a roof. This is best executed by professionals so make sure to contact a trusted roofer for assistance. On the other hand, it is also good to know the process for your own guidance as a property owner.
+<ul>
+<li>Step #1: Inspect your damaged roof</li>
+Conduct inspections of the house or building’s internal parts. Look for leaks, dark spots, or water stains on ceilings and walls. Then on the outside, see if there are cracked, curled, or missing shingles. You may also discover plant growth like molds or algae. Doing this will show you exact areas where re-shingling is needed.
+Basic Step-by-Step Guide on How to Re-shingle a Roof Getting to your roof is a tricky job and should be done with all safety measures. As we have stated, the general rule is to have a roofing professional assess any kind of damage before you proceed with re-roofing or re-shingling.
+ <li>Step #2: Remove or conceal broken shingles</li>
+When you have successfully identified which shingles should be replaced, it is now the time to prep the area where you will place them. Remove old and damaged shingles by carefully lifting them up one by one. Clear the area by brushing off any excess product. If you see holes, you also need to conceal them by nailing aluminum flashing. This will cover it completely to prevent penetration of moisture.
+ <li>Step #3: Install roofing felt</li>
+Install a layer of roofing felt which will act as the base of the new shingles. This waterproof membrane is an important part of the process. It will prevent moisture penetration when it rains. The absence of a roofing felt will promote plant growth and may shorten your roofing’s lifespan.
+Make sure that the roofing felt strips slightly overlap each other. To finish it off, secure it with a nail or staple gun.
+ <li>Step #4: Draw chalk lines</li>
+Using a chalk, draw lines to mark areas where you will place new shingles. Do not forget to measure from end to end for accuracy. In completing this step, take your time and aim for clear precise lines.
+
+The look of your new shingles lies on how carefully you have placed the markings. If done improperly, it might affect the overall look of your roof which is the opposite of what you want to achieve. In simpler terms, it will not look good.
+
+ <li>Step #5: Prepare your new shingles</li>
+By the time you are finished marking the areas, you will be able to determine the number of shingles needed to replace old ones. Prepare the shingles for installation by removing the tabs using a knife.
+
+ <li>Step #6: Install the shingles</li>
+When you are finally ready to lay the shingles, start by centering the first piece over the line markings. Afterwards, secure it with nails on each corner. Place the next shingle beside it until the first row of shingles is filled. Repeat the process for other areas of your roof.
+
 Conduct inspections of the house or building’s internal parts. Look for leaks, dark spots, or water stains on ceilings and walls. Then on the outside, see if there are cracked, curled, or missing shingles. You may also discover plant growth like molds or algae. Doing this will show you exact areas where re-shingling is needed. 
 Basic Step-by-Step Guide on How to Re-shingle a Roof
 
@@ -127,7 +150,6 @@ Here is a quick rundown of the different types of roofing shingles:
  </ul>
 
  <p5>What do you need?</p5>
-Basic Step-by-Step Guide on How to Re-shingle a Roof
 
 <p>Important safety reminders
 We cannot emphasize enough how risky this task is. Aside from being difficult, you need to have the right skills to implement the re-shingling correctly. For starters, read about the safety measures you need to keep in mind and abide by to stay protected at all times.
@@ -140,28 +162,6 @@ Do not carry too many tools as it may strain your back. Bring handy tools and av
 Be mindful of your surroundings. Check if there are people passing by who might get hit by falling debris. It is also helpful to put a signage to warn other people that there is an ongoing construction.
 Take caution at all times because a roofing job is risky and difficult.
  </body>
-  <h4>Basic Step-by-Step Guide on How to Re-shingle a Roof</h4>
-
-You may follow this step-by-step guide on how to reshingle a roof. This is best executed by professionals so make sure to contact a trusted roofer for assistance. On the other hand, it is also good to know the process for your own guidance as a property owner.
-<ul>
-<li>Step #1: Inspect your damaged roof</li>
-Conduct inspections of the house or building’s internal parts. Look for leaks, dark spots, or water stains on ceilings and walls. Then on the outside, see if there are cracked, curled, or missing shingles. You may also discover plant growth like molds or algae. Doing this will show you exact areas where re-shingling is needed.
-Basic Step-by-Step Guide on How to Re-shingle a Roof Getting to your roof is a tricky job and should be done with all safety measures. As we have stated, the general rule is to have a roofing professional assess any kind of damage before you proceed with re-roofing or re-shingling.
- <li>Step #2: Remove or conceal broken shingles</li>
-When you have successfully identified which shingles should be replaced, it is now the time to prep the area where you will place them. Remove old and damaged shingles by carefully lifting them up one by one. Clear the area by brushing off any excess product. If you see holes, you also need to conceal them by nailing aluminum flashing. This will cover it completely to prevent penetration of moisture.
- <li>Step #3: Install roofing felt</li>
-Install a layer of roofing felt which will act as the base of the new shingles. This waterproof membrane is an important part of the process. It will prevent moisture penetration when it rains. The absence of a roofing felt will promote plant growth and may shorten your roofing’s lifespan.
-Make sure that the roofing felt strips slightly overlap each other. To finish it off, secure it with a nail or staple gun.
- <li>Step #4: Draw chalk lines</li>
-Using a chalk, draw lines to mark areas where you will place new shingles. Do not forget to measure from end to end for accuracy. In completing this step, take your time and aim for clear precise lines.
-
-The look of your new shingles lies on how carefully you have placed the markings. If done improperly, it might affect the overall look of your roof which is the opposite of what you want to achieve. In simpler terms, it will not look good.
-
- <li>Step #5: Prepare your new shingles</li>
-By the time you are finished marking the areas, you will be able to determine the number of shingles needed to replace old ones. Prepare the shingles for installation by removing the tabs using a knife.
-
- <li>Step #6: Install the shingles</li>
-When you are finally ready to lay the shingles, start by centering the first piece over the line markings. Afterwards, secure it with nails on each corner. Place the next shingle beside it until the first row of shingles is filled. Repeat the process for other areas of your roof.
 </ul> 
 <hr size="8" width="90%" color="green">
 <!--------------------------------------------------------------------->
