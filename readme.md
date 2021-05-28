@@ -99,9 +99,9 @@ Top across then down, like rows
 <li>Nail/Staple Gun</li>
 <li>Ladder</li>
 </ul>
-<ol>
-<h4>Basic Step-by-Step Guide on How to Re-shingle a Roof</h4>
 
+<h4>Basic Step-by-Step Guide on How to Re-shingle a Roof</h4>
+<ol>
 You may follow this step-by-step guide on how to reshingle a roof. This is best executed by professionals so make sure to contact a trusted roofer for assistance. On the other hand, it is also good to know the process for your own guidance as a property owner.
 <li>Step #1: Inspect your damaged roof</li>
 Conduct inspections of the house or building’s internal parts. Look for leaks, dark spots, or water stains on ceilings and walls. Then on the outside, see if there are cracked, curled, or missing shingles. You may also discover plant growth like molds or algae. Doing this will show you exact areas where re-shingling is needed.
