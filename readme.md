@@ -100,6 +100,9 @@ Top across then down, like rows
 <li>Ladder</li>
 </ul>
 
+<h4>Re-Roof Over Existing Shingles</h4>
+https://youtu.be/PuRoELYoUKY
+<br>
 <h4>Where do you start?</h4>
 <p>
 When performing a re-shingling project, the first step is to know the type of material that you will be working on. Of course, you need to match it with the previously installed roofing system. If you change your mind and want a different roofing system, it will be a case for replacement.
