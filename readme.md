@@ -55,7 +55,6 @@ https://github.com/bbauska/Table-of-Contents-WIP.git
    ![image](https://user-images.githubusercontent.com/41387907/120022701-a2637900-bfa1-11eb-942d-100dff41a4b6.png)
 
 <!--------------------------------------------------------------------->
-
 <h2 id="web-programming-with-js-python">cs50 - Web Programming with JavaScript and Python</h2>
 
 <h3 id="git">git</h3>
@@ -88,7 +87,7 @@ https://github.com/bbauska/Table-of-Contents-WIP.git
 Up and down like columns, or<br>
 Top across then down, like rows
  </p>
-  * [Roofing Basics](#roofing-basics)
+<h3 id="roofing-basics">Roofing Basics</h3>
   * [Find Store](#find-store)
   * [Pick Your Shingles](#pick-your-shingles)
   * [Find-Contractor](#Find-contractor)
