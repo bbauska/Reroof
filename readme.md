@@ -50,6 +50,8 @@ https://github.com/bbauska/Table-of-Contents-WIP.git
 <h2 id="cb-pro">Coinbase Pro Running Balance</h2>
     5/28/2021 10:34am 
     ![image](https://user-images.githubusercontent.com/41387907/120022505-587a9300-bfa1-11eb-82f4-35286177afd4.png)
+    ![image](https://user-images.githubusercontent.com/41387907/120022701-a2637900-bfa1-11eb-942d-100dff41a4b6.png)
+
 
 
 <h2 id="web-programming-with-js-python">cs50 - Web Programming with JavaScript and Python</h2>
