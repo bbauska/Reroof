@@ -49,7 +49,7 @@ https://github.com/bbauska/Table-of-Contents-WIP.git
 
 <h2 id="web-programming-with-js-python">cs50 - Web Programming with JavaScript and Python</h2>
 
-    <h3 id="git">git</h3>
+<h3 id="git">git</h3>
 
     <h3 id="html-css">HTML/CSS</h3>
 
