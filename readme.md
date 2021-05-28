@@ -23,7 +23,7 @@ https://github.com/bbauska/Table-of-Contents-WIP.git
   * [Another roofing header](#roofing-sub-99)
     + [Roofing Sub Sub Heading 1](#roofing-sub-sub-heading-1)
     + [Roofing Sub Sub Heading 2](#roofing-sub-sub-heading-2)
-- [CC0101EN - IBM's Intro to Cloud Computing](#CC0101EN)
+- [CC0101EN: IBM's Intro to Cloud Computing](#CC0101EN)
   * [Overview](#CC-Overview)
   * [Cloud Adoption and Emerging Technologies](#CC-2)
   * [Cloud Computing Service & Deployment Models](#CC-3)
