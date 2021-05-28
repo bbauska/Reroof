@@ -24,6 +24,7 @@ https://github.com/bbauska/Table-of-Contents-WIP.git
   * [Consumer Reports - How to Shop for Roofing Shingles](#consumer-reports)
     + [Roofing Shingles](#cr-roofing-shingles)
     + [Roofing Part II](#cr-roofing-part-2)
+  * [How to Lay Shingles](#how-to-lay-shingles)
 - [CC0101EN: IBM's Intro to Cloud Computing](#CC0101EN)
   * [Overview](#CC-Overview)
   * [Cloud Adoption and Emerging Technologies](#CC-2)
@@ -273,7 +274,24 @@ As a key component of a VentSure® Balanced Air Ventilation System, the VentSure
 <h3 id="roofing-components">Roofing Components (or, what makes up a roof?)</h3>
 <hr size="8" width="90%" color="green">
 <!--------------------------------------------------------------------->
+ <h3 id="how-to-lay-shingles">How to Lay Shingles</h2>
+ <ol>
+  <li>1. Size your shingles appropriately.</li>
+Depending on how you're going to organize your rows and courses, some roofers like to cut five variable sizes of shingles when using the basic three-tab variety. Basically, you'll cut off one-half tab-width of the first tab to start the first course, changing the necessary area to fill with each row, shifting the "slots." 
 
+  https://www.wikihow.com/images/thumb/3/31/Lay-Shingles-Step-2-Version-2.jpg/aid1169300-v4-728px-Lay-Shingles-Step-2-Version-2.jpg.webp
+  Usually, the following cuts are useful:
+  <ul>
+   <li>A half tab off for your first course shingles,</li>
+   <li>A full tab for your second course shingles</li>
+   <li>1.5 tabs off of your third course shingles,</li>
+   <li>2 tabs off your fourth course shingles</li>
+   <li>For your fifth course, cut off half of the final tab</li>
+   <li>Keep your sixth course tabs intact</li>
+  <li>Lay a starting row at the bottom of the roof along the edge.</li>
+[1] Place nails in the three tab shingles about 3/4 inch (1.8 centimeters) above the cutouts, near where the tab meets the upper part of the shingle. However, make sure that you do not nail into the tar strip. Also place a nail 2 inches from each end of the shingle, in line with the other two. In all, use four nails per 3-tab shingle.
+Nailing here will cause the next shingle to cover the nail heads and allow the next and subsequent rows of nails in shingles to always penetrate and hold the top edge of the lower row (this allows 8 nails to hold each shingle).
+If the nail gun is firing too deeply, almost mashing through the shingles, then the nails will soon pull through and come loose. Set the air compressor and gun depth setting lower.
 <!--------------------------------------------------------------------->
 <h2 id="CC0101EN">CC0101EN: IBM's Introduction to Cloud Computing</h2>
 
