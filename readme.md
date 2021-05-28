@@ -100,11 +100,12 @@ Top across then down, like rows
 <li>Ladder</li>
 </ul>
 
-<p4>Where do you start?
+<h5>Where do you start?</h5>
+<p>
 When performing a re-shingling project, the first step is to know the type of material that you will be working on. Of course, you need to match it with the previously installed roofing system. If you change your mind and want a different roofing system, it will be a case for replacement.
 
 In terms of cost and duration of the project, it varies depending on the size of your roof and choice of material. If it is more complicated to install, then it would take longer.
-</p4>
+</p>
 <h4>Here is a quick rundown of the different types of roofing shingles:</h4>
 <ul?
 <li>Asphalt-based shingle: It is durable (can last up to 15 to 30 years), attractive, and eco-friendly. However, its protective granules may dislodge and decay due to harsh weather conditions. It also least expensive costing only about $1 to $4 per square foot.</li>
