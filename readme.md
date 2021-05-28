@@ -99,8 +99,8 @@ Nail/Staple Gun
 Ladder
 <h5>Steps to Re-Shingle</h5>
 <ol>
-1. Inspect for damage to roof
-
+ <li>1. Inspect for damage to roof</li>
+</ol>
 Conduct inspections of the house or building’s internal parts. Look for leaks, dark spots, or water stains on ceilings and walls. Then on the outside, see if there are cracked, curled, or missing shingles. You may also discover plant growth like molds or algae. Doing this will show you exact areas where re-shingling is needed. 
 Basic Step-by-Step Guide on How to Re-shingle a Roof
 
@@ -136,16 +136,17 @@ These are the basic materials needed to perform a re-shingling project:
 <li>Nail/Staple Gun</li>
 <li>Ladder</li>
  </ol>
-Important safety reminders
+<p>Important safety reminders
 We cannot emphasize enough how risky this task is. Aside from being difficult, you need to have the right skills to implement the re-shingling correctly. For starters, read about the safety measures you need to keep in mind and abide by to stay protected at all times.
-
+ </p>
+ <body>
 Wear proper attire complete with safety gears.
 Handle nail/staple gun properly. Keep it away from your body and always unplug/disconnect when not in use.
 Mount the ladder on an even surface and rest it against a solid structure. Make sure there are no debris or obstructions lying around that may move the ladder.
 Do not carry too many tools as it may strain your back. Bring handy tools and avoid taking materials that you do not need.
 Be mindful of your surroundings. Check if there are people passing by who might get hit by falling debris. It is also helpful to put a signage to warn other people that there is an ongoing construction.
 Take caution at all times because a roofing job is risky and difficult.
-
+ </body>
   <h4>Basic Step-by-Step Guide on How to Re-shingle a Roof</h4>
 
 You may follow this step-by-step guide on how to reshingle a roof. This is best executed by professionals so make sure to contact a trusted roofer for assistance. On the other hand, it is also good to know the process for your own guidance as a property owner.
