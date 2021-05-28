@@ -88,13 +88,12 @@ Up and down like columns, or<br>
 Top across then down, like rows
  </p>
 <h3 id="roofing-basics">Roofing Basics</h3>
-  * [Find Store](#find-store)
-  * [Pick Your Shingles](#pick-your-shingles)
-  * [Find-Contractor](#Find-contractor)
-  * [Total Protection](#total-protection-roof-system)
-  * [Roofing Components](#roofing-components)
+<h3 id="find-store">Find a Store</h3>
+<h3 id="pick-your-shingles">Pick Your Shingles</h3>
+<h3 id="find-contractor">Find Contractor</h3>
+<h3 id="total-protection-roof-system">Total Protection Roof System</h3>
+<h3 id="roofing-components">Roofing Components (or, what makes up a roof?)</h3>
 
-<h3 id="roof-components">Roof Components</h3>
 <!--------------------------------------------------------------------->
 
 <h2 id="CC0101EN">CC0101EN: IBM's Introduction to Cloud Computing</h2>
