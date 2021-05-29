@@ -323,7 +323,7 @@ You can either use special shingles called ridge shingles or cut a number of reg
  <h4>Using Alternate Patterns</h4>
  ![image](https://user-images.githubusercontent.com/41387907/120051234-b1175380-bfd4-11eb-87ac-6263de99402a.png)
 
- <h4>Understanding the Basic Patterns</h4>
+ <h4>1. Understanding the Basic Patterns</h4>
   You'll get the most life out of your shingles and your roof by laying them in a smart pattern. The basic straight up pattern already described is perhaps the easiest and most commonly used, but professional roofers have different opinions about the most proper and efficient method of laying the shingles to get the most life out of them, which differ slightly in the amount of overlap and the pattern in which you install them. 
  The basic patterns include:
  <ul>
@@ -332,6 +332,25 @@ You can either use special shingles called ridge shingles or cut a number of reg
 <li>4-inch offset</li>
 <li>5-inch offset</li>
  </ul>
+ 
+ ![image](https://user-images.githubusercontent.com/41387907/120051730-9a71fc00-bfd6-11eb-9311-2b1fbac19c3c.png)
+ <h4>2. Stagger each course to achieve the half pattern.</h4>
+All the other patterns work in essentially the same way, offsetting the courses by a particular amount. For the 6-inch or "half" offset, you can protect butt joints and horizontally-moving water by starting a new course 6-inches in every row. Every seventh course, the butt joints will realign and offer stability and protection.
+ ![image](https://user-images.githubusercontent.com/41387907/120051762-d1481200-bfd6-11eb-951d-c8931de20417.png)
+
+ <h4>3. Consider four and five inch offsets for added protection.</h4>
+The method is exactly the same, though the measurement of the offset is slightly different. In an offset of four inches, standard shingles will realign every ten courses, while the five inch offsets will realign every eight. Understanding the benefits of each will help you decide which method to use for your roof:
+The short overlap of the four inch offset is somewhat easier, allowing you to use cutouts to overlap every two courses, making less work for you. Unfortunately, because of this, the pattern is less desirable for extremely cold climates or very wet places.
+For most DIY roofers, the five-inch offset is the most desirable pattern. It offers the most protection per shingle, making it much less likely that runoff will cut through the in-betweens, hiding shingle irregularities, and getting the most bang for your buck.
+![image](https://user-images.githubusercontent.com/41387907/120051831-2f74f500-bfd7-11eb-8f53-e514a247c081.png)
+
+ <h4>4. Consider "racking" shingles until you reach the top on each side.</h4>
+The racking technique uses two sizes of the first shingle of each row, the regular 3 tab pieces and shortened pieces for each end, working vertically rather than horizontally. It goes much faster, allowing you to keep your tools next to you as you work and avoiding having to constantly reposition.
+ 
+Racking shingles sometimes also may create a condition called "pattern curling," where the shingles curl and blow in the wind, at the places where the racked columns join, because of lifting the end of a shingle to place the next shingle and lifting the end high enough to nail the next shingle underneath each of the overlapping shingles. This curling may lead to water getting under shingles, leaking at the places where racked columns meet.
+ <br>
+In some cases, racking may void the manufacturer's warranty on the expected leak-proofing quality and useful life of some brands of shingles. It's a common practice among contractors.
+ 
  
  
  
