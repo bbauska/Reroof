@@ -294,6 +294,7 @@ Depending on how you're going to organize your rows and courses, some roofers li
    <li>For your fifth course, cut off half of the final tab</li>
    <li>Keep your sixth course tabs intact</li>
   </ul>
+  
   ![image](https://user-images.githubusercontent.com/41387907/120050966-9a243180-bfd3-11eb-9048-77f382016542.png)
 
   <li>Lay a starting row at the bottom of the roof along the edge.</li>
