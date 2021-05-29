@@ -446,10 +446,8 @@ Figure 2-16 re roofing starter course (C) J Wiley, S BlissIf laying three-tab sh
 This process starts with a 5-inch starter strip fit along the eaves and set against the second course of existing shingles (see Figure 2-16).
 
 DF Notes:
-
-Notice that in re-roofing the starter strip is an inch less in width than when installing new shingles over a fresh roof-deck, shown in our asphalt shingle roofing guide
-
-at ASPHALT SHINGLE STARTER COURSE INSTALLATION
+<mark>
+Notice that in re-roofing the starter strip is an inch less in width than when installing new shingles over a fresh roof-deck, shown in our asphalt shingle roofing guide at ASPHALT SHINGLE STARTER COURSE INSTALLATION.</mark>
 
 That's to avoid a raised ridge and to let the new full shingle course lay flat atop the original shingles. In essence when I [DJF] installed shingles over an existing roof, for maximum roof life I want the shingles to lay flat - raised ridges in asphalt shingle mean bending that means wear that means shorter shingle life.
 
@@ -478,6 +476,10 @@ Unless a metal valley flashing is used, the first step is to line the existing v
  <h3>Asphalt Shingle Types</h3>
  
  ![image](https://user-images.githubusercontent.com/41387907/120084914-1167cd00-c089-11eb-8f4a-5c6ba0470ae5.png)
+ 
+<h4>Dip Edge Flashing</h4>
+
+ ![image](https://user-images.githubusercontent.com/41387907/120085152-84be0e80-c08a-11eb-8446-0f340f7eb5ee.png)
 
  <br>
  
