@@ -346,8 +346,10 @@ Cement a sheet metal flashing apron over the upper edge of the chimney flange be
 
   <li>Bring the ridge edges together with a ridge-capping layer.</li>
 You can either use special shingles called ridge shingles or cut a number of regular shingles into 3 tabbed, equal pieces and bend each so they fit snugly on the roof peak and nail them into place. You'll need longer nails for this part, as you're driving through more layers of shingles.
-  
+
+<!--------
 ![image](https://user-images.githubusercontent.com/41387907/120051147-5120ad00-bfd4-11eb-8017-cb6d5b424a7c.png)
+--------->
  </ol>
  <h4>Using Alternate Patterns</h4>
 
