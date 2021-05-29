@@ -392,6 +392,21 @@ In some cases, racking may void the manufacturer's warranty on the expected leak
  
 https://youtu.be/FdLahiPBWWs
  
+<h4>Tier 1 Shingle Makers</h4>
+<ul>
+<li>Atlas</li>
+<li>Owens-Corning</li>
+<li>CertainTeed</li>
+<li>Malarkey</li>
+</ul>
+ <h4>Tier 2 Shingle Makers</h4>
+<ul>
+ <li>Pabco</li>
+ <li>Ico</li>
+ <li>Tamco</li>
+ <li>BP</li>
+ <li>Private Labels</li>
+ </ul>
 <!--------------------------------------------------------------------->
 <h2 id="CC0101EN">CC0101EN: IBM's Introduction to Cloud Computing</h2>
 
