@@ -52,8 +52,10 @@ https://github.com/bbauska/Table-of-Contents-WIP.git
 <h2 id="cb-pro">Coinbase Pro Running Balance</h2>
     SNAPSHOT 5/28/2021 10:34am<br>
     Portfolio > 100 $:
-    ![image](https://user-images.githubusercontent.com/41387907/120022505-587a9300-bfa1-11eb-82f4-35286177afd4.png)
+
+![image](https://user-images.githubusercontent.com/41387907/120022505-587a9300-bfa1-11eb-82f4-35286177afd4.png)
    Price / Coin Pd:
+   
    ![image](https://user-images.githubusercontent.com/41387907/120022701-a2637900-bfa1-11eb-942d-100dff41a4b6.png)
 <hr size="8" width="90%" color="green">
 <!--------------------------------------------------------------------->
@@ -126,7 +128,7 @@ Within asphalt, there’s a lot to consider.
 <li>architectural, and </li>
 <li>multilayered</li>
 </ul>
-(all of which you’ll find in our ratings, available to subscribers). In our recent strength tests on products from six manufacturers, we found that the most costly type—multilayered architectural shingles, typically with three to four layers that overlap—generally performs better overall than other styles.
+In our recent strength tests on products from six manufacturers, we found that the most costly type—multilayered architectural shingles, typically with three to four layers that overlap—generally performs better overall than other styles.
 But our testing also revealed lower-cost options with fewer layers that still perform admirably. “For most homes, a top-performing three-tab, which has only one layer, or architectural laminated shingles will work just fine,” says Misha Kollontai, who leads CR’s tests of roofing products.
 What’s more, you can find savings among similarly rated multilayered architectural laminated shingles. For instance, Iko Crowne Slate costs $180 per 100 square feet—a standard roofing quantity—compared with CertainTeed Presidential Shake at $325. That’s an 81 percent price difference for similar performance.
 
@@ -166,7 +168,7 @@ By the time you are finished marking the areas, you will be able to determine th
 When you are finally ready to lay the shingles, start by centering the first piece over the line markings. Afterwards, secure it with nails on each corner. Place the next shingle beside it until the first row of shingles is filled. Repeat the process for other areas of your roof.
 </ol>
 
-<p5>What do you need?</p5>
+<h4>What do you need?</h4>
 
 <p>Important safety reminders
 We cannot emphasize enough how risky this task is. Aside from being difficult, you need to have the right skills to implement the re-shingling correctly. For starters, read about the safety measures you need to keep in mind and abide by to stay protected at all times.
@@ -179,7 +181,6 @@ Do not carry too many tools as it may strain your back. Bring handy tools and av
 Be mindful of your surroundings. Check if there are people passing by who might get hit by falling debris. It is also helpful to put a signage to warn other people that there is an ongoing construction.
 Take caution at all times because a roofing job is risky and difficult.
  </body>
-</ul> 
 
 <h4>Layers to a roof</h4>
 <ul>
