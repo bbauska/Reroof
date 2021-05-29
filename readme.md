@@ -418,7 +418,65 @@ https://youtu.be/FdLahiPBWWs
  Step 1 - Drip Edge (flashing)<br>
  Step 2 - Felt Paper<br>
  Step 3 - 3-tab 36" shingles with 5" reveal and 1/2" overlap at roof edge<br>
-  
+ 
+ <h3 id="reroof"?Re-Roofing Asphalt Shingles</h3>
+Shingle Type Recommendations for Re-Roofing Asphalt Shingles
+
+The heavier the shingle on the new layer, the less likely it is that irregularities in the surface below will telegraph through.
+
+Laminated or other heavy-textured shingles work well, as they do not need to be carefully fitted to the existing shingles, and the irregular texture will conceal any small bumps or dips from the original roof.
+Prep Work for Re-Roofing Over Asphalt Shingles
+
+    Inspect the condition of the existing roof and roof deck for numer of roof layers, soundness of roof decking, smoothness of existing roof installation, and other factors that determine whether or not you can do a roof-over or if a roof shingle tear-off is required.
+
+    Our asphalt roof shingle layer photo (left) shows that this roof already has three layers of shingles installed - more layers are not permitted. More warnings are below at "When is it Dangerous to Roof-Over Existing Roof Coverings?". - Ed.
+    Watch for damaged or un-sound roof decking; investigate, strip shingles entirely, and replace roof sheathing as needed before proceeding with the roof-over on the rest of the roof.
+
+    If removal of shingles is required on some sections of a roof-over job, be sure that you properly build-up or shim meeting points between the removed-shingle area and the rest of the roof, so that the roof surface remains both cosmetically acceptable and so that you do not create a wear point in the new shingles that have to lap over these roof shingle thickness transitions. - Ed.
+    Clip any curled shingle corners and remove any curled tabs, replacing them with new shingle scraps as shims.
+    Install new drip edge on rakes and eaves. Specialty drip edge profiles designed for retrofitting wrap around the exposed roof edge, leaving a neat protected edge.
+    If the roof had no eaves flashing and one is needed, use a retrofit membrane such as AC Evenseal (NEI, Brentwood, New Hampshire).
+    If you have to remove all or part of the existing asphalt roof covering 
+
+<!---+++++++++++++++--->
+ <h4>Starter Course for Re-Roofing Asphalt Shingles</h4>
+
+Figure 2-16 re roofing starter course (C) J Wiley, S BlissIf laying three-tab shingles over three tab shingles, it is important to nest the new shingles against the old to create a flat surface as Friedman elaborates just below.
+
+This process starts with a 5-inch starter strip fit along the eaves and set against the second course of existing shingles (see Figure 2-16).
+
+DF Notes:
+
+Notice that in re-roofing the starter strip is an inch less in width than when installing new shingles over a fresh roof-deck, shown in our asphalt shingle roofing guide
+
+at ASPHALT SHINGLE STARTER COURSE INSTALLATION
+
+That's to avoid a raised ridge and to let the new full shingle course lay flat atop the original shingles. In essence when I [DJF] installed shingles over an existing roof, for maximum roof life I want the shingles to lay flat - raised ridges in asphalt shingle mean bending that means wear that means shorter shingle life.
+
+So the upper edge of each new shingle course butts against the lower edge of the appropriate existing shingles on the roof above the course being installed. That will let the shingles lay flat on the roof. Only the first course needs support below - that's why we cut a special starter strip of more-narrow width than for a new roof installation.
+
+The special starter strip width is equal to the exposure width (usually 5") of the existing roof.
+
+Even before installing the starter strip or underlayment you should install drip edge flashing along all roof edges.
+
+See DRIP EDGE FLASHING for ROOFS
+
+Next install a course of shingles cut down to 10 inches wide, so they fit against the bottom edge of the existing third course (this creates a new 3-inch first course). After that, shingling should proceed normally, fitting each course up against the bottom of an existing course.
+Fastening / Nailing Details When Re-Roofing with Asphalt Shingles
+
+Use galvanized roofing nails long enough to fully penetrate the sheathing, typically 1-1/2 inches for a second roof and 1 3/4 inches for a third. Nesting each new row below an existing one keeps the new nails 2 inches below the existing, which will help minimize any splitting of the sheathing.
+Flashings for Re-Roofing Asphalt Shingles
+
+Depending on their condition and accessibility, some flashings can be reused. New shingles may be able to tuck under existing step flashing, chimney flashings, and front-wall flashings. If they are deteriorated, they must be replaced along with vent boots.
+
+See FLASHING ROOF WALL DETAILS and FLASHING ROOF-WALL SNAFU for specifications of roof-wall flashing and for some photo-examples of troubles with existing step and counter flashing when re-roofing an existing structure.
+Valley Details for Re-Roofing Asphalt Shingles
+
+Any type of valley flashing will work and simply lays over the existing flashing (except in a tear-off, where all flashings should be replaced).
+
+Unless a metal valley flashing is used, the first step is to line the existing valley with a new underlayment consisting of either 90-pound roll roofing or a more durable modified bitumen membrane. Then install either a closed or woven valley as described above.
+ 
+<hr size="8" width="90%" color="blue">
 <!--------------------------------------------------------------------->
 <h2 id="CC0101EN">CC0101EN: IBM's Introduction to Cloud Computing</h2>
 
@@ -431,7 +489,7 @@ https://youtu.be/FdLahiPBWWs
  </ul>
 <br>
 
- <hr size="28" width="90%" color="black">
+<hr size="8" width="90%" color="blue">
 <!--------------------------------------------------------------------->
 
 <h2 id="CAD101EN">CAD101EN: IBM's Introduction to Cloud Development with HTML5, CSS3, & JavaScript</h2>
