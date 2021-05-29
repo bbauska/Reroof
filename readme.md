@@ -407,6 +407,13 @@ https://youtu.be/FdLahiPBWWs
  <li>BP</li>
  <li>Private Labels</li>
  </ul>
+ Instructions on installing 3-tab and architectural shingles by roofingintelligence.com & this old house
+ <br>
+ Step 1 - Drip Edge (flashing)<br>
+ Step 2 - Felt Paper<br>
+ Step 3 - 3-tab 36" shingles with 5" reveal and 1/2" overlap at roof edge<br>
+ 
+ 
 <!--------------------------------------------------------------------->
 <h2 id="CC0101EN">CC0101EN: IBM's Introduction to Cloud Computing</h2>
 
