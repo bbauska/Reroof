@@ -92,14 +92,27 @@ Top across then down, like rows
 <h3 id="roofing-basics">Roofing Basics</h3>
 <h4>These are the basic materials needed to perform a re-shingling project:</h4>
 <ul>
-<li>Safety Gears (gloves, helmet, boots, etc.)</li>
-<li>Roofing Shingles</li>
-<li>Roofing Felt</li>
-<li>Chalk</li>
-<li>Utility Knife</li>
-<li>Nail/Staple Gun</li>
-<li>Ladder</li>
+ <li>Bundles of shingles</li>
+<li>Roofing nails</li>
+<li>Nailing-discs, for securing paper</li>
+<li>Hammers</li>
+<li>Pneumatic (air) nail gun (optional)</li>
+<li>Felt paper or other "underlayment" material for the shingles</li>
+<li>Tar or roofing cement</li>
+<li>Metal flashing</li>
+<li>Sheet metal</li>
+<li>Roofing blade. (They have a claw shape that makes it easier to cut through the shingles.)</li>
+<li>Chalk line</li>
+<li>Roof harness, brackets, toe boards, jacks (similar to shelves) or scaffolding system -- if the angle of the roof is high-pitched</li>
+<li>Fork or square shovel, for tear-off</li>
+<li>Drip edge</li>
+<li>Nails, coil nails</li>
+<li>Slap stapler</li>
+<li>Staples</li>
+<li>Tape measure</li>
+<li>Straight edge for cutting evenly</li>
 </ul>
+<!--------------------------------------------------------------------->
 
 <h4>Re-Roof Over Existing Shingles</h4>
 https://youtu.be/PuRoELYoUKY
@@ -115,7 +128,6 @@ Within asphalt, there’s a lot to consider.
 (all of which you’ll find in our ratings, available to subscribers). In our recent strength tests on products from six manufacturers, we found that the most costly type—multilayered architectural shingles, typically with three to four layers that overlap—generally performs better overall than other styles.
 But our testing also revealed lower-cost options with fewer layers that still perform admirably. “For most homes, a top-performing three-tab, which has only one layer, or architectural laminated shingles will work just fine,” says Misha Kollontai, who leads CR’s tests of roofing products.
 What’s more, you can find savings among similarly rated multilayered architectural laminated shingles. For instance, Iko Crowne Slate costs $180 per 100 square feet—a standard roofing quantity—compared with CertainTeed Presidential Shake at $325. That’s an 81 percent price difference for similar performance.
-
 
 <h4>Where do you start?</h4>
 <p>
@@ -367,8 +379,7 @@ Racking shingles sometimes also may create a condition called "pattern curling,"
  <br>
 In some cases, racking may void the manufacturer's warranty on the expected leak-proofing quality and useful life of some brands of shingles. It's a common practice among contractors.
  
- 
- 
+https://youtu.be/FdLahiPBWWs
  
 <!--------------------------------------------------------------------->
 <h2 id="CC0101EN">CC0101EN: IBM's Introduction to Cloud Computing</h2>
