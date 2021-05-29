@@ -439,9 +439,10 @@ https://youtu.be/FdLahiPBWWs
  <h3 id="CAD-Mod01">Introduction to Programming for the Cloud</h3>
  <h3 id="CAD-Mod02">HTML5 and CSS3</h3>
  <h4 id="CAD-Mod03">HTML5 Elements</h4>
- <h3 id="CAD-Mod03-1">HTML5 Tags & Structural Elements</h3>
- <h3 id="CAD-Mod03-2">HTML5 Input Element: Attributes for the Input Tag</h3>
-
+ <ul>
+  <li><h3 id="CAD-Mod03-1">HTML5 Tags & Structural Elements</h3></li>
+  <li><h3 id="CAD-Mod03-2">HTML5 Input Element: Attributes for the Input Tag</h3></li>
+ </ul>
  <h4 id="CAD-Mod04">JavaScript Programming for Web Applications</h4>
 
  <h3 id="CAD-Mod04-1">JavaScript Language: Overview & Syntax</h3>
