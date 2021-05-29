@@ -332,12 +332,14 @@ Alternatively, you can use a starting row of full-sized shingles by turning them
 Set the first shingle of the second row back a half tab, 6 inches (17 centimeters), from the edge of first shingle on the first row and so that the bottom of its tabs just touches the tops of the cutout slots on the shingle below. This 1/2 tab has to be cut off where it hangs off the left edge of the gable roof.
 Snap a vertical chalk line from the inside edge of the first shingle on the second row to the top of the roof, and from the inside edge of the first shingle to the top of the roof. These chalk lines will serve as a guide for subsequent even-numbered rows of shingles, and odd-numbered rows, respectively. Continue working horizontally up the roof until you reach the peaks.
 <br>
+  
 ![image](https://user-images.githubusercontent.com/41387907/120051039-ee2f1600-bfd3-11eb-8038-8b331a310805.png)
 
   <li>Shingle around stacks, vents and chimneys as necessary.</li>
 Nail pieces of aluminum sheeting over holes that you can stick your finger through to protect roofing over holes from sagging, dimpling, cracking and leaking.
 Stack pipes, vents and chimneys are surrounded with metal flashing laid over tar. Shingles should be interlaced with this flashing, which is usually cemented and nailed-down under upper shingles, but over the shingles on the sides. This is so water will run down the roof but not under the interlacing. For stacks and vents, have the bottom 2 or 3 rows that meet the flashing go under it, while the upper rows go over the flashing.
 <br>
+  
   ![image](https://user-images.githubusercontent.com/41387907/120051079-17e83d00-bfd4-11eb-8dd9-72e3edfd1578.png)
 
   <li>Interlace the flashing around the chimney with the rows of shingles.</li>
