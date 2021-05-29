@@ -425,9 +425,10 @@ https://youtu.be/FdLahiPBWWs
 <h3 id="Overview">Overview</h3>
 <h3 id="CC-2">Cloud Adoption and Emerging Technologies</h3>
 <h3 id="CC-3">Cloud Computing Service & Deployment Model</h3>
-    
-<h4 id="CC-3a-Service-Models">Service Models: IaaS, PaaS, Saas</h4>
-<h4 id="CC-3b-Deployment-Models">Deployment-Models: Public, Private, Hybrid</h4>
+<ul>
+ <li><h4 id="CC-3a-Service-Models">Service Models: IaaS, PaaS, Saas</h4></li>
+ <li><h4 id="CC-3b-Deployment-Models">Deployment-Models: Public, Private, Hybrid</h4></li>
+ </ul>
 <br>
 
  <hr size="28" width="90%" color="black">
