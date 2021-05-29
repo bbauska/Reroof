@@ -50,8 +50,9 @@ https://github.com/bbauska/Table-of-Contents-WIP.git
 <!--------------------------------------------------------------------->
 <!--------------------------------------------------------------------->
 <h2 id="cb-pro">Coinbase Pro Running Balance</h2>
+
     SNAPSHOT 5/28/2021 10:34am<br>
-    Portfolio > 100 $:
+    Portfolio > 100 $:<br>
 
 ![image](https://user-images.githubusercontent.com/41387907/120022505-587a9300-bfa1-11eb-82f4-35286177afd4.png)
    Price / Coin Pd:
