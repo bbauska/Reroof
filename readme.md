@@ -276,7 +276,7 @@ As a key component of a VentSure® Balanced Air Ventilation System, the VentSure
 <!--------------------------------------------------------------------->
  <h3 id="how-to-lay-shingles">How to Lay Shingles</h2>
  <ol>
-  <li>1. Size your shingles appropriately.</li>
+  <li>Size your shingles appropriately.</li>
 Depending on how you're going to organize your rows and courses, some roofers like to cut five variable sizes of shingles when using the basic three-tab variety. Basically, you'll cut off one-half tab-width of the first tab to start the first course, changing the necessary area to fill with each row, shifting the "slots." 
 
   Usually, the following cuts are useful:
@@ -290,33 +290,33 @@ Depending on how you're going to organize your rows and courses, some roofers li
   </ul>
   ![image](https://user-images.githubusercontent.com/41387907/120050966-9a243180-bfd3-11eb-9048-77f382016542.png)
 
-  <li>2. Lay a starting row at the bottom of the roof along the edge.</li>
+  <li>Lay a starting row at the bottom of the roof along the edge.</li>
 [1] Place nails in the three tab shingles about 3/4 inch (1.8 centimeters) above the cutouts, near where the tab meets the upper part of the shingle. However, make sure that you do not nail into the tar strip. Also place a nail 2 inches from each end of the shingle, in line with the other two. In all, use four nails per 3-tab shingle.
 Nailing here will cause the next shingle to cover the nail heads and allow the next and subsequent rows of nails in shingles to always penetrate and hold the top edge of the lower row (this allows 8 nails to hold each shingle).
 If the nail gun is firing too deeply, almost mashing through the shingles, then the nails will soon pull through and come loose. Set the air compressor and gun depth setting lower.
   ![image](https://user-images.githubusercontent.com/41387907/120050918-6e08b080-bfd3-11eb-8fe5-f01534773798.png)
   
-  <li>3. Lay the first row of shingles directly covering the narrow starter row.</li>
+  <li>Lay the first row of shingles directly covering the narrow starter row.</li>
 Snap a horizontal chalk line over the starting row to use as a guide.[2] Cut six inches off the length of the first starter shingle nailed on, then use the rest of them full size. Shifting them in this way will join the ends of the first regular row of shingles placed over the starter shingles. This is the basic, sometimes called "straight up" way of laying shingles.
 For the kind of shingles you purchase there may be a special starter row of shingles or a roll of strip material that you cut to the length of your roof.
 Alternatively, you can use a starting row of full-sized shingles by turning them with the tabs pointing upward.
 ![image](https://user-images.githubusercontent.com/41387907/120051009-cf308400-bfd3-11eb-9438-be647e7e5453.png)
 
-  <li>4. Lay the second row of shingles.</li>
+  <li>Lay the second row of shingles.</li>
 Set the first shingle of the second row back a half tab, 6 inches (17 centimeters), from the edge of first shingle on the first row and so that the bottom of its tabs just touches the tops of the cutout slots on the shingle below. This 1/2 tab has to be cut off where it hangs off the left edge of the gable roof.
 Snap a vertical chalk line from the inside edge of the first shingle on the second row to the top of the roof, and from the inside edge of the first shingle to the top of the roof. These chalk lines will serve as a guide for subsequent even-numbered rows of shingles, and odd-numbered rows, respectively. Continue working horizontally up the roof until you reach the peaks.
 ![image](https://user-images.githubusercontent.com/41387907/120051039-ee2f1600-bfd3-11eb-8038-8b331a310805.png)
 
-  <li>5. Shingle around stacks, vents and chimneys as necessary.</li>
+  <li>Shingle around stacks, vents and chimneys as necessary.</li>
 Nail pieces of aluminum sheeting over holes that you can stick your finger through to protect roofing over holes from sagging, dimpling, cracking and leaking.
 Stack pipes, vents and chimneys are surrounded with metal flashing laid over tar. Shingles should be interlaced with this flashing, which is usually cemented and nailed-down under upper shingles, but over the shingles on the sides. This is so water will run down the roof but not under the interlacing. For stacks and vents, have the bottom 2 or 3 rows that meet the flashing go under it, while the upper rows go over the flashing.
   ![image](https://user-images.githubusercontent.com/41387907/120051079-17e83d00-bfd4-11eb-8dd9-72e3edfd1578.png)
 
-  <li>6. Interlace the flashing around the chimney with the rows of shingles.</li>
+  <li>Interlace the flashing around the chimney with the rows of shingles.</li>
 Cement a sheet metal flashing apron over the upper edge of the chimney flange before laying shingles over it and cement another flashing apron over the lower half. Then cover the lower apron on each cemented side layer of flashing that tucks under the top apron using asphalt roofing cement.
   ![image](https://user-images.githubusercontent.com/41387907/120051116-39492900-bfd4-11eb-98ce-9b8bded88981.png)
 
-  <li>7. Bring the ridge edges together with a ridge-capping layer.</li>
+  <li>Bring the ridge edges together with a ridge-capping layer.</li>
 You can either use special shingles called ridge shingles or cut a number of regular shingles into 3 tabbed, equal pieces and bend each so they fit snugly on the roof peak and nail them into place. You'll need longer nails for this part, as you're driving through more layers of shingles.
 ![image](https://user-images.githubusercontent.com/41387907/120051147-5120ad00-bfd4-11eb-8017-cb6d5b424a7c.png)
  </ol>
