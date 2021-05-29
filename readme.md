@@ -311,6 +311,7 @@ Depending on how you're going to organize your rows and courses, some roofers li
    <li>Keep your sixth course tabs intact</li>
   </ul>
 <br>
+  
   ![image](https://user-images.githubusercontent.com/41387907/120050966-9a243180-bfd3-11eb-9048-77f382016542.png)
 
   <li>Lay a starting row at the bottom of the roof along the edge.</li>
@@ -318,6 +319,7 @@ Depending on how you're going to organize your rows and courses, some roofers li
 Nailing here will cause the next shingle to cover the nail heads and allow the next and subsequent rows of nails in shingles to always penetrate and hold the top edge of the lower row (this allows 8 nails to hold each shingle).
 If the nail gun is firing too deeply, almost mashing through the shingles, then the nails will soon pull through and come loose. Set the air compressor and gun depth setting lower.
 <br>
+  
   ![image](https://user-images.githubusercontent.com/41387907/120050918-6e08b080-bfd3-11eb-8fe5-f01534773798.png)
   
   <li>Lay the first row of shingles directly covering the narrow starter row.</li>
