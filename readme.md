@@ -418,20 +418,19 @@ https://youtu.be/FdLahiPBWWs
  Step 1 - Drip Edge (flashing)<br>
  Step 2 - Felt Paper<br>
  Step 3 - 3-tab 36" shingles with 5" reveal and 1/2" overlap at roof edge<br>
- 
- 
+  
 <!--------------------------------------------------------------------->
 <h2 id="CC0101EN">CC0101EN: IBM's Introduction to Cloud Computing</h2>
 
     <h3 id="Overview">    Overview</h3>
     <h3 id="CC-2">    Cloud Adoption and Emerging Technologies</h3>
+    <h3 id="CC-3">Cloud Computing Service & Deployment Model</h3>
     
-    <h3 id="CC-3">Cloud Computing Service & Deployment Models</h3>
-    
-        <h4 id="Service-Models">Service Models: IaaS, PaaS, Saas</h4>
-        <h4 id="Deployment-Models">Deployment-Models: Public, Private, Hybrid</h4>
+<h4 id="Service-Models">Service Models: IaaS, PaaS, Saas</h4>
+<h4 id="Deployment-Models">Deployment-Models: Public, Private, Hybrid</h4>
 <br>
-<hr size="28" width="90%" color="black">
+
+ <hr size="28" width="90%" color="black">
 <!--------------------------------------------------------------------->
 
 <h2 id="CAD101EN">CAD101EN: IBM's Introduction to Cloud Development with HTML5, CSS3, & JavaScript</h2>
