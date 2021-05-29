@@ -321,6 +321,7 @@ You can either use special shingles called ridge shingles or cut a number of reg
 ![image](https://user-images.githubusercontent.com/41387907/120051147-5120ad00-bfd4-11eb-8017-cb6d5b424a7c.png)
  </ol>
  <h4>Using Alternate Patterns</h4>
+
  ![image](https://user-images.githubusercontent.com/41387907/120051234-b1175380-bfd4-11eb-87ac-6263de99402a.png)
 
  <h4>1. Understanding the Basic Patterns</h4>
