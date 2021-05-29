@@ -439,11 +439,22 @@ Prep Work for Re-Roofing Over Asphalt Shingles
     If you have to remove all or part of the existing asphalt roof covering 
 
 <!---+++++++++++++++--->
+
+ <h4>Roof Drip Edge Flashing Requirements</h4>
+
+ ![image](https://user-images.githubusercontent.com/41387907/120087311-99ef6900-c09b-11eb-9c36-7c1b2777f0b8.png)
+
+ 
+ 
+ <h4>Roof Drip Edge Flashing at Roof Eaves & Gable Ends<h4>
+
  <h4>Starter Course for Re-Roofing Asphalt Shingles</h4>
 
-Figure 2-16 re roofing starter course (C) J Wiley, S BlissIf laying three-tab shingles over three tab shingles, it is important to nest the new shingles against the old to create a flat surface as Friedman elaborates just below.
+It is important to nest the new shingles against the old to create a flat surface.
 
 This process starts with a 5-inch starter strip fit along the eaves and set against the second course of existing shingles (see Figure 2-16).
+
+![image](https://user-images.githubusercontent.com/41387907/120087251-2cdbd380-c09b-11eb-863f-c954c158deff.png)
 
 DF Notes:
 <mark>
