@@ -29,8 +29,8 @@ https://github.com/bbauska/Table-of-Contents-WIP.git
   * [Overview](#CC-Overview)
   * [Cloud Adoption and Emerging Technologies](#CC-2)
   * [Cloud Computing Service & Deployment Models](#CC-3)
-    + [Service Models: IaaS, PaaS, Saas](#Service-Models)
-    + [Deployment-Models: Public, Private, Hybrid](#Deployment-Models)
+    + [Service Models: IaaS, PaaS, Saas](#CC-3a-Service-Models)
+    + [Deployment-Models: Public, Private, Hybrid](#CC-3b-Deployment-Models)
 - [CAD101EN: IBM's Introduction to Cloud Development with HTML5, CSS3, & JavaScript](#CAD101EN)
   * [Introduction to Programming for the Cloud](#CAD-Mod01)
   * [HTML5 and CSS3](#CAD-Mod02)
@@ -422,17 +422,37 @@ https://youtu.be/FdLahiPBWWs
 <!--------------------------------------------------------------------->
 <h2 id="CC0101EN">CC0101EN: IBM's Introduction to Cloud Computing</h2>
 
-    <h3 id="Overview">    Overview</h3>
-    <h3 id="CC-2">    Cloud Adoption and Emerging Technologies</h3>
-    <h3 id="CC-3">Cloud Computing Service & Deployment Model</h3>
+<h3 id="Overview">Overview</h3>
+<h3 id="CC-2">Cloud Adoption and Emerging Technologies</h3>
+<h3 id="CC-3">Cloud Computing Service & Deployment Model</h3>
     
-<h4 id="Service-Models">Service Models: IaaS, PaaS, Saas</h4>
-<h4 id="Deployment-Models">Deployment-Models: Public, Private, Hybrid</h4>
+<h4 id="CC-3a-Service-Models">Service Models: IaaS, PaaS, Saas</h4>
+<h4 id="CC-3b-Deployment-Models">Deployment-Models: Public, Private, Hybrid</h4>
 <br>
 
  <hr size="28" width="90%" color="black">
 <!--------------------------------------------------------------------->
 
 <h2 id="CAD101EN">CAD101EN: IBM's Introduction to Cloud Development with HTML5, CSS3, & JavaScript</h2>
+
+ <h3 id="CAD-Mod01">Introduction to Programming for the Cloud</h3>
+ <h3 id="CAD-Mod02">HTML5 and CSS3</h3>
+ <h4 id="CAD-Mod03">HTML5 Elements</h4>
+ <h3 id="CAD-Mod03-1">HTML5 Tags & Structural Elements</h3>
+ <h3 id="CAD-Mod03-2">HTML5 Input Element: Attributes for the Input Tag</h3>
+
+ <h4 id="CAD-Mod04">JavaScript Programming for Web Applications</h4>
+
+ <h3 id="CAD-Mod04-1">JavaScript Language: Overview & Syntax</h3>
+ <h3 id="CAD-Mod04-2">JavaScript: Variables & Control Statements</h3>
+ <h3 id="CAD-Mod04-3">JavaScript: Functions & Protocols</h3>
+ <h3 id="CAD-Mod04-4">Client-Side: JavaScript with HTML</h3>
+ <h3 id="CAD-Mod04-5">Client-Side: JavaScript with DOM</h3>
+ <h3 id="CAD-Mod04-6">JavaScript DOM Objects</h3>
+ <h3 id="CAD-Mod04-7">JavaScript APIs</h3>
+<h3 id="CAD-Mod05">GitHub</h3>
+
 <hr size="8" width="90%" color="green">
+<!--------------------------------------------------------------------->
+<!--------------------------------------------------------------------->
 <!--------------------------------------------------------------------->
