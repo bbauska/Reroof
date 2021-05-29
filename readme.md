@@ -475,6 +475,11 @@ Valley Details for Re-Roofing Asphalt Shingles
 Any type of valley flashing will work and simply lays over the existing flashing (except in a tear-off, where all flashings should be replaced).
 
 Unless a metal valley flashing is used, the first step is to line the existing valley with a new underlayment consisting of either 90-pound roll roofing or a more durable modified bitumen membrane. Then install either a closed or woven valley as described above.
+ <h3>Asphalt Shingle Types</h3>
+ 
+ ![image](https://user-images.githubusercontent.com/41387907/120084914-1167cd00-c089-11eb-8f4a-5c6ba0470ae5.png)
+
+ <br>
  
 <hr size="8" width="90%" color="blue">
 <!--------------------------------------------------------------------->
