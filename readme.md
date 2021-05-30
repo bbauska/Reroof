@@ -258,14 +258,19 @@ The versatile DeckSeal Roofing System can be applied as either a 2 or 3 ply syst
     Complements VentSure® Ridge Vents for balanced intake and exhaust
 
 As a key component of a VentSure® Balanced Air Ventilation System, the VentSure® vents are an essential part of the Total Protection Roofing System^. 
- <h4>Anatomy of a Roof</h4>
- 
-![image](https://user-images.githubusercontent.com/41387907/120049999-b4a8db80-bfd0-11eb-9317-22cde13b470c.png)
+
+<h4>Anatomy of a Roof</h4>
+
+<!---![image](https://user-images.githubusercontent.com/41387907/120049999-b4a8db80-bfd0-11eb-9317-22cde13b470c.png)---->
+
+<img src="https://user-images.githubusercontent.com/41387907/120049999-b4a8db80-bfd0-11eb-9317-22cde13b470c.png" alt="Anatomy of a roof" width=90% height=90%>
 
  <h4>Which Roofing Shingle to Buy?</h4>
  
- ![image](https://user-images.githubusercontent.com/41387907/120050108-094c5680-bfd1-11eb-8ff1-9e5b2abd259c.png)
+<!---- ![image](https://user-images.githubusercontent.com/41387907/120050108-094c5680-bfd1-11eb-8ff1-9e5b2abd259c.png) -->
 
+<img src="https://user-images.githubusercontent.com/41387907/120050108-094c5680-bfd1-11eb-8ff1-9e5b2abd259c.png" alt="Which roofing shingle to buy?" width=90% height=90%>
+ 
 <hr size="8" width="90%" color="green">
 <!--------------------------------------------------------------------->
 <h3 id="find-store">Find a Store</h3>
@@ -356,15 +361,14 @@ Cement a sheet metal flashing apron over the upper edge of the chimney flange be
   <li>Bring the ridge edges together with a ridge-capping layer.</li>
 You can either use special shingles called ridge shingles or cut a number of regular shingles into 3 tabbed, equal pieces and bend each so they fit snugly on the roof peak and nail them into place. You'll need longer nails for this part, as you're driving through more layers of shingles.
 
-<!--------
-![image](https://user-images.githubusercontent.com/41387907/120051147-5120ad00-bfd4-11eb-8017-cb6d5b424a7c.png)
---------->
+<!--------![image](https://user-images.githubusercontent.com/41387907/120051147-5120ad00-bfd4-11eb-8017-cb6d5b424a7c.png)--------->
+
  </ol>
  <h4>Using Alternate Patterns</h4>
 <br>
-<!------ 
- ![Using Alternate Patterns](https://user-images.githubusercontent.com/41387907/120051234-b1175380-bfd4-11eb-87ac-6263de99402a.png)
--------> 
+
+<!------ ![Using Alternate Patterns](https://user-images.githubusercontent.com/41387907/120051234-b1175380-bfd4-11eb-87ac-6263de99402a.png)-------> 
+
 <img src="https://user-images.githubusercontent.com/41387907/120051234-b1175380-bfd4-11eb-87ac-6263de99402a.png" alt="Using Alternate Patterns" width=75% height=75%>
  
  <h4>1. Understanding the Basic Patterns</h4>
@@ -393,9 +397,8 @@ All the other patterns work in essentially the same way, offsetting the courses 
 The method is exactly the same, though the measurement of the offset is slightly different. In an offset of four inches, standard shingles will realign every ten courses, while the five inch offsets will realign every eight. Understanding the benefits of each will help you decide which method to use for your roof:
 The short overlap of the four inch offset is somewhat easier, allowing you to use cutouts to overlap every two courses, making less work for you. Unfortunately, because of this, the pattern is less desirable for extremely cold climates or very wet places.
 For most DIY roofers, the five-inch offset is the most desirable pattern. It offers the most protection per shingle, making it much less likely that runoff will cut through the in-betweens, hiding shingle irregularities, and getting the most bang for your buck.
-<!------ 
-![Racking? Dbl-check 1st](https://user-images.githubusercontent.com/41387907/120051831-2f74f500-bfd7-11eb-8f53-e514a247c081.png)
-------->
+
+<!------ ![Racking? Dbl-check 1st](https://user-images.githubusercontent.com/41387907/120051831-2f74f500-bfd7-11eb-8f53-e514a247c081.png)------->
  
 <img src="https://user-images.githubusercontent.com/41387907/120051831-2f74f500-bfd7-11eb-8f53-e514a247c081.png" alt="Racking? Dbl Check 1st" width=75% height=75%>
 
@@ -437,26 +440,19 @@ The heavier the shingle on the new layer, the less likely it is that irregularit
 
 Laminated or other heavy-textured shingles work well, as they do not need to be carefully fitted to the existing shingles, and the irregular texture will conceal any small bumps or dips from the original roof.
 
- <h4>Prep Work for Re-Roofing Over Asphalt Shingles</h4>
+<h4>Prep Work for Re-Roofing Over Asphalt Shingles</h4>
 
-    Inspect the condition of the existing roof and roof deck for numer of roof layers, soundness of roof decking, smoothness of existing roof installation, and other factors that determine whether or not you can do a roof-over or if a roof shingle tear-off is required.
+Inspect the condition of the existing roof and roof deck for numer of roof layers, soundness of roof decking, smoothness of existing roof installation, and other factors that determine whether or not you can do a roof-over or if a roof shingle tear-off is required.
 
 <!---+++++++++++++++--->
 
- <h4>Roof Drip Edge Flashing Requirements</h4>
-<!------
- ![image](https://user-images.githubusercontent.com/41387907/120088253-95c74980-c0a3-11eb-8d3c-1265baff52c3.png)
-------->
+<h3>Roof Drip Edge Flashing Requirements</h3>
  
- <img src="https://user-images.githubusercontent.com/41387907/120088253-95c74980-c0a3-11eb-8d3c-1265baff52c3.png" alt="Roof Drip Edge Flashing Requirements" height=50% width=50%>
+<h4>Roof Drip Edge Flashing at Roof Eaves & Gable Ends<h4>
 
- <h5>Roof Drip Edge Flashing at Roof Eaves & Gable Ends<h5>
-  
-<!------
-  ![image](https://user-images.githubusercontent.com/41387907/120088253-95c74980-c0a3-11eb-8d3c-1265baff52c3.png)
------>
-  
-  <img src="https://user-images.githubusercontent.com/41387907/120088253-95c74980-c0a3-11eb-8d3c-1265baff52c3.png" alt="Roof Drip Edge Flashing at Roof Eaves & Gable Ends" width=25% height=25%>
+<!------ ![image](https://user-images.githubusercontent.com/41387907/120088253-95c74980-c0a3-11eb-8d3c-1265baff52c3.png) ----->
+
+<img src="https://user-images.githubusercontent.com/41387907/120088253-95c74980-c0a3-11eb-8d3c-1265baff52c3.png" alt="Roof Drip Edge Flashing at Roof Eaves & Gable Ends" width=25% height=25%>
 
 Roof drip edge flashing serves multiple functions on a building, the foremost of which is to assist water in leaving the roof edge with minimum damage to other building components by directing the water off of the roof and into the gutter.
 
@@ -471,11 +467,12 @@ Lengths of drip vary but typically it's sold in ten foot lengths (120").
 The sketch above illustrates the end-profile of roof drip edge flashing and shows its placement on the roof. Usually you won't see much of drip edge as it's under the roof shingles, under the underlayment, and behind the roof gutter.
   
 <h4>Where Should Roof Drip Edge Flashing Be Placed ?<h4>
-<!-------
- ![image](https://user-images.githubusercontent.com/41387907/120088300-e3dc4d00-c0a3-11eb-8865-fee59e1cb764.png)
--------->
- <img src="https://user-images.githubusercontent.com/41387907/120088300-e3dc4d00-c0a3-11eb-8865-fee59e1cb764.png" alt="Where should roof drip edge flashing be place?" width=75% height=75%
- Our illustration above shows proper placement of the roof drip edge atop the roof sheathing - before installation of roofing felt or ice and water shield and spaced a bit away from the fascia board to improve its drainage.
+ 
+<!------- ![image](https://user-images.githubusercontent.com/41387907/120088300-e3dc4d00-c0a3-11eb-8865-fee59e1cb764.png) -------->
+
+<img src="https://user-images.githubusercontent.com/41387907/120088300-e3dc4d00-c0a3-11eb-8865-fee59e1cb764.png" alt="Where should roof drip edge flashing be place?" width=75% height=75%>
+ 
+Our illustration above shows proper placement of the roof drip edge atop the roof sheathing - before installation of roofing felt or ice and water shield and spaced a bit away from the fascia board to improve its drainage.
  
 <h4>Use a Furring Strip to Improve Drip Edge Drainage</h4>
   
@@ -486,9 +483,9 @@ It is important to nest the new shingles against the old to create a flat surfac
 This process starts with a 5-inch starter strip fit along the eaves and set against the second course of existing shingles (see Figure 2-16).
 
 <img src="https://user-images.githubusercontent.com/41387907/120084914-1167cd00-c089-11eb-8f4a-5c6ba0470ae5.png" alt="Nesting Shingles" width=500 length=500>
-<!------
-![image](Chttps://user-images.githubusercontent.com/41387907/120084914-1167cd00-c089-11eb-8f4a-5c6ba0470ae5.png)
------->
+
+<!------ ![image](Chttps://user-images.githubusercontent.com/41387907/120084914-1167cd00-c089-11eb-8f4a-5c6ba0470ae5.png) ------>
+
 DF Notes:
 <mark>
 Notice that in re-roofing the starter strip is an inch less in width than when installing new shingles over a fresh roof-deck, shown in our asphalt shingle roofing guide at ASPHALT SHINGLE STARTER COURSE INSTALLATION.</mark>
@@ -517,7 +514,8 @@ Valley Details for Re-Roofing Asphalt Shingles
 Any type of valley flashing will work and simply lays over the existing flashing (except in a tear-off, where all flashings should be replaced).
 
 Unless a metal valley flashing is used, the first step is to line the existing valley with a new underlayment consisting of either 90-pound roll roofing or a more durable modified bitumen membrane. Then install either a closed or woven valley as described above.
- <h3>Asphalt Shingle Types</h3>
+
+<h3>Asphalt Shingle Types</h3>
 
 <br>
 <!----
@@ -529,13 +527,13 @@ Unless a metal valley flashing is used, the first step is to line the existing v
  <!--------------------------------------------------------------------->
 <h4>Drip Edge Flashing</h4>
 <br>
- <!--
- ![image](https://user-images.githubusercontent.com/41387907/120085152-84be0e80-c08a-11eb-8446-0f340f7eb5ee.png)
---> 
 
- <img src= "https://user-images.githubusercontent.com/41387907/120085152-84be0e80-c08a-11eb-8446-0f340f7eb5ee.png" alt="Drip Edge Flashing" width=50% length=50%>
+<!--  ![image](https://user-images.githubusercontent.com/41387907/120085152-84be0e80-c08a-11eb-8446-0f340f7eb5ee.png) --> 
 
- <br>
+<img src= "https://user-images.githubusercontent.com/41387907/120085152-84be0e80-c08a-11eb-8446-0f340f7eb5ee.png" alt="Drip Edge Flashing" width=50% length=50%>
+
+<br>
+
 <h2>Owens-Corning Berkshire Shingles - Installation Instructions</h2>
 <p>
 Synthetic Underlayment<br>
@@ -549,10 +547,9 @@ application instructions and local<br>
 building codes. Each underlayment<br>
 course must be overlapped a<br>
 minimum of 1/2 the width of the<br>
-underlayment plus 1 inch. <br>
+underlayment plus 1 inch.
 </p>
---------------------------------------------------------------------->
- 
+<!--------------------------------------------------------------------->
 <hr size="8" width="90%" color="blue">
 <!--------------------------------------------------------------------->
 <h2 id="CC0101EN">CC0101EN: IBM's Introduction to Cloud Computing</h2>
