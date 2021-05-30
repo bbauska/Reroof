@@ -348,9 +348,11 @@ Stack pipes, vents and chimneys are surrounded with metal flashing laid over tar
   <li>Interlace the flashing around the chimney with the rows of shingles.</li>
 Cement a sheet metal flashing apron over the upper edge of the chimney flange before laying shingles over it and cement another flashing apron over the lower half. Then cover the lower apron on each cemented side layer of flashing that tucks under the top apron using asphalt roofing cement.
 <br>
-  
+<!------  
   ![Bring ridge edge together with ridge-capping layer](https://user-images.githubusercontent.com/41387907/120051116-39492900-bfd4-11eb-98ce-9b8bded88981.png)
-
+------->
+  <img src="https://user-images.githubusercontent.com/41387907/120051116-39492900-bfd4-11eb-98ce-9b8bded88981.png" alt="Bring ridge edge together with ridge-capping layer" width=75% height=75%>
+  
   <li>Bring the ridge edges together with a ridge-capping layer.</li>
 You can either use special shingles called ridge shingles or cut a number of regular shingles into 3 tabbed, equal pieces and bend each so they fit snugly on the roof peak and nail them into place. You'll need longer nails for this part, as you're driving through more layers of shingles.
 
@@ -360,21 +362,26 @@ You can either use special shingles called ridge shingles or cut a number of reg
  </ol>
  <h4>Using Alternate Patterns</h4>
 <br>
- 
+<!------ 
  ![Using Alternate Patterns](https://user-images.githubusercontent.com/41387907/120051234-b1175380-bfd4-11eb-87ac-6263de99402a.png)
-
+-------> 
+<img src="https://user-images.githubusercontent.com/41387907/120051234-b1175380-bfd4-11eb-87ac-6263de99402a.png" alt="Using Alternate Patterns" width=75% height=75%>
+ 
  <h4>1. Understanding the Basic Patterns</h4>
   You'll get the most life out of your shingles and your roof by laying them in a smart pattern. The basic straight up pattern already described is perhaps the easiest and most commonly used, but professional roofers have different opinions about the most proper and efficient method of laying the shingles to get the most life out of them, which differ slightly in the amount of overlap and the pattern in which you install them. 
  The basic patterns include:
  <ul>
-  <li>the straight-up pattern</li>
+<li>the straight-up pattern</li>
 <li>the half pattern</li>
 <li>4-inch offset</li>
 <li>5-inch offset</li>
  </ul>
  <br>
- 
+
+ <!-----
  ![Stagger to achieve 1/2 pattern](https://user-images.githubusercontent.com/41387907/120051730-9a71fc00-bfd6-11eb-9311-2b1fbac19c3c.png)
+----> 
+ img src="https://user-images.githubusercontent.com/41387907/120051730-9a71fc00-bfd6-11eb-9311-2b1fbac19c3c.png" alt="Stagger to achieve 1/2 pattern" width=75% height=75%>
  
  <h4>2. Stagger each course to achieve the half pattern.</h4>
 All the other patterns work in essentially the same way, offsetting the courses by a particular amount. For the 6-inch or "half" offset, you can protect butt joints and horizontally-moving water by starting a new course 6-inches in every row. Every seventh course, the butt joints will realign and offer stability and protection.
@@ -386,10 +393,11 @@ All the other patterns work in essentially the same way, offsetting the courses 
 The method is exactly the same, though the measurement of the offset is slightly different. In an offset of four inches, standard shingles will realign every ten courses, while the five inch offsets will realign every eight. Understanding the benefits of each will help you decide which method to use for your roof:
 The short overlap of the four inch offset is somewhat easier, allowing you to use cutouts to overlap every two courses, making less work for you. Unfortunately, because of this, the pattern is less desirable for extremely cold climates or very wet places.
 For most DIY roofers, the five-inch offset is the most desirable pattern. It offers the most protection per shingle, making it much less likely that runoff will cut through the in-betweens, hiding shingle irregularities, and getting the most bang for your buck.
- 
+<!------ 
 ![Racking? Dbl-check 1st](https://user-images.githubusercontent.com/41387907/120051831-2f74f500-bfd7-11eb-8f53-e514a247c081.png)
+------->
  
-<img src="https://user-images.githubusercontent.com/41387907/120051831-2f74f500-bfd7-11eb-8f53-e514a247c081.png" alt="Racking? Dbl Check 1st" width=25% height=25%>
+<img src="https://user-images.githubusercontent.com/41387907/120051831-2f74f500-bfd7-11eb-8f53-e514a247c081.png" alt="Racking? Dbl Check 1st" width=75% height=75%>
 
  <h4>4. Consider "racking" shingles until you reach the top on each side.</h4>
 The racking technique uses two sizes of the first shingle of each row, the regular 3 tab pieces and shortened pieces for each end, working vertically rather than horizontally. It goes much faster, allowing you to keep your tools next to you as you work and avoiding having to constantly reposition.
@@ -436,14 +444,17 @@ Laminated or other heavy-textured shingles work well, as they do not need to be 
 <!---+++++++++++++++--->
 
  <h4>Roof Drip Edge Flashing Requirements</h4>
-
+<!------
  ![image](https://user-images.githubusercontent.com/41387907/120088253-95c74980-c0a3-11eb-8d3c-1265baff52c3.png)
+------->
  
  <img src="https://user-images.githubusercontent.com/41387907/120088253-95c74980-c0a3-11eb-8d3c-1265baff52c3.png" alt="Roof Drip Edge Flashing Requirements" height=50% width=50%>
 
  <h5>Roof Drip Edge Flashing at Roof Eaves & Gable Ends<h5>
   
+<!------
   ![image](https://user-images.githubusercontent.com/41387907/120088253-95c74980-c0a3-11eb-8d3c-1265baff52c3.png)
+----->
   
   <img src="https://user-images.githubusercontent.com/41387907/120088253-95c74980-c0a3-11eb-8d3c-1265baff52c3.png" alt="Roof Drip Edge Flashing at Roof Eaves & Gable Ends" width=25% height=25%>
 
@@ -460,9 +471,10 @@ Lengths of drip vary but typically it's sold in ten foot lengths (120").
 The sketch above illustrates the end-profile of roof drip edge flashing and shows its placement on the roof. Usually you won't see much of drip edge as it's under the roof shingles, under the underlayment, and behind the roof gutter.
   
 <h4>Where Should Roof Drip Edge Flashing Be Placed ?<h4>
-
+<!-------
  ![image](https://user-images.githubusercontent.com/41387907/120088300-e3dc4d00-c0a3-11eb-8865-fee59e1cb764.png)
-
+-------->
+ <img src="https://user-images.githubusercontent.com/41387907/120088300-e3dc4d00-c0a3-11eb-8865-fee59e1cb764.png" alt="Where should roof drip edge flashing be place?" width=75% height=75%
  Our illustration above shows proper placement of the roof drip edge atop the roof sheathing - before installation of roofing felt or ice and water shield and spaced a bit away from the fascia board to improve its drainage.
  
 <h4>Use a Furring Strip to Improve Drip Edge Drainage</h4>
@@ -474,9 +486,9 @@ It is important to nest the new shingles against the old to create a flat surfac
 This process starts with a 5-inch starter strip fit along the eaves and set against the second course of existing shingles (see Figure 2-16).
 
 <img src="https://user-images.githubusercontent.com/41387907/120084914-1167cd00-c089-11eb-8f4a-5c6ba0470ae5.png" alt="Nesting Shingles" width=500 length=500>
-
+<!------
 ![image](Chttps://user-images.githubusercontent.com/41387907/120084914-1167cd00-c089-11eb-8f4a-5c6ba0470ae5.png)
-
+------>
 DF Notes:
 <mark>
 Notice that in re-roofing the starter strip is an inch less in width than when installing new shingles over a fresh roof-deck, shown in our asphalt shingle roofing guide at ASPHALT SHINGLE STARTER COURSE INSTALLATION.</mark>
