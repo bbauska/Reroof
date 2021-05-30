@@ -379,20 +379,19 @@ You can either use special shingles called ridge shingles or cut a number of reg
 <li>the half pattern</li>
 <li>4-inch offset</li>
 <li>5-inch offset</li>
- </ul>
+</ul>
  <br>
 
- <!-----
- ![Stagger to achieve 1/2 pattern](https://user-images.githubusercontent.com/41387907/120051730-9a71fc00-bfd6-11eb-9311-2b1fbac19c3c.png)
-----> 
- img src="https://user-images.githubusercontent.com/41387907/120051730-9a71fc00-bfd6-11eb-9311-2b1fbac19c3c.png" alt="Stagger to achieve 1/2 pattern" width=75% height=75%>
+ <!-----  ![Stagger to achieve 1/2 pattern](https://user-images.githubusercontent.com/41387907/120051730-9a71fc00-bfd6-11eb-9311-2b1fbac19c3c.png) ----> 
+ 
+ img src="https://user-images.githubusercontent.com/41387907/120051730-9a71fc00-bfd6-11eb-9311-2b1fbac19c3c.png" alt="Stagger to achieve 1/2 pattern" width=50% height=50%>
  
  <h4>2. Stagger each course to achieve the half pattern.</h4>
 All the other patterns work in essentially the same way, offsetting the courses by a particular amount. For the 6-inch or "half" offset, you can protect butt joints and horizontally-moving water by starting a new course 6-inches in every row. Every seventh course, the butt joints will realign and offer stability and protection.
  <br>
- 
- ![4" and 5" offsets for added protection](https://user-images.githubusercontent.com/41387907/120051762-d1481200-bfd6-11eb-951d-c8931de20417.png)
 
+ <img src="https://user-images.githubusercontent.com/41387907/120051762-d1481200-bfd6-11eb-951d-c8931de20417.png" alt="4 inch & 5 inch offsets for added protection" width=50% length=50%>
+ 
  <h4>3. Consider four and five inch offsets for added protection.</h4>
 The method is exactly the same, though the measurement of the offset is slightly different. In an offset of four inches, standard shingles will realign every ten courses, while the five inch offsets will realign every eight. Understanding the benefits of each will help you decide which method to use for your roof:
 The short overlap of the four inch offset is somewhat easier, allowing you to use cutouts to overlap every two courses, making less work for you. Unfortunately, because of this, the pattern is less desirable for extremely cold climates or very wet places.
@@ -452,7 +451,7 @@ Inspect the condition of the existing roof and roof deck for numer of roof layer
 
 <!------ ![image](https://user-images.githubusercontent.com/41387907/120088253-95c74980-c0a3-11eb-8d3c-1265baff52c3.png) ----->
 
-<img src="https://user-images.githubusercontent.com/41387907/120088253-95c74980-c0a3-11eb-8d3c-1265baff52c3.png" alt="Roof Drip Edge Flashing at Roof Eaves & Gable Ends" width=25% height=25%>
+<img src="https://user-images.githubusercontent.com/41387907/120088253-95c74980-c0a3-11eb-8d3c-1265baff52c3.png" alt="Roof Drip Edge Flashing at Roof Eaves & Gable Ends" width=50% height=50%>
 
 Roof drip edge flashing serves multiple functions on a building, the foremost of which is to assist water in leaving the roof edge with minimum damage to other building components by directing the water off of the roof and into the gutter.
 
@@ -470,13 +469,13 @@ The sketch above illustrates the end-profile of roof drip edge flashing and show
  
 <!------- ![image](https://user-images.githubusercontent.com/41387907/120088300-e3dc4d00-c0a3-11eb-8865-fee59e1cb764.png) -------->
 
-<img src="https://user-images.githubusercontent.com/41387907/120088300-e3dc4d00-c0a3-11eb-8865-fee59e1cb764.png" alt="Where should roof drip edge flashing be place?" width=75% height=75%>
+<img src="https://user-images.githubusercontent.com/41387907/120088300-e3dc4d00-c0a3-11eb-8865-fee59e1cb764.png" alt="Where should roof drip edge flashing be place?" width=50% height=50%>
  
 Our illustration above shows proper placement of the roof drip edge atop the roof sheathing - before installation of roofing felt or ice and water shield and spaced a bit away from the fascia board to improve its drainage.
  
 <h4>Use a Furring Strip to Improve Drip Edge Drainage</h4>
   
- <h4>Starter Course for Re-Roofing Asphalt Shingles</h4>
+<h4>Starter Course for Re-Roofing Asphalt Shingles</h4>
 
 It is important to nest the new shingles against the old to create a flat surface.
 
@@ -528,7 +527,7 @@ Unless a metal valley flashing is used, the first step is to line the existing v
 
 <!--  ![image](https://user-images.githubusercontent.com/41387907/120085152-84be0e80-c08a-11eb-8446-0f340f7eb5ee.png) --> 
 
-<img src= "https://user-images.githubusercontent.com/41387907/120085152-84be0e80-c08a-11eb-8446-0f340f7eb5ee.png" alt="Drip Edge Flashing" width=25% length=25%>
+<img src= "https://user-images.githubusercontent.com/41387907/120085152-84be0e80-c08a-11eb-8446-0f340f7eb5ee.png" alt="Drip Edge Flashing" width=50% length=50%>
 
 <br>
 
