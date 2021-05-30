@@ -388,6 +388,8 @@ The short overlap of the four inch offset is somewhat easier, allowing you to us
 For most DIY roofers, the five-inch offset is the most desirable pattern. It offers the most protection per shingle, making it much less likely that runoff will cut through the in-betweens, hiding shingle irregularities, and getting the most bang for your buck.
  
 ![Racking? Dbl-check 1st](https://user-images.githubusercontent.com/41387907/120051831-2f74f500-bfd7-11eb-8f53-e514a247c081.png)
+ 
+<img src="https://user-images.githubusercontent.com/41387907/120051831-2f74f500-bfd7-11eb-8f53-e514a247c081.png" alt="Racking? Dbl Check 1st" width=25% height=25%>
 
  <h4>4. Consider "racking" shingles until you reach the top on each side.</h4>
 The racking technique uses two sizes of the first shingle of each row, the regular 3 tab pieces and shortened pieces for each end, working vertically rather than horizontally. It goes much faster, allowing you to keep your tools next to you as you work and avoiding having to constantly reposition.
@@ -431,22 +433,21 @@ Laminated or other heavy-textured shingles work well, as they do not need to be 
 
     Inspect the condition of the existing roof and roof deck for numer of roof layers, soundness of roof decking, smoothness of existing roof installation, and other factors that determine whether or not you can do a roof-over or if a roof shingle tear-off is required.
 
-
 <!---+++++++++++++++--->
 
  <h4>Roof Drip Edge Flashing Requirements</h4>
 
- ![image](https://user-images.githubusercontent.com/41387907/120087311-99ef6900-c09b-11eb-9c36-7c1b2777f0b8.png)
+ ![image](https://user-images.githubusercontent.com/41387907/120088253-95c74980-c0a3-11eb-8d3c-1265baff52c3.png)
+ 
+ <img src="https://user-images.githubusercontent.com/41387907/120088253-95c74980-c0a3-11eb-8d3c-1265baff52c3.png" alt="Roof Drip Edge Flashing Requirements" height=50% width=50%>
 
  <h5>Roof Drip Edge Flashing at Roof Eaves & Gable Ends<h5>
   
   ![image](https://user-images.githubusercontent.com/41387907/120088253-95c74980-c0a3-11eb-8d3c-1265baff52c3.png)
   
-  <img src="https://user-images.githubusercontent.com/41387907/120088253-95c74980-c0a3-11eb-8d3c-1265baff52c3.png" alt="Roof Drip Edge Flashing at Roof Eaves & Gable Ends" width=50% height=50%>
+  <img src="https://user-images.githubusercontent.com/41387907/120088253-95c74980-c0a3-11eb-8d3c-1265baff52c3.png" alt="Roof Drip Edge Flashing at Roof Eaves & Gable Ends" width=25% height=25%>
 
-  Roof drip edge flashing serves multiple functions on a building, the foremost of which is to assist water in leaving the roof edge with minimum damage to other building components by directing the water off of the roof and into the gutter.
-
-[Click to enlarge any image]
+Roof drip edge flashing serves multiple functions on a building, the foremost of which is to assist water in leaving the roof edge with minimum damage to other building components by directing the water off of the roof and into the gutter.
 
 Without this detail water leaving the roof edge wants to run down building fascias, soffits, and walls, sometimes even entering and damaging the structure.
 
