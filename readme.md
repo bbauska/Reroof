@@ -15,7 +15,6 @@ https://github.com/bbauska/Table-of-Contents-WIP.git
   * [Scalability](#scalability)
   * [Security](#security)
 - [Roof - with shingles](#ready-to-build-a-roof-diy)
-  * [Expert Tips](#expert-tips)
   * [Roofing Basics](#roofing-basics)
   * [Find Store](#find-store)
   * [Pick Your Shingles](#pick-your-shingles)
@@ -94,93 +93,6 @@ https://github.com/bbauska/Table-of-Contents-WIP.git
 Up and down like columns, or<br>
 Top across then down, like rows
  </p>
-<hr size="8" width="90%" color="green">
-
-<h3 id="expert-tips">Expert Tips</h3>
-
-If conditions are right, new shingles laid over old shingles can be just as attractive and durable as shingles laid on bare sheathing. Installation is easier than for a tear-off job because you can use the existing shingles as guides for laying the new ones. But you must take care to install shingles correctly so they lie flat. And a good job involves installing new flashings rather than relying on the existing ones.
-
-Reroof jobs are sometimes done without replacing flashings. However installing new flashings, including special drip-edge flashings made for reroofing, will ensure a tight seal and a long life. Some roofers install a layer of waterproof shingle underlayment (WSU) over the existing shingles at the eave end, as would be done for a roof laid on bare sheathing. This provides added protection against ice dams.
-
-Asphalt shingles can be laid over cedar shakes or shingles, however, this is a roofing project best left to pros. Beveled wood pieces called "horsefeathers" must be laid along the thick edges of the shakes to make a fairly flat surface. Before you reshingle a roof, read our step-by-step guide for adding new shingles over old ones.
-
-<h4>Materials</h4>
-<ul>
- <li>Roof cement</li>
-<li>Flashing</li>
-<li>Nails for flashing</li>
-<li>WSU sheet</li>
-<li>Shingles</li>
-<li>Nails long enough to penetrate sheathing</li>
-</ul>
-<hr size="8" width="45%" color="green">
-
-<h4>Step 1: Remove Caps</h4>
-
-Remove the ridge caps. Doing it now will make it easier to keep the reroofing job clean. Use a flat pry bar or roofing shovel to pry out and remove the ridge shingles. Remove all nails.
-
-<h4>Step 2: Remove Obstructions</h4>
-
-Remove air vents and pipe flashings by prying out or unscrewing the fasteners holding the fixture. If you damage shingles while doing this, repair the shingles (see next step). Reuse a vent or flashing only if it is like new; otherwise, replace it with a new one that will fit the hole or pipe.
-
-<h4>Step 3: Repair Broken Shingles</h4>
-
-If a shingle is torn or cracked, glue the broken piece back in place using roofing cement. If the broken piece is lost, cut a new piece to fit the existing shingle. The goal is to provide a reasonably flat surface for the new shingles to lie over, with no gaps greater than 1/2 inch.
-
-<h4>Step 4: Sweep the Roof</h4>
-
-Using a large broom, brush away all broken shingle pieces, twigs, and any other debris that could become trapped under the new shingles that you install. Keep the roof clean as you work.
-
-<h4>Step 5: Install Flashing</h4>
-
-At the eave and the rake, install U-shape drip-edge flashing made for reroof jobs. Install the eave piece first, then the rake piece over it. The two pieces should meet neatly at the corners. Drive nails at high points on the underlying roof, the bottoms of the shingles.
-
-<h4>Step 6: Install Valley Flashing</h4>
-
-If you have an open valley, install new W-shape metal or vinyl valley flashing to fit directly over the old flashing. Attach it by driving nails into the outside edges only. Do not drive nails less than 6 inches from the center of the flashing.
-
-<h4>Step 7: Install Starter Strip</h4>
-
-Use a starter strip or cut pieces for a starter course. Rip-cut the starter strip or starter pieces so that they butt up against the second course of existing shingles and are even with the front edge of the existing roofing. Attach with nails along the top edge of the strip.
-
-<h4>Step 8: Cut and Install Shingles</h4>
-
-Rip-cut the shingles for the first course so they butt up against the third course of existing shingles and are even with the front edge of the starter course. Their tab slots should not line up with the tab slots of the starter course, if there are any. Nail the shingles just above the tab slots.
-
-Editor's Tip: The thicker the new shingle, the better it will hide any imperfections in the roofing below. It's a good idea to use at least 40-year shingles; architectural shingles are an even better choice.
-
-<h4>Step 9: Continue Installing Shingles</h4>
-
-Butt the succeeding courses of shingles against the bottoms of existing shingles and apply them by driving nails above the tab slots. Snap vertical control lines; there is no need to snap horizontal lines. Be sure the new tab slots do not align with the old ones.
-
-<h4>Step 10: Work Around Vent</h4>
-
-Once you have installed shingles just past a plumbing vent, install the flashing piece so it will lie on top of roofing at its bottom but be covered with roofing at its top. Depending on the width of the pipe, you may need to tear away a segment or two of the rubber boot. Apply roofing cement, slide the flashing over the pipe, and push so it lies flat on the roof.
-
-<h4>Step 11: Install Air Vents</h4>
-
-Install air vents in a similar manner. For both plumbing-vent flashing and air vents, you'll need to cut the shingle above to go around the flashing and then install the shingle.
-
-<h4>Step 12: Work Around Walls</h4>
-
-Where you meet a chimney or side wall, install step flashing. Apply a shingle, then a piece of flashing, then a shingle, and so on, so that each piece of flashing rests on top of the lower course and is covered by the upper course. You'll need to pry the siding outward to slip in the flashing; in some cases, you'll have to remove the siding.
-
-<!-------------------------------------------------------->
-
-<h4>Step 13: Install Counterflashing</h4>
-
-Protect the step flashing with counterflashing. On a chimney, use a grinder to cut an indentation into the mortar. Cut and bend the counterflashing to fit snugly into the cut mortar and to cover at least 3 inches of the step flashing. Apply mortar with a caulking gun and set the flashing into the mortar.
-
-<h4>Step 14: Cover Ridge</h4>
-
-Install roofing on both sides of a ridge and cut them so they butt closely together but do not overlap. Cut shingles into ridgecaps. Snap lines on either side and install the caps.
-
-<h4>Step 15: Cut Shingles</h4>
-
-At the rake, snap a line directly above the edge of the existing shingles. Cut with a utility knife; you might want to use a straightedge. You might find it easier if you first cut from below using the existing shingles as a cutting guide.
-
-<hr size="8" width="45%" color="green">
-
 <h3 id="roofing-basics">Roofing Basics</h3>
 <h4>These are the basic materials needed to perform a re-shingling project:</h4>
 <ul>
@@ -212,9 +124,6 @@ https://youtu.be/PuRoELYoUKY
 
 <h4>Consumer Reports "How to Shop for Roofing Shingles"</h4>
 Within asphalt, there’s a lot to consider. 
-
-<hr size="8" width="90%" color="green">
-
 <h5>Start by looking at shingle types, including </h5>
 <ul>
 <li>three-tab,</li>
@@ -224,8 +133,6 @@ Within asphalt, there’s a lot to consider.
 In our recent strength tests on products from six manufacturers, we found that the most costly type—multilayered architectural shingles, typically with three to four layers that overlap—generally performs better overall than other styles.
 But our testing also revealed lower-cost options with fewer layers that still perform admirably. “For most homes, a top-performing three-tab, which has only one layer, or architectural laminated shingles will work just fine,” says Misha Kollontai, who leads CR’s tests of roofing products.
 What’s more, you can find savings among similarly rated multilayered architectural laminated shingles. For instance, Iko Crowne Slate costs $180 per 100 square feet—a standard roofing quantity—compared with CertainTeed Presidential Shake at $325. That’s an 81 percent price difference for similar performance.
-
-<hr size="8" width="90%" color="green">
 
 <h4>Where do you start?</h4>
 <p>
@@ -242,7 +149,6 @@ In terms of cost and duration of the project, it varies depending on the size of
 <li>Copper: As a metal composition, this is highly wind and fire resistant. It can decrease energy cost but could not filter external noise. This is also on the pricier side at it costs more or less $15 per square foot.</li>
 <li>Fiberglass: This is lightweight and cost-effective ($4 to $5 per square foot). However, they are less durable than other types.</li>
  </ul>
-<hr size="8" width="90%" color="green">
  
 <h4>Basic Step-by-Step Guide on How to Re-shingle a Roof</h4>
 <ol>
@@ -263,10 +169,8 @@ By the time you are finished marking the areas, you will be able to determine th
  <li>Step #6: Install the shingles</li>
 When you are finally ready to lay the shingles, start by centering the first piece over the line markings. Afterwards, secure it with nails on each corner. Place the next shingle beside it until the first row of shingles is filled. Repeat the process for other areas of your roof.
 </ol>
-<hr size="8" width="90%" color="green">
 
 <h4>What do you need?</h4>
-<hr size="8" width="90%" color="green">
 
 <p>Important safety reminders
 We cannot emphasize enough how risky this task is. Aside from being difficult, you need to have the right skills to implement the re-shingling correctly. For starters, read about the safety measures you need to keep in mind and abide by to stay protected at all times.
@@ -278,9 +182,7 @@ Mount the ladder on an even surface and rest it against a solid structure. Make 
 Do not carry too many tools as it may strain your back. Bring handy tools and avoid taking materials that you do not need.
 Be mindful of your surroundings. Check if there are people passing by who might get hit by falling debris. It is also helpful to put a signage to warn other people that there is an ongoing construction.
 Take caution at all times because a roofing job is risky and difficult.
-</body>
-
-<hr size="8" width="90%" color="green">
+ </body>
 
 <h4>Layers to a roof</h4>
 <ul>
@@ -308,7 +210,6 @@ Titanium® UDL25, UDL30, & UDL50 Synthetic Roofing Underlayment
 Titanium® X30 Premium Synthetic Underlayment
  
  <li>3rd Layer: Hip & Ridge Shingles</li>
- 
 Overview<br>
 Berkshire® Hip & Ridge Shingles
 
@@ -357,19 +258,14 @@ The versatile DeckSeal Roofing System can be applied as either a 2 or 3 ply syst
     Complements VentSure® Ridge Vents for balanced intake and exhaust
 
 As a key component of a VentSure® Balanced Air Ventilation System, the VentSure® vents are an essential part of the Total Protection Roofing System^. 
-
-<h4>Anatomy of a Roof</h4>
-
-<!---![image](https://user-images.githubusercontent.com/41387907/120049999-b4a8db80-bfd0-11eb-9317-22cde13b470c.png)---->
-
-<img src="https://user-images.githubusercontent.com/41387907/120049999-b4a8db80-bfd0-11eb-9317-22cde13b470c.png" alt="Anatomy of a roof" width=75% height=75%>
+ <h4>Anatomy of a Roof</h4>
+ 
+![image](https://user-images.githubusercontent.com/41387907/120049999-b4a8db80-bfd0-11eb-9317-22cde13b470c.png)
 
  <h4>Which Roofing Shingle to Buy?</h4>
  
-<!---- ![image](https://user-images.githubusercontent.com/41387907/120050108-094c5680-bfd1-11eb-8ff1-9e5b2abd259c.png) -->
+ ![image](https://user-images.githubusercontent.com/41387907/120050108-094c5680-bfd1-11eb-8ff1-9e5b2abd259c.png)
 
-<img src="https://user-images.githubusercontent.com/41387907/120050108-094c5680-bfd1-11eb-8ff1-9e5b2abd259c.png" alt="Which roofing shingle to buy?" width=75% height=75%>
- 
 <hr size="8" width="90%" color="green">
 <!--------------------------------------------------------------------->
 <h3 id="find-store">Find a Store</h3>
@@ -417,9 +313,7 @@ Depending on how you're going to organize your rows and courses, some roofers li
   </ul>
 <br>
   
-<!-- ![Lay starting row at bottom of roof along the edge](https://user-images.githubusercontent.com/41387907/120050966-9a243180-bfd3-11eb-9048-77f382016542.png) -->
-
-<img src="https://user-images.githubusercontent.com/41387907/120050966-9a243180-bfd3-11eb-9048-77f382016542.png" alt="Lay starting row at bottom of roof along the edge" width=75% height=75%>
+  ![Lay starting row at bottom of roof along the edge](https://user-images.githubusercontent.com/41387907/120050966-9a243180-bfd3-11eb-9048-77f382016542.png)
 
   <li>Lay a starting row at the bottom of the roof along the edge.</li>
 [1] Place nails in the three tab shingles about 3/4 inch (1.8 centimeters) above the cutouts, near where the tab meets the upper part of the shingle. However, make sure that you do not nail into the tar strip. Also place a nail 2 inches from each end of the shingle, in line with the other two. In all, use four nails per 3-tab shingle.
@@ -427,9 +321,7 @@ Nailing here will cause the next shingle to cover the nail heads and allow the n
 If the nail gun is firing too deeply, almost mashing through the shingles, then the nails will soon pull through and come loose. Set the air compressor and gun depth setting lower.
 <br>
   
-<!-- ![Lay 1st row of shingles](https://user-images.githubusercontent.com/41387907/120050918-6e08b080-bfd3-11eb-8fe5-f01534773798.png) -->
-
-<img src="https://user-images.githubusercontent.com/41387907/120050918-6e08b080-bfd3-11eb-8fe5-f01534773798.png" alt="Lay 1st row of shingles" width=75% height=75%>
+  ![Lay 1st row of shingles](https://user-images.githubusercontent.com/41387907/120050918-6e08b080-bfd3-11eb-8fe5-f01534773798.png)
   
   <li>Lay the first row of shingles directly covering the narrow starter row.</li>
 Snap a horizontal chalk line over the starting row to use as a guide.[2] Cut six inches off the length of the first starter shingle nailed on, then use the rest of them full size. Shifting them in this way will join the ends of the first regular row of shingles placed over the starter shingles. This is the basic, sometimes called "straight up" way of laying shingles.
@@ -437,10 +329,8 @@ For the kind of shingles you purchase there may be a special starter row of shin
 Alternatively, you can use a starting row of full-sized shingles by turning them with the tabs pointing upward.
 <br>
 
-<!-- ![Lay 2nd row of shingles](https://user-images.githubusercontent.com/41387907/120051009-cf308400-bfd3-11eb-9438-be647e7e5453.png)-->
+![Lay 2nd row of shingles](https://user-images.githubusercontent.com/41387907/120051009-cf308400-bfd3-11eb-9438-be647e7e5453.png)
 
-<img src="https://user-images.githubusercontent.com/41387907/120051009-cf308400-bfd3-11eb-9438-be647e7e5453.png" alt="Lay 2nd row of shingles" width=75% height=75%>
-  
   <li>Lay the second row of shingles.</li>
 Set the first shingle of the second row back a half tab, 6 inches (17 centimeters), from the edge of first shingle on the first row and so that the bottom of its tabs just touches the tops of the cutout slots on the shingle below. This 1/2 tab has to be cut off where it hangs off the left edge of the gable roof.
 Snap a vertical chalk line from the inside edge of the first shingle on the second row to the top of the roof, and from the inside edge of the first shingle to the top of the roof. These chalk lines will serve as a guide for subsequent even-numbered rows of shingles, and odd-numbered rows, respectively. Continue working horizontally up the roof until you reach the peaks.
@@ -458,53 +348,46 @@ Stack pipes, vents and chimneys are surrounded with metal flashing laid over tar
   <li>Interlace the flashing around the chimney with the rows of shingles.</li>
 Cement a sheet metal flashing apron over the upper edge of the chimney flange before laying shingles over it and cement another flashing apron over the lower half. Then cover the lower apron on each cemented side layer of flashing that tucks under the top apron using asphalt roofing cement.
 <br>
-<!------  
-  ![Bring ridge edge together with ridge-capping layer](https://user-images.githubusercontent.com/41387907/120051116-39492900-bfd4-11eb-98ce-9b8bded88981.png)
-------->
-  <img src="https://user-images.githubusercontent.com/41387907/120051116-39492900-bfd4-11eb-98ce-9b8bded88981.png" alt="Bring ridge edge together with ridge-capping layer" width=75% height=75%>
   
+  ![Bring ridge edge together with ridge-capping layer](https://user-images.githubusercontent.com/41387907/120051116-39492900-bfd4-11eb-98ce-9b8bded88981.png)
+
   <li>Bring the ridge edges together with a ridge-capping layer.</li>
 You can either use special shingles called ridge shingles or cut a number of regular shingles into 3 tabbed, equal pieces and bend each so they fit snugly on the roof peak and nail them into place. You'll need longer nails for this part, as you're driving through more layers of shingles.
 
-<!--------![image](https://user-images.githubusercontent.com/41387907/120051147-5120ad00-bfd4-11eb-8017-cb6d5b424a7c.png)--------->
-
+<!--------
+![image](https://user-images.githubusercontent.com/41387907/120051147-5120ad00-bfd4-11eb-8017-cb6d5b424a7c.png)
+--------->
  </ol>
  <h4>Using Alternate Patterns</h4>
 <br>
-
-<!------ ![Using Alternate Patterns](https://user-images.githubusercontent.com/41387907/120051234-b1175380-bfd4-11eb-87ac-6263de99402a.png)-------> 
-
-<img src="https://user-images.githubusercontent.com/41387907/120051234-b1175380-bfd4-11eb-87ac-6263de99402a.png" alt="Using Alternate Patterns" width=75% height=75%>
  
+ ![Using Alternate Patterns](https://user-images.githubusercontent.com/41387907/120051234-b1175380-bfd4-11eb-87ac-6263de99402a.png)
+
  <h4>1. Understanding the Basic Patterns</h4>
   You'll get the most life out of your shingles and your roof by laying them in a smart pattern. The basic straight up pattern already described is perhaps the easiest and most commonly used, but professional roofers have different opinions about the most proper and efficient method of laying the shingles to get the most life out of them, which differ slightly in the amount of overlap and the pattern in which you install them. 
  The basic patterns include:
  <ul>
-<li>the straight-up pattern</li>
+  <li>the straight-up pattern</li>
 <li>the half pattern</li>
 <li>4-inch offset</li>
 <li>5-inch offset</li>
-</ul>
+ </ul>
  <br>
-
- <!-----  ![Stagger to achieve 1/2 pattern](https://user-images.githubusercontent.com/41387907/120051730-9a71fc00-bfd6-11eb-9311-2b1fbac19c3c.png) ----> 
  
- img src="https://user-images.githubusercontent.com/41387907/120051730-9a71fc00-bfd6-11eb-9311-2b1fbac19c3c.png" alt="Stagger to achieve 1/2 pattern" width=50% height=50%>
+ ![Stagger to achieve 1/2 pattern](https://user-images.githubusercontent.com/41387907/120051730-9a71fc00-bfd6-11eb-9311-2b1fbac19c3c.png)
  
  <h4>2. Stagger each course to achieve the half pattern.</h4>
 All the other patterns work in essentially the same way, offsetting the courses by a particular amount. For the 6-inch or "half" offset, you can protect butt joints and horizontally-moving water by starting a new course 6-inches in every row. Every seventh course, the butt joints will realign and offer stability and protection.
  <br>
-
- <img src="https://user-images.githubusercontent.com/41387907/120051762-d1481200-bfd6-11eb-951d-c8931de20417.png" alt="4 inch & 5 inch offsets for added protection" width=50% length=50%>
  
+ ![4" and 5" offsets for added protection](https://user-images.githubusercontent.com/41387907/120051762-d1481200-bfd6-11eb-951d-c8931de20417.png)
+
  <h4>3. Consider four and five inch offsets for added protection.</h4>
 The method is exactly the same, though the measurement of the offset is slightly different. In an offset of four inches, standard shingles will realign every ten courses, while the five inch offsets will realign every eight. Understanding the benefits of each will help you decide which method to use for your roof:
 The short overlap of the four inch offset is somewhat easier, allowing you to use cutouts to overlap every two courses, making less work for you. Unfortunately, because of this, the pattern is less desirable for extremely cold climates or very wet places.
 For most DIY roofers, the five-inch offset is the most desirable pattern. It offers the most protection per shingle, making it much less likely that runoff will cut through the in-betweens, hiding shingle irregularities, and getting the most bang for your buck.
-
-<!------ ![Racking? Dbl-check 1st](https://user-images.githubusercontent.com/41387907/120051831-2f74f500-bfd7-11eb-8f53-e514a247c081.png)------->
  
-<img src="https://user-images.githubusercontent.com/41387907/120051831-2f74f500-bfd7-11eb-8f53-e514a247c081.png" alt="Racking? Dbl Check 1st" width=50% height=50%>
+![Racking? Dbl-check 1st](https://user-images.githubusercontent.com/41387907/120051831-2f74f500-bfd7-11eb-8f53-e514a247c081.png)
 
  <h4>4. Consider "racking" shingles until you reach the top on each side.</h4>
 The racking technique uses two sizes of the first shingle of each row, the regular 3 tab pieces and shortened pieces for each end, working vertically rather than horizontally. It goes much faster, allowing you to keep your tools next to you as you work and avoiding having to constantly reposition.
@@ -544,21 +427,23 @@ The heavier the shingle on the new layer, the less likely it is that irregularit
 
 Laminated or other heavy-textured shingles work well, as they do not need to be carefully fitted to the existing shingles, and the irregular texture will conceal any small bumps or dips from the original roof.
 
-<h4>Prep Work for Re-Roofing Over Asphalt Shingles</h4>
+ <h4>Prep Work for Re-Roofing Over Asphalt Shingles</h4>
 
-Inspect the condition of the existing roof and roof deck for numer of roof layers, soundness of roof decking, smoothness of existing roof installation, and other factors that determine whether or not you can do a roof-over or if a roof shingle tear-off is required.
+    Inspect the condition of the existing roof and roof deck for numer of roof layers, soundness of roof decking, smoothness of existing roof installation, and other factors that determine whether or not you can do a roof-over or if a roof shingle tear-off is required.
 
-<!---+++++++++++++++--->
+<!----------------------- start of flashing ------------------------>
 
-<h3>Roof Drip Edge Flashing Requirements</h3>
- 
-<h4>Roof Drip Edge Flashing at Roof Eaves & Gable Ends<h4>
+<h4>Roof Drip Edge Flashing Requirements</h4>
 
-<!------ ![image](https://user-images.githubusercontent.com/41387907/120088253-95c74980-c0a3-11eb-8d3c-1265baff52c3.png) ----->
+ ![image](https://user-images.githubusercontent.com/41387907/120087311-99ef6900-c09b-11eb-9c36-7c1b2777f0b8.png)
 
-<img src="https://user-images.githubusercontent.com/41387907/120088253-95c74980-c0a3-11eb-8d3c-1265baff52c3.png" alt="Roof Drip Edge Flashing at Roof Eaves & Gable Ends" width=25% height=25%>
+ <h5>Roof Drip Edge Flashing at Roof Eaves & Gable Ends<h5>
+  
+  ![image](https://user-images.githubusercontent.com/41387907/120088253-95c74980-c0a3-11eb-8d3c-1265baff52c3.png)
 
-Roof drip edge flashing serves multiple functions on a building, the foremost of which is to assist water in leaving the roof edge with minimum damage to other building components by directing the water off of the roof and into the gutter.
+  Roof drip edge flashing serves multiple functions on a building, the foremost of which is to assist water in leaving the roof edge with minimum damage to other building components by directing the water off of the roof and into the gutter.
+
+[Click to enlarge any image]
 
 Without this detail water leaving the roof edge wants to run down building fascias, soffits, and walls, sometimes even entering and damaging the structure.
 
@@ -571,22 +456,30 @@ Lengths of drip vary but typically it's sold in ten foot lengths (120").
 The sketch above illustrates the end-profile of roof drip edge flashing and shows its placement on the roof. Usually you won't see much of drip edge as it's under the roof shingles, under the underlayment, and behind the roof gutter.
   
 <h4>Where Should Roof Drip Edge Flashing Be Placed ?<h4>
- 
-<!------- ![image](https://user-images.githubusercontent.com/41387907/120088300-e3dc4d00-c0a3-11eb-8865-fee59e1cb764.png) -------->
 
-<img src="https://user-images.githubusercontent.com/41387907/120088300-e3dc4d00-c0a3-11eb-8865-fee59e1cb764.png" alt="Where should roof drip edge flashing be place?" width=50% height=50%>
- 
-Our illustration above shows proper placement of the roof drip edge atop the roof sheathing - before installation of roofing felt or ice and water shield and spaced a bit away from the fascia board to improve its drainage.
+ ![image](https://user-images.githubusercontent.com/41387907/120088300-e3dc4d00-c0a3-11eb-8865-fee59e1cb764.png)
+
+ Our illustration above shows proper placement of the roof drip edge atop the roof sheathing - before installation of roofing felt or ice and water shield and spaced a bit away from the fascia board to improve its drainage.
  
 <h4>Use a Furring Strip to Improve Drip Edge Drainage</h4>
+ Some roofing manufacturers such as IKO suggest installing a furring strip to make sure that the drip edge is spaced well out from the fascia. 
+
+![image](https://user-images.githubusercontent.com/41387907/120088353-47667a80-c0a4-11eb-9c8f-edfe8cc6ea1b.png)
+
+If using a Type C drip edge, you can install a furring strip to increase its performance. A furring edge is a strip of one-by-two wood you install on the vertical surface of the house just beneath the roof’s edge. When you install the drip edge over this strip, it keeps the lower flange further from the home’s siding, which helps to keep water further from the home. (IKO 2019)
+
+In the sketch above the furring strip is shown in blue. Nail thefurring strip to the fascia board near the fascia top - tight under any extending of roof decking (usually absent); the Drip edge will be installed 1/8" proud of (away or out from) the furring strip in best practice or may be installed tight against the furring strip (reduces the life of the furring strip by rot). 
+ 
+<!----------------------- end of flashing ------------------------>
+ 
   
-<h4>Starter Course for Re-Roofing Asphalt Shingles</h4>
+ <h4>Starter Course for Re-Roofing Asphalt Shingles</h4>
 
 It is important to nest the new shingles against the old to create a flat surface.
 
-This process starts with a 5-inch starter strip fit along the eaves and set against the second course of existing shingles.
+This process starts with a 5-inch starter strip fit along the eaves and set against the second course of existing shingles (see Figure 2-16).
 
-<!------ ![image](Chttps://user-images.githubusercontent.com/41387907/120084914-1167cd00-c089-11eb-8f4a-5c6ba0470ae5.png) ------>
+![image](https://user-images.githubusercontent.com/41387907/120087251-2cdbd380-c09b-11eb-863f-c954c158deff.png)
 
 DF Notes:
 <mark>
@@ -616,40 +509,20 @@ Valley Details for Re-Roofing Asphalt Shingles
 Any type of valley flashing will work and simply lays over the existing flashing (except in a tear-off, where all flashings should be replaced).
 
 Unless a metal valley flashing is used, the first step is to line the existing valley with a new underlayment consisting of either 90-pound roll roofing or a more durable modified bitumen membrane. Then install either a closed or woven valley as described above.
-
-<h3>Asphalt Shingle Types</h3>
+ <h3>Asphalt Shingle Types</h3>
 
 <br>
-<!---- ![image](https://user-images.githubusercontent.com/41387907/120084914-1167cd00-c089-11eb-8f4a-5c6ba0470ae5.png)--->
+  
+ ![image](https://user-images.githubusercontent.com/41387907/120084914-1167cd00-c089-11eb-8f4a-5c6ba0470ae5.png)
  
-<img src="https://user-images.githubusercontent.com/41387907/120084914-1167cd00-c089-11eb-8f4a-5c6ba0470ae5.png" alt="Shingle Types" width=50% length=50%>
-
- <!--------------------------------------------------------------------->
+<!---------------------------------------------------------------------
 <h4>Drip Edge Flashing</h4>
 <br>
+ ![image](https://user-images.githubusercontent.com/41387907/120085152-84be0e80-c08a-11eb-8446-0f340f7eb5ee.png)
 
-<!--  ![image](https://user-images.githubusercontent.com/41387907/120085152-84be0e80-c08a-11eb-8446-0f340f7eb5ee.png) --> 
-
-<img src= "https://user-images.githubusercontent.com/41387907/120085152-84be0e80-c08a-11eb-8446-0f340f7eb5ee.png" alt="Drip Edge Flashing" width=50% length=50%>
-
-<br>
-
-<h2>Owens-Corning Berkshire Shingles - Installation Instructions</h2>
-<p>
-Synthetic Underlayment<br>
-Low Slope 2:12 to Less than 4:12:<br>
-Use an Owens Corning® Synthetic<br>
-Underlayment or equivalent<br>
-underlayment meeting ASTM D226,<br>
-D4869 or D6757. Underlayment must<br>
-be installed per the manufacturer’s<br>
-application instructions and local<br>
-building codes. Each underlayment<br>
-course must be overlapped a<br>
-minimum of 1/2 the width of the<br>
-underlayment plus 1 inch.
-</p>
-<!--------------------------------------------------------------------->
+ <br>
+--------------------------------------------------------------------->
+ 
 <hr size="8" width="90%" color="blue">
 <!--------------------------------------------------------------------->
 <h2 id="CC0101EN">CC0101EN: IBM's Introduction to Cloud Computing</h2>
@@ -688,9 +561,5 @@ underlayment plus 1 inch.
 
 <hr size="8" width="90%" color="green">
 <!--------------------------------------------------------------------->
-<hr size="8" width="90%" color="green">
-
 <!--------------------------------------------------------------------->
-<hr size="8" width="90%" color="green">
 <!--------------------------------------------------------------------->
-<hr size="8" width="90%" color="green">
