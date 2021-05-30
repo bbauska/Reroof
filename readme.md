@@ -509,11 +509,12 @@ Unless a metal valley flashing is used, the first step is to line the existing v
 <!--------------------------------------------------------------------->
 <h4>Drip Edge Flashing</h4>
 <br>
+ 
  ![image](https://user-images.githubusercontent.com/41387907/120085152-84be0e80-c08a-11eb-8446-0f340f7eb5ee.png)
 
  <br>
 <h2>Owens-Corning Berkshire Shingles - Installation Instructions</h2>
-<blockquote>
+<p>
 Synthetic Underlayment
 Low Slope 2:12 to Less than 4:12:
 Use an Owens Corning® Synthetic
@@ -526,7 +527,7 @@ building codes. Each underlayment
 course must be overlapped a
 minimum of 1/2 the width of the
 underlayment plus 1 inch. 
-</blockquote>
+</p>
 --------------------------------------------------------------------->
  
 <hr size="8" width="90%" color="blue">
