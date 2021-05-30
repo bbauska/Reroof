@@ -441,6 +441,8 @@ Laminated or other heavy-textured shingles work well, as they do not need to be 
  <h5>Roof Drip Edge Flashing at Roof Eaves & Gable Ends<h5>
   
   ![image](https://user-images.githubusercontent.com/41387907/120088253-95c74980-c0a3-11eb-8d3c-1265baff52c3.png)
+  
+  <img src="https://user-images.githubusercontent.com/41387907/120088253-95c74980-c0a3-11eb-8d3c-1265baff52c3.png" alt="Roof Drip Edge Flashing at Roof Eaves & Gable Ends" width=50% height=50%>
 
   Roof drip edge flashing serves multiple functions on a building, the foremost of which is to assist water in leaving the roof edge with minimum damage to other building components by directing the water off of the roof and into the gutter.
 
