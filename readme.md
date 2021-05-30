@@ -420,23 +420,17 @@ https://youtu.be/FdLahiPBWWs
  Step 3 - 3-tab 36" shingles with 5" reveal and 1/2" overlap at roof edge<br>
  
  <h3 id="reroof"?Re-Roofing Asphalt Shingles</h3>
-Shingle Type Recommendations for Re-Roofing Asphalt Shingles
+
+ <h4>Shingle Type Recommendations for Re-Roofing Asphalt Shingles</h4>
 
 The heavier the shingle on the new layer, the less likely it is that irregularities in the surface below will telegraph through.
 
 Laminated or other heavy-textured shingles work well, as they do not need to be carefully fitted to the existing shingles, and the irregular texture will conceal any small bumps or dips from the original roof.
-Prep Work for Re-Roofing Over Asphalt Shingles
+
+ <h4>Prep Work for Re-Roofing Over Asphalt Shingles</h4>
 
     Inspect the condition of the existing roof and roof deck for numer of roof layers, soundness of roof decking, smoothness of existing roof installation, and other factors that determine whether or not you can do a roof-over or if a roof shingle tear-off is required.
 
-    Our asphalt roof shingle layer photo (left) shows that this roof already has three layers of shingles installed - more layers are not permitted. More warnings are below at "When is it Dangerous to Roof-Over Existing Roof Coverings?". - Ed.
-    Watch for damaged or un-sound roof decking; investigate, strip shingles entirely, and replace roof sheathing as needed before proceeding with the roof-over on the rest of the roof.
-
-    If removal of shingles is required on some sections of a roof-over job, be sure that you properly build-up or shim meeting points between the removed-shingle area and the rest of the roof, so that the roof surface remains both cosmetically acceptable and so that you do not create a wear point in the new shingles that have to lap over these roof shingle thickness transitions. - Ed.
-    Clip any curled shingle corners and remove any curled tabs, replacing them with new shingle scraps as shims.
-    Install new drip edge on rakes and eaves. Specialty drip edge profiles designed for retrofitting wrap around the exposed roof edge, leaving a neat protected edge.
-    If the roof had no eaves flashing and one is needed, use a retrofit membrane such as AC Evenseal (NEI, Brentwood, New Hampshire).
-    If you have to remove all or part of the existing asphalt roof covering 
 
 <!---+++++++++++++++--->
 
@@ -444,10 +438,32 @@ Prep Work for Re-Roofing Over Asphalt Shingles
 
  ![image](https://user-images.githubusercontent.com/41387907/120087311-99ef6900-c09b-11eb-9c36-7c1b2777f0b8.png)
 
-   
  <h5>Roof Drip Edge Flashing at Roof Eaves & Gable Ends<h5>
   
-  <h1>re-roof</h1>
+  ![image](https://user-images.githubusercontent.com/41387907/120088253-95c74980-c0a3-11eb-8d3c-1265baff52c3.png)
+
+  Roof drip edge flashing serves multiple functions on a building, the foremost of which is to assist water in leaving the roof edge with minimum damage to other building components by directing the water off of the roof and into the gutter.
+
+[Click to enlarge any image]
+
+Without this detail water leaving the roof edge wants to run down building fascias, soffits, and walls, sometimes even entering and damaging the structure.
+
+The drip edge also gives us a nice straight edge with which to align roof shingles, slates or other roofing material.
+
+Drip edge varies in dimensions but typically the flange that nails to the roof surface is about 2.5" wide and the vertical edge that directs roof runoff down and away is about 1.5" in depth.
+
+Lengths of drip vary but typically it's sold in ten foot lengths (120").
+
+The sketch above illustrates the end-profile of roof drip edge flashing and shows its placement on the roof. Usually you won't see much of drip edge as it's under the roof shingles, under the underlayment, and behind the roof gutter.
+  
+<h4>Where Should Roof Drip Edge Flashing Be Placed ?<h4>
+
+ ![image](https://user-images.githubusercontent.com/41387907/120088300-e3dc4d00-c0a3-11eb-8865-fee59e1cb764.png)
+
+ Our illustration above shows proper placement of the roof drip edge atop the roof sheathing - before installation of roofing felt or ice and water shield and spaced a bit away from the fascia board to improve its drainage.
+ 
+<h4>Use a Furring Strip to Improve Drip Edge Drainage</h4>
+  
  <h4>Starter Course for Re-Roofing Asphalt Shingles</h4>
 
 It is important to nest the new shingles against the old to create a flat surface.
