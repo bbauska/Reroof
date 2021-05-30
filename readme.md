@@ -552,5 +552,9 @@ Unless a metal valley flashing is used, the first step is to line the existing v
 
 <hr size="8" width="90%" color="green">
 <!--------------------------------------------------------------------->
+<hr size="8" width="90%" color="green">
+
 <!--------------------------------------------------------------------->
+<hr size="8" width="90%" color="green">
 <!--------------------------------------------------------------------->
+<hr size="8" width="90%" color="green">
