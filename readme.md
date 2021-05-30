@@ -15,6 +15,7 @@ https://github.com/bbauska/Table-of-Contents-WIP.git
   * [Scalability](#scalability)
   * [Security](#security)
 - [Roof - with shingles](#ready-to-build-a-roof-diy)
+  * [Expert Tips](#expert-tips)
   * [Roofing Basics](#roofing-basics)
   * [Find Store](#find-store)
   * [Pick Your Shingles](#pick-your-shingles)
@@ -93,6 +94,93 @@ https://github.com/bbauska/Table-of-Contents-WIP.git
 Up and down like columns, or<br>
 Top across then down, like rows
  </p>
+<hr size="8" width="90%" color="green">
+
+<h3 id="expert-tips">Expert Tips</h3>
+
+If conditions are right, new shingles laid over old shingles can be just as attractive and durable as shingles laid on bare sheathing. Installation is easier than for a tear-off job because you can use the existing shingles as guides for laying the new ones. But you must take care to install shingles correctly so they lie flat. And a good job involves installing new flashings rather than relying on the existing ones.
+
+Reroof jobs are sometimes done without replacing flashings. However installing new flashings, including special drip-edge flashings made for reroofing, will ensure a tight seal and a long life. Some roofers install a layer of waterproof shingle underlayment (WSU) over the existing shingles at the eave end, as would be done for a roof laid on bare sheathing. This provides added protection against ice dams.
+
+Asphalt shingles can be laid over cedar shakes or shingles, however, this is a roofing project best left to pros. Beveled wood pieces called "horsefeathers" must be laid along the thick edges of the shakes to make a fairly flat surface. Before you reshingle a roof, read our step-by-step guide for adding new shingles over old ones.
+
+<h4>Materials</h4>
+<ul>
+ <li>Roof cement</li>
+<li>Flashing</li>
+<li>Nails for flashing</li>
+<li>WSU sheet</li>
+<li>Shingles</li>
+<li>Nails long enough to penetrate sheathing</li>
+</ul>
+<hr size="8" width="45%" color="green">
+
+<h4>Step 1: Remove Caps</h4>
+
+Remove the ridge caps. Doing it now will make it easier to keep the reroofing job clean. Use a flat pry bar or roofing shovel to pry out and remove the ridge shingles. Remove all nails.
+
+<h4>Step 2: Remove Obstructions</h4>
+
+Remove air vents and pipe flashings by prying out or unscrewing the fasteners holding the fixture. If you damage shingles while doing this, repair the shingles (see next step). Reuse a vent or flashing only if it is like new; otherwise, replace it with a new one that will fit the hole or pipe.
+
+<h4>Step 3: Repair Broken Shingles</h4>
+
+If a shingle is torn or cracked, glue the broken piece back in place using roofing cement. If the broken piece is lost, cut a new piece to fit the existing shingle. The goal is to provide a reasonably flat surface for the new shingles to lie over, with no gaps greater than 1/2 inch.
+
+<h4>Step 4: Sweep the Roof</h4>
+
+Using a large broom, brush away all broken shingle pieces, twigs, and any other debris that could become trapped under the new shingles that you install. Keep the roof clean as you work.
+
+<h4>Step 5: Install Flashing</h4>
+
+At the eave and the rake, install U-shape drip-edge flashing made for reroof jobs. Install the eave piece first, then the rake piece over it. The two pieces should meet neatly at the corners. Drive nails at high points on the underlying roof, the bottoms of the shingles.
+
+<h4>Step 6: Install Valley Flashing</h4>
+
+If you have an open valley, install new W-shape metal or vinyl valley flashing to fit directly over the old flashing. Attach it by driving nails into the outside edges only. Do not drive nails less than 6 inches from the center of the flashing.
+
+<h4>Step 7: Install Starter Strip</h4>
+
+Use a starter strip or cut pieces for a starter course. Rip-cut the starter strip or starter pieces so that they butt up against the second course of existing shingles and are even with the front edge of the existing roofing. Attach with nails along the top edge of the strip.
+
+<h4>Step 8: Cut and Install Shingles</h4>
+
+Rip-cut the shingles for the first course so they butt up against the third course of existing shingles and are even with the front edge of the starter course. Their tab slots should not line up with the tab slots of the starter course, if there are any. Nail the shingles just above the tab slots.
+
+Editor's Tip: The thicker the new shingle, the better it will hide any imperfections in the roofing below. It's a good idea to use at least 40-year shingles; architectural shingles are an even better choice.
+
+<h4>Step 9: Continue Installing Shingles</h4>
+
+Butt the succeeding courses of shingles against the bottoms of existing shingles and apply them by driving nails above the tab slots. Snap vertical control lines; there is no need to snap horizontal lines. Be sure the new tab slots do not align with the old ones.
+
+<h4>Step 10: Work Around Vent</h4>
+
+Once you have installed shingles just past a plumbing vent, install the flashing piece so it will lie on top of roofing at its bottom but be covered with roofing at its top. Depending on the width of the pipe, you may need to tear away a segment or two of the rubber boot. Apply roofing cement, slide the flashing over the pipe, and push so it lies flat on the roof.
+
+<h4>Step 11: Install Air Vents</h4>
+
+Install air vents in a similar manner. For both plumbing-vent flashing and air vents, you'll need to cut the shingle above to go around the flashing and then install the shingle.
+
+<h4>Step 12: Work Around Walls</h4>
+
+Where you meet a chimney or side wall, install step flashing. Apply a shingle, then a piece of flashing, then a shingle, and so on, so that each piece of flashing rests on top of the lower course and is covered by the upper course. You'll need to pry the siding outward to slip in the flashing; in some cases, you'll have to remove the siding.
+
+<!-------------------------------------------------------->
+
+<h4>Step 13: Install Counterflashing</h4>
+
+Protect the step flashing with counterflashing. On a chimney, use a grinder to cut an indentation into the mortar. Cut and bend the counterflashing to fit snugly into the cut mortar and to cover at least 3 inches of the step flashing. Apply mortar with a caulking gun and set the flashing into the mortar.
+
+<h4>Step 14: Cover Ridge</h4>
+
+Install roofing on both sides of a ridge and cut them so they butt closely together but do not overlap. Cut shingles into ridgecaps. Snap lines on either side and install the caps.
+
+<h4>Step 15: Cut Shingles</h4>
+
+At the rake, snap a line directly above the edge of the existing shingles. Cut with a utility knife; you might want to use a straightedge. You might find it easier if you first cut from below using the existing shingles as a cutting guide.
+
+<hr size="8" width="45%" color="green">
+
 <h3 id="roofing-basics">Roofing Basics</h3>
 <h4>These are the basic materials needed to perform a re-shingling project:</h4>
 <ul>
@@ -124,6 +212,9 @@ https://youtu.be/PuRoELYoUKY
 
 <h4>Consumer Reports "How to Shop for Roofing Shingles"</h4>
 Within asphalt, there’s a lot to consider. 
+
+<hr size="8" width="90%" color="green">
+
 <h5>Start by looking at shingle types, including </h5>
 <ul>
 <li>three-tab,</li>
@@ -133,6 +224,8 @@ Within asphalt, there’s a lot to consider.
 In our recent strength tests on products from six manufacturers, we found that the most costly type—multilayered architectural shingles, typically with three to four layers that overlap—generally performs better overall than other styles.
 But our testing also revealed lower-cost options with fewer layers that still perform admirably. “For most homes, a top-performing three-tab, which has only one layer, or architectural laminated shingles will work just fine,” says Misha Kollontai, who leads CR’s tests of roofing products.
 What’s more, you can find savings among similarly rated multilayered architectural laminated shingles. For instance, Iko Crowne Slate costs $180 per 100 square feet—a standard roofing quantity—compared with CertainTeed Presidential Shake at $325. That’s an 81 percent price difference for similar performance.
+
+<hr size="8" width="90%" color="green">
 
 <h4>Where do you start?</h4>
 <p>
@@ -149,6 +242,7 @@ In terms of cost and duration of the project, it varies depending on the size of
 <li>Copper: As a metal composition, this is highly wind and fire resistant. It can decrease energy cost but could not filter external noise. This is also on the pricier side at it costs more or less $15 per square foot.</li>
 <li>Fiberglass: This is lightweight and cost-effective ($4 to $5 per square foot). However, they are less durable than other types.</li>
  </ul>
+<hr size="8" width="90%" color="green">
  
 <h4>Basic Step-by-Step Guide on How to Re-shingle a Roof</h4>
 <ol>
@@ -169,8 +263,10 @@ By the time you are finished marking the areas, you will be able to determine th
  <li>Step #6: Install the shingles</li>
 When you are finally ready to lay the shingles, start by centering the first piece over the line markings. Afterwards, secure it with nails on each corner. Place the next shingle beside it until the first row of shingles is filled. Repeat the process for other areas of your roof.
 </ol>
+<hr size="8" width="90%" color="green">
 
 <h4>What do you need?</h4>
+<hr size="8" width="90%" color="green">
 
 <p>Important safety reminders
 We cannot emphasize enough how risky this task is. Aside from being difficult, you need to have the right skills to implement the re-shingling correctly. For starters, read about the safety measures you need to keep in mind and abide by to stay protected at all times.
@@ -182,7 +278,9 @@ Mount the ladder on an even surface and rest it against a solid structure. Make 
 Do not carry too many tools as it may strain your back. Bring handy tools and avoid taking materials that you do not need.
 Be mindful of your surroundings. Check if there are people passing by who might get hit by falling debris. It is also helpful to put a signage to warn other people that there is an ongoing construction.
 Take caution at all times because a roofing job is risky and difficult.
- </body>
+</body>
+
+<hr size="8" width="90%" color="green">
 
 <h4>Layers to a roof</h4>
 <ul>
@@ -210,6 +308,7 @@ Titanium® UDL25, UDL30, & UDL50 Synthetic Roofing Underlayment
 Titanium® X30 Premium Synthetic Underlayment
  
  <li>3rd Layer: Hip & Ridge Shingles</li>
+ 
 Overview<br>
 Berkshire® Hip & Ridge Shingles
 
