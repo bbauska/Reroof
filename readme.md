@@ -263,13 +263,13 @@ As a key component of a VentSure® Balanced Air Ventilation System, the VentSure
 
 <!---![image](https://user-images.githubusercontent.com/41387907/120049999-b4a8db80-bfd0-11eb-9317-22cde13b470c.png)---->
 
-<img src="https://user-images.githubusercontent.com/41387907/120049999-b4a8db80-bfd0-11eb-9317-22cde13b470c.png" alt="Anatomy of a roof" width=90% height=90%>
+<img src="https://user-images.githubusercontent.com/41387907/120049999-b4a8db80-bfd0-11eb-9317-22cde13b470c.png" alt="Anatomy of a roof" width=75% height=75%>
 
  <h4>Which Roofing Shingle to Buy?</h4>
  
 <!---- ![image](https://user-images.githubusercontent.com/41387907/120050108-094c5680-bfd1-11eb-8ff1-9e5b2abd259c.png) -->
 
-<img src="https://user-images.githubusercontent.com/41387907/120050108-094c5680-bfd1-11eb-8ff1-9e5b2abd259c.png" alt="Which roofing shingle to buy?" width=90% height=90%>
+<img src="https://user-images.githubusercontent.com/41387907/120050108-094c5680-bfd1-11eb-8ff1-9e5b2abd259c.png" alt="Which roofing shingle to buy?" width=75% height=75%>
  
 <hr size="8" width="90%" color="green">
 <!--------------------------------------------------------------------->
@@ -318,7 +318,9 @@ Depending on how you're going to organize your rows and courses, some roofers li
   </ul>
 <br>
   
-  ![Lay starting row at bottom of roof along the edge](https://user-images.githubusercontent.com/41387907/120050966-9a243180-bfd3-11eb-9048-77f382016542.png)
+<!-- ![Lay starting row at bottom of roof along the edge](https://user-images.githubusercontent.com/41387907/120050966-9a243180-bfd3-11eb-9048-77f382016542.png) -->
+
+<img src="https://user-images.githubusercontent.com/41387907/120050966-9a243180-bfd3-11eb-9048-77f382016542.png" alt="Lay starting row at bottom of roof along the edge" width=75% height=75%>
 
   <li>Lay a starting row at the bottom of the roof along the edge.</li>
 [1] Place nails in the three tab shingles about 3/4 inch (1.8 centimeters) above the cutouts, near where the tab meets the upper part of the shingle. However, make sure that you do not nail into the tar strip. Also place a nail 2 inches from each end of the shingle, in line with the other two. In all, use four nails per 3-tab shingle.
@@ -326,7 +328,9 @@ Nailing here will cause the next shingle to cover the nail heads and allow the n
 If the nail gun is firing too deeply, almost mashing through the shingles, then the nails will soon pull through and come loose. Set the air compressor and gun depth setting lower.
 <br>
   
-  ![Lay 1st row of shingles](https://user-images.githubusercontent.com/41387907/120050918-6e08b080-bfd3-11eb-8fe5-f01534773798.png)
+<!-- ![Lay 1st row of shingles](https://user-images.githubusercontent.com/41387907/120050918-6e08b080-bfd3-11eb-8fe5-f01534773798.png) -->
+
+<img src="https://user-images.githubusercontent.com/41387907/120050918-6e08b080-bfd3-11eb-8fe5-f01534773798.png" alt="Lay 1st row of shingles" width=75% height=75%>
   
   <li>Lay the first row of shingles directly covering the narrow starter row.</li>
 Snap a horizontal chalk line over the starting row to use as a guide.[2] Cut six inches off the length of the first starter shingle nailed on, then use the rest of them full size. Shifting them in this way will join the ends of the first regular row of shingles placed over the starter shingles. This is the basic, sometimes called "straight up" way of laying shingles.
@@ -334,8 +338,10 @@ For the kind of shingles you purchase there may be a special starter row of shin
 Alternatively, you can use a starting row of full-sized shingles by turning them with the tabs pointing upward.
 <br>
 
-![Lay 2nd row of shingles](https://user-images.githubusercontent.com/41387907/120051009-cf308400-bfd3-11eb-9438-be647e7e5453.png)
+<!-- ![Lay 2nd row of shingles](https://user-images.githubusercontent.com/41387907/120051009-cf308400-bfd3-11eb-9438-be647e7e5453.png)-->
 
+<img src="https://user-images.githubusercontent.com/41387907/120051009-cf308400-bfd3-11eb-9438-be647e7e5453.png" alt="Lay 2nd row of shingles" width=75% height=75%>
+  
   <li>Lay the second row of shingles.</li>
 Set the first shingle of the second row back a half tab, 6 inches (17 centimeters), from the edge of first shingle on the first row and so that the bottom of its tabs just touches the tops of the cutout slots on the shingle below. This 1/2 tab has to be cut off where it hangs off the left edge of the gable roof.
 Snap a vertical chalk line from the inside edge of the first shingle on the second row to the top of the roof, and from the inside edge of the first shingle to the top of the roof. These chalk lines will serve as a guide for subsequent even-numbered rows of shingles, and odd-numbered rows, respectively. Continue working horizontally up the roof until you reach the peaks.
@@ -399,7 +405,7 @@ For most DIY roofers, the five-inch offset is the most desirable pattern. It off
 
 <!------ ![Racking? Dbl-check 1st](https://user-images.githubusercontent.com/41387907/120051831-2f74f500-bfd7-11eb-8f53-e514a247c081.png)------->
  
-<img src="https://user-images.githubusercontent.com/41387907/120051831-2f74f500-bfd7-11eb-8f53-e514a247c081.png" alt="Racking? Dbl Check 1st" width=75% height=75%>
+<img src="https://user-images.githubusercontent.com/41387907/120051831-2f74f500-bfd7-11eb-8f53-e514a247c081.png" alt="Racking? Dbl Check 1st" width=50% height=50%>
 
  <h4>4. Consider "racking" shingles until you reach the top on each side.</h4>
 The racking technique uses two sizes of the first shingle of each row, the regular 3 tab pieces and shortened pieces for each end, working vertically rather than horizontally. It goes much faster, allowing you to keep your tools next to you as you work and avoiding having to constantly reposition.
@@ -451,7 +457,7 @@ Inspect the condition of the existing roof and roof deck for numer of roof layer
 
 <!------ ![image](https://user-images.githubusercontent.com/41387907/120088253-95c74980-c0a3-11eb-8d3c-1265baff52c3.png) ----->
 
-<img src="https://user-images.githubusercontent.com/41387907/120088253-95c74980-c0a3-11eb-8d3c-1265baff52c3.png" alt="Roof Drip Edge Flashing at Roof Eaves & Gable Ends" width=50% height=50%>
+<img src="https://user-images.githubusercontent.com/41387907/120088253-95c74980-c0a3-11eb-8d3c-1265baff52c3.png" alt="Roof Drip Edge Flashing at Roof Eaves & Gable Ends" width=25% height=25%>
 
 Roof drip edge flashing serves multiple functions on a building, the foremost of which is to assist water in leaving the roof edge with minimum damage to other building components by directing the water off of the roof and into the gutter.
 
@@ -469,7 +475,7 @@ The sketch above illustrates the end-profile of roof drip edge flashing and show
  
 <!------- ![image](https://user-images.githubusercontent.com/41387907/120088300-e3dc4d00-c0a3-11eb-8865-fee59e1cb764.png) -------->
 
-<img src="https://user-images.githubusercontent.com/41387907/120088300-e3dc4d00-c0a3-11eb-8865-fee59e1cb764.png" alt="Where should roof drip edge flashing be place?" width=100% height=100%>
+<img src="https://user-images.githubusercontent.com/41387907/120088300-e3dc4d00-c0a3-11eb-8865-fee59e1cb764.png" alt="Where should roof drip edge flashing be place?" width=50% height=50%>
  
 Our illustration above shows proper placement of the roof drip edge atop the roof sheathing - before installation of roofing felt or ice and water shield and spaced a bit away from the fascia board to improve its drainage.
  
