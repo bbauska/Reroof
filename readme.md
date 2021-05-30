@@ -470,7 +470,9 @@ It is important to nest the new shingles against the old to create a flat surfac
 
 This process starts with a 5-inch starter strip fit along the eaves and set against the second course of existing shingles (see Figure 2-16).
 
-![image](https://user-images.githubusercontent.com/41387907/120087251-2cdbd380-c09b-11eb-863f-c954c158deff.png)
+<img src="https://user-images.githubusercontent.com/41387907/120084914-1167cd00-c089-11eb-8f4a-5c6ba0470ae5.png" alt="Nesting Shingles" width=500 length=500>
+
+![image](Chttps://user-images.githubusercontent.com/41387907/120084914-1167cd00-c089-11eb-8f4a-5c6ba0470ae5.png)
 
 DF Notes:
 <mark>
