@@ -503,15 +503,19 @@ Unless a metal valley flashing is used, the first step is to line the existing v
  <h3>Asphalt Shingle Types</h3>
 
 <br>
-  
+<!----
  ![image](https://user-images.githubusercontent.com/41387907/120084914-1167cd00-c089-11eb-8f4a-5c6ba0470ae5.png)
+--->
  
-<!--------------------------------------------------------------------->
+<img src="https://user-images.githubusercontent.com/41387907/120084914-1167cd00-c089-11eb-8f4a-5c6ba0470ae5.png" alt="Shingle Types" width=50% length=50%>
+
+ <!--------------------------------------------------------------------->
 <h4>Drip Edge Flashing</h4>
 <br>
- 
+ <!--
  ![image](https://user-images.githubusercontent.com/41387907/120085152-84be0e80-c08a-11eb-8446-0f340f7eb5ee.png)
- 
+--> 
+
  <img src= "https://user-images.githubusercontent.com/41387907/120085152-84be0e80-c08a-11eb-8446-0f340f7eb5ee.png" alt="Drip Edge Flashing" width=50% length=50%>
 
  <br>
