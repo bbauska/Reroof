@@ -480,9 +480,9 @@ Our illustration above shows proper placement of the roof drip edge atop the roo
 
 It is important to nest the new shingles against the old to create a flat surface.
 
-This process starts with a 5-inch starter strip fit along the eaves and set against the second course of existing shingles (see Figure 2-16).
+This process starts with a 5-inch starter strip fit along the eaves and set against the second course of existing shingles.
 
-<img src="https://user-images.githubusercontent.com/41387907/120084914-1167cd00-c089-11eb-8f4a-5c6ba0470ae5.png" alt="Nesting Shingles" width=500 length=500>
+<img src="https://user-images.githubusercontent.com/41387907/120084914-1167cd00-c089-11eb-8f4a-5c6ba0470ae5.png" alt="Nesting Shingles" width=90% length=90%>
 
 <!------ ![image](Chttps://user-images.githubusercontent.com/41387907/120084914-1167cd00-c089-11eb-8f4a-5c6ba0470ae5.png) ------>
 
@@ -530,7 +530,7 @@ Unless a metal valley flashing is used, the first step is to line the existing v
 
 <!--  ![image](https://user-images.githubusercontent.com/41387907/120085152-84be0e80-c08a-11eb-8446-0f340f7eb5ee.png) --> 
 
-<img src= "https://user-images.githubusercontent.com/41387907/120085152-84be0e80-c08a-11eb-8446-0f340f7eb5ee.png" alt="Drip Edge Flashing" width=50% length=50%>
+<img src= "https://user-images.githubusercontent.com/41387907/120085152-84be0e80-c08a-11eb-8446-0f340f7eb5ee.png" alt="Drip Edge Flashing" width=25% length=25%>
 
 <br>
 
