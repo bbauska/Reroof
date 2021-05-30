@@ -14,6 +14,7 @@ https://github.com/bbauska/Table-of-Contents-WIP.git
   * [GitHub, Travis](#github-travis)
   * [Scalability](#scalability)
   * [Security](#security)
+  * 
 - [Roof - with shingles](#ready-to-build-a-roof-diy)
   * [Roofing Basics](#roofing-basics)
   * [Find Store](#find-store)
@@ -25,6 +26,7 @@ https://github.com/bbauska/Table-of-Contents-WIP.git
     + [Roofing Shingles](#cr-roofing-shingles)
     + [Roofing Part II](#cr-roofing-part-2)
   * [How to Lay Shingles](#how-to-lay-shingles)
+  * 
 - [CC0101EN: IBM's Intro to Cloud Computing](#CC0101EN)
   * [Overview](#CC-Overview)
   * [Cloud Adoption and Emerging Technologies](#CC-2)
@@ -122,7 +124,7 @@ Top across then down, like rows
 https://youtu.be/PuRoELYoUKY
 <br>
 
-<h4>Consumer Reports "How to Shop for Roofing Shingles"</h4>
+<h4 id="cr-roofing-shingles">Consumer Reports "How to Shop for Roofing Shingles"</h4>
 Within asphalt, there’s a lot to consider. 
 <h5>Start by looking at shingle types, including </h5>
 <ul>
@@ -134,7 +136,7 @@ In our recent strength tests on products from six manufacturers, we found that t
 But our testing also revealed lower-cost options with fewer layers that still perform admirably. “For most homes, a top-performing three-tab, which has only one layer, or architectural laminated shingles will work just fine,” says Misha Kollontai, who leads CR’s tests of roofing products.
 What’s more, you can find savings among similarly rated multilayered architectural laminated shingles. For instance, Iko Crowne Slate costs $180 per 100 square feet—a standard roofing quantity—compared with CertainTeed Presidential Shake at $325. That’s an 81 percent price difference for similar performance.
 
-<h4>Where do you start?</h4>
+<h4 id="cr-roofing-part-2">Where do you start?</h4>
 <p>
 When performing a re-shingling project, the first step is to know the type of material that you will be working on. Of course, you need to match it with the previously installed roofing system. If you change your mind and want a different roofing system, it will be a case for replacement.
 
