@@ -4,10 +4,11 @@ https://github.com/bbauska/Table-of-Contents-WIP.git
   * [Guide to Choosing the Right Shingles](#guide-shingles)
   * [Roofing Basics](#roofing-basics)
   * [Pick Your Shingles](#pick-your-shingles)
-  * [Total Protection](#total-protection-roof-system)
+<!----  * [Total Protection](#total-protection-roof-system) --->
   * [Roofing Components](#roofing-components)
   * [Consumer Reports - How to Shop for Roofing Shingles](#consumer-reports)
     + [Roofing Shingles](#cr-roofing-shingles)
+    + [Shingle Types}(#shingle-types)
     + [Roofing - Where to Start](#cr-roofing-part-2)
   * [How to Lay Shingles](#how-to-lay-shingles)
 - [Coinbase Pro Running Balance](#cb-pro)
@@ -519,7 +520,10 @@ Valley Details for Re-Roofing Asphalt Shingles
 Any type of valley flashing will work and simply lays over the existing flashing (except in a tear-off, where all flashings should be replaced).
 
 Unless a metal valley flashing is used, the first step is to line the existing valley with a new underlayment consisting of either 90-pound roll roofing or a more durable modified bitumen membrane. Then install either a closed or woven valley as described above.
- <h3>Asphalt Shingle Types</h3>
+
+ <hr size="8" width="45%" color="green">
+
+<h3 id="shingle-types">Asphalt Shingle Types</h3>
 
 <br>
   
