@@ -311,16 +311,16 @@ As a key component of a VentSure® Balanced Air Ventilation System, the VentSure
  ![image](https://user-images.githubusercontent.com/41387907/120050108-094c5680-bfd1-11eb-8ff1-9e5b2abd259c.png)
 
 <hr size="8" width="90%" color="green">
-<!--------------------------------------------------------------------->
+<!---------------------------------------------------------------------
 <h3 id="find-store">Find a Store</h3>
 <hr size="8" width="90%" color="green">
-<!--------------------------------------------------------------------->
+<!---------------------------------------------------------------------
 <h3 id="pick-your-shingles">Pick Your Shingles</h3>
 <hr size="8" width="90%" color="green">
-<!--------------------------------------------------------------------->
+<!---------------------------------------------------------------------
 <h3 id="find-contractor">Find Contractor</h3>
 <hr size="8" width="90%" color="green">
-<!--------------------------------------------------------------------->
+--------------------------------------------------------------------->
 <h3 id="total-protection-roof-system">Total Protection Roof System</h3>
 <hr>
 <!-- 
