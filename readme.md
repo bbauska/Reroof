@@ -55,7 +55,6 @@ https://github.com/bbauska/Table-of-Contents-WIP.git
 Up and down like columns, or<br>
 Top across then down, like rows
  </p>
-<h3 id="roofing-basics">Roofing Basics</h3>
 <h4>These are the basic materials needed to perform a re-shingling project:</h4>
 <ul>
  <li>Bundles of shingles</li>
@@ -415,7 +414,9 @@ https://youtu.be/FdLahiPBWWs
  <li>BP</li>
  <li>Private Labels</li>
  </ul>
- <hr size="8" width="45%" color="green">
+
+<hr size="8" width="45%" color="green">
+
 <p>
  Instructions on installing 3-tab and architectural shingles by roofingintelligence.com & this old house
  <br>
@@ -424,11 +425,12 @@ https://youtu.be/FdLahiPBWWs
  Step 3 - 3-tab 36" shingles with 5" reveal and 1/2" overlap at roof edge<br>
 </p>
 
- <hr size="8" width="45%" color="green">
+<hr size="8" width="45%" color="green">
 
- <h3 id="reroof"?Re-Roofing Asphalt Shingles</h3>
+<h3 id="reroof">Re-Roofing Asphalt Shingles</h3>
+<h3 id="roofing-basics">Roofing Basics</h3>
 
- <h4>Shingle Type Recommendations for Re-Roofing Asphalt Shingles</h4>
+<h4>Shingle Type Recommendations for Re-Roofing Asphalt Shingles</h4>
 
 The heavier the shingle on the new layer, the less likely it is that irregularities in the surface below will telegraph through.
  
@@ -436,24 +438,22 @@ Say your in Chicago.  The windy city.  There you would want a high weight/square
 
 Laminated or other heavy-textured shingles work well, as they do not need to be carefully fitted to the existing shingles, and the irregular texture will conceal any small bumps or dips from the original roof.
 
- <h4>Prep Work for Re-Roofing Over Asphalt Shingles</h4>
+<h4>Prep Work for Re-Roofing Over Asphalt Shingles</h4>
 
-    Inspect the condition of the existing roof and roof deck for numer of roof layers, soundness of roof decking, smoothness of existing roof installation, and other factors that determine whether or not you can do a roof-over or if a roof shingle tear-off is required.
+Inspect the condition of the existing roof and roof deck for numer of roof layers, soundness of roof decking, smoothness of existing roof installation, and other factors that determine whether or not you can do a roof-over or if a roof shingle tear-off is required.
 
 <!----------------------- start of flashing ------------------------>
 <hr size="8" width="45%" color="green">
 
 <h4>Roof Drip Edge Flashing Requirements</h4>
 
- ![image](https://user-images.githubusercontent.com/41387907/120087311-99ef6900-c09b-11eb-9c36-7c1b2777f0b8.png)
+![image](https://user-images.githubusercontent.com/41387907/120087311-99ef6900-c09b-11eb-9c36-7c1b2777f0b8.png)
 
  <h5>Roof Drip Edge Flashing at Roof Eaves & Gable Ends<h5>
   
-  ![image](https://user-images.githubusercontent.com/41387907/120088253-95c74980-c0a3-11eb-8d3c-1265baff52c3.png)
+![image](https://user-images.githubusercontent.com/41387907/120088253-95c74980-c0a3-11eb-8d3c-1265baff52c3.png)
 
   Roof drip edge flashing serves multiple functions on a building, the foremost of which is to assist water in leaving the roof edge with minimum damage to other building components by directing the water off of the roof and into the gutter.
-
-[Click to enlarge any image]
 
 Without this detail water leaving the roof edge wants to run down building fascias, soffits, and walls, sometimes even entering and damaging the structure.
 
