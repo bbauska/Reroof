@@ -3,9 +3,7 @@ https://github.com/bbauska/Table-of-Contents-WIP.git
 - [Roof - with shingles](#ready-to-build-a-roof-diy)
   * [Guide to Choosing the Right Shingles](#guide-shingles)
   * [Roofing Basics](#roofing-basics)
-  * [Find Store](#find-store)
   * [Pick Your Shingles](#pick-your-shingles)
-  * [Find Contractor](#Find-contractor)
   * [Total Protection](#total-protection-roof-system)
   * [Roofing Components](#roofing-components)
   * [Consumer Reports - How to Shop for Roofing Shingles](#consumer-reports)
@@ -484,7 +482,7 @@ In the sketch above the furring strip is shown in blue. Nail thefurring strip to
 <!----------------------- end of flashing ------------------------>
 <hr size="8" width="45%" color="green">
   
- <h4>Starter Course for Re-Roofing Asphalt Shingles</h4>
+<h4>Starter Course for Re-Roofing Asphalt Shingles</h4>
 
 It is important to nest the new shingles against the old to create a flat surface.
 
@@ -526,7 +524,7 @@ Unless a metal valley flashing is used, the first step is to line the existing v
   
  ![image](https://user-images.githubusercontent.com/41387907/120084914-1167cd00-c089-11eb-8f4a-5c6ba0470ae5.png)
 <br>
-
+<!---------------------end of roofing sections------------------------->
 <hr size="8" width="90%" color="blue">
 <!--------------------------------------------------------------------->
 <!----------Coinbase Pro Running Balance: st: 5/28/21 ish-------------->
