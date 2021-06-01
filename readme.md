@@ -47,7 +47,7 @@ https://github.com/bbauska/Table-of-Contents-WIP.git
     + [JavaScript DOM Objects](#CAD-Mod04-6)
     + [JavaScript APIs](#CAD-Mod04-7)
   * [GitHub](#CAD-Mod05)
-<hr size="8" width="90%" color="green">
+<hr size="8" width="90%" color="blue">
 <!--------------------------------------------------------------------->
 <!---------------------re-roof (re-shingle)---------------------------->
 <!--------------------------------------------------------------------->
@@ -266,16 +266,16 @@ As a key component of a VentSure® Balanced Air Ventilation System, the VentSure
  
  ![image](https://user-images.githubusercontent.com/41387907/120050108-094c5680-bfd1-11eb-8ff1-9e5b2abd259c.png)
 
-<hr size="8" width="90%" color="green">
+<hr size="8" width="45%" color="green">
 <!---------------------------------------------------------------------
 <h3 id="find-store">Find a Store</h3>
-<hr size="8" width="90%" color="green">
+<hr size="8" width="45%" color="green">
 <!---------------------------------------------------------------------
 <h3 id="pick-your-shingles">Pick Your Shingles</h3>
-<hr size="8" width="90%" color="green">
+<hr size="8" width="45%" color="green">
 <!---------------------------------------------------------------------
 <h3 id="find-contractor">Find Contractor</h3>
-<hr size="8" width="90%" color="green">
+<hr size="8" width="45%" color="green">
 --------------------------------------------------------------------->
 <h3 id="total-protection-roof-system">Total Protection Roof System</h3>
 <hr>
@@ -291,11 +291,11 @@ As a key component of a VentSure® Balanced Air Ventilation System, the VentSure
  
 ![image](https://user-images.githubusercontent.com/41387907/120037564-afd72e00-bfb6-11eb-85b8-e64f75ad2700.png)
 ---->
-<hr size="8" width="90%" color="green">
+<hr size="8" width="45%" color="green">
 
 <!--------------------------------------------------------------------->
 <h3 id="roofing-components">Roofing Components (or, what makes up a roof?)</h3>
-<hr size="8" width="90%" color="green">
+<hr size="8" width="45%" color="green">
 <!--------------------------------------------------------------------->
  <h3 id="how-to-lay-shingles">How to Lay Shingles</h2>
  <ol>
@@ -312,7 +312,8 @@ Usually, the following cuts are useful:
    <li>Keep your sixth course tabs intact</li>
   </ul>
 <br>
-  
+<hr size="8" width="45%" color="green">
+
 ![Lay starting row at bottom of roof along the edge](https://user-images.githubusercontent.com/41387907/120050966-9a243180-bfd3-11eb-9048-77f382016542.png)
 
 <li>Lay a starting row at the bottom of the roof along the edge.</li>
@@ -397,6 +398,8 @@ Racking shingles sometimes also may create a condition called "pattern curling,"
 In some cases, racking may void the manufacturer's warranty on the expected leak-proofing quality and useful life of some brands of shingles. It's a common practice among contractors.
  
 https://youtu.be/FdLahiPBWWs
+
+<hr size="8" width="45%" color="green">
  
 <h4>Tier 1 Shingle Makers</h4>
 <ul>
@@ -413,12 +416,17 @@ https://youtu.be/FdLahiPBWWs
  <li>BP</li>
  <li>Private Labels</li>
  </ul>
+ <hr size="8" width="45%" color="green">
+<p>
  Instructions on installing 3-tab and architectural shingles by roofingintelligence.com & this old house
  <br>
  Step 1 - Drip Edge (flashing)<br>
  Step 2 - Felt Paper<br>
  Step 3 - 3-tab 36" shingles with 5" reveal and 1/2" overlap at roof edge<br>
- 
+</p>
+
+ <hr size="8" width="45%" color="green">
+
  <h3 id="reroof"?Re-Roofing Asphalt Shingles</h3>
 
  <h4>Shingle Type Recommendations for Re-Roofing Asphalt Shingles</h4>
@@ -434,6 +442,7 @@ Laminated or other heavy-textured shingles work well, as they do not need to be 
     Inspect the condition of the existing roof and roof deck for numer of roof layers, soundness of roof decking, smoothness of existing roof installation, and other factors that determine whether or not you can do a roof-over or if a roof shingle tear-off is required.
 
 <!----------------------- start of flashing ------------------------>
+<hr size="8" width="45%" color="green">
 
 <h4>Roof Drip Edge Flashing Requirements</h4>
 
@@ -473,7 +482,7 @@ If using a Type C drip edge, you can install a furring strip to increase its per
 In the sketch above the furring strip is shown in blue. Nail thefurring strip to the fascia board near the fascia top - tight under any extending of roof decking (usually absent); the Drip edge will be installed 1/8" proud of (away or out from) the furring strip in best practice or may be installed tight against the furring strip (reduces the life of the furring strip by rot). 
  
 <!----------------------- end of flashing ------------------------>
- 
+<hr size="8" width="45%" color="green">
   
  <h4>Starter Course for Re-Roofing Asphalt Shingles</h4>
 
@@ -518,7 +527,7 @@ Unless a metal valley flashing is used, the first step is to line the existing v
  ![image](https://user-images.githubusercontent.com/41387907/120084914-1167cd00-c089-11eb-8f4a-5c6ba0470ae5.png)
 <br>
 
-<hr size="8" width="90%" color="green">
+<hr size="8" width="90%" color="blue">
 <!--------------------------------------------------------------------->
 <!----------Coinbase Pro Running Balance: st: 5/28/21 ish-------------->
 <!--------------------------------------------------------------------->
@@ -530,8 +539,10 @@ Unless a metal valley flashing is used, the first step is to line the existing v
 ![image](https://user-images.githubusercontent.com/41387907/120022505-587a9300-bfa1-11eb-82f4-35286177afd4.png)
    Price / Coin Pd:
    
-   ![image](https://user-images.githubusercontent.com/41387907/120022701-a2637900-bfa1-11eb-942d-100dff41a4b6.png)
-<hr size="8" width="90%" color="green">
+![image](https://user-images.githubusercontent.com/41387907/120022701-a2637900-bfa1-11eb-942d-100dff41a4b6.png)
+   Portfolio Snapshot
+
+<hr size="8" width="90%" color="blue">
 <!--------------------------------------------------------------------->
 <!----------C50: Web Programming with JavaScript & Python-------------->
 <!--------------------------------------------------------------------->
@@ -612,7 +623,7 @@ Unless a metal valley flashing is used, the first step is to line the existing v
  <h3 id="CAD-Mod04-7">JavaScript APIs</h3>
 <h3 id="CAD-Mod05">GitHub</h3>
 
-<hr size="8" width="90%" color="green">
+<hr size="8" width="90%" color="blue">
 <!--------------------------------------------------------------------->
 <!--------------------------------------------------------------------->
 <!--------------------------------------------------------------------->
