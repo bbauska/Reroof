@@ -51,6 +51,7 @@ https://github.com/bbauska/Table-of-Contents-WIP.git
   * [GitHub](#CAD-Mod05)
 <hr size="8" width="90%" color="green">
 <!--------------------------------------------------------------------->
+<!----------Coinbase Pro Running Balance: st: 5/28/21 ish-------------->
 <!--------------------------------------------------------------------->
 <h2 id="cb-pro">Coinbase Pro Running Balance</h2>
 
@@ -63,6 +64,9 @@ https://github.com/bbauska/Table-of-Contents-WIP.git
    ![image](https://user-images.githubusercontent.com/41387907/120022701-a2637900-bfa1-11eb-942d-100dff41a4b6.png)
 <hr size="8" width="90%" color="green">
 <!--------------------------------------------------------------------->
+<!----------C50: Web Programming with JavaScript & Python-------------->
+<!--------------------------------------------------------------------->
+
 <h2 id="web-programming-with-js-python">cs50 - Web Programming with JavaScript and Python</h2>
 
 <h3 id="git">git</h3>
@@ -91,6 +95,9 @@ https://github.com/bbauska/Table-of-Contents-WIP.git
 
 <hr size="8" width="90%" color="green">
 <!--------------------------------------------------------------------->
+<!---------------------re-roof (re-shingle)---------------------------->
+<!--------------------------------------------------------------------->
+
 <h2 id="ready-to-build-a-roof-diy">Roof</h2>
 <p>Stair Step or Staggering?<br>
 Up and down like columns, or<br>
@@ -119,9 +126,6 @@ Top across then down, like rows
 <li>Tape measure</li>
 <li>Straight edge for cutting evenly</li>
 </ul>
-
-
-
 
 <!--------------------------------------------------------------------->
 <h3 id="guide-shingles">Guide to Choosing the Right Roofing Shingles</h3>
@@ -157,8 +161,6 @@ One of the most popular roofing materials in the country, asphalt shingles are e
     Average lifespan: 20 years
 
     “Asphalt shingles possess an overwhelming share of the U.S. steep-slope roofing market and can be reinforced with organic or fiberglass materials. Although asphalt shingles reinforced with organic felts have been around much longer, fiberglass-reinforced products now dominate the market.”
-
-
 
 <!--------------------------------------------------------------------->
 
@@ -565,9 +567,11 @@ Unless a metal valley flashing is used, the first step is to line the existing v
 <h4>Drip Edge Flashing</h4>
 <br>
  ![image](https://user-images.githubusercontent.com/41387907/120085152-84be0e80-c08a-11eb-8446-0f340f7eb5ee.png)
-
  <br>
---------------------------------------------------------------------->
+----------------------------------------------------------------------->
+<!--------------------------------------------------------------------->
+<!---------------CC0101EN: Into to Cloud Computing--------------------->
+<!--------------------------------------------------------------------->
  
 <hr size="8" width="90%" color="blue">
 <!--------------------------------------------------------------------->
@@ -583,6 +587,8 @@ Unless a metal valley flashing is used, the first step is to line the existing v
 <br>
 
 <hr size="8" width="90%" color="blue">
+<!--------------------------------------------------------------------->
+<!---------------CAD101EN: Into to Cloud Development------------------->
 <!--------------------------------------------------------------------->
 
 <h2 id="CAD101EN">CAD101EN: IBM's Introduction to Cloud Development with HTML5, CSS3, & JavaScript</h2>
@@ -608,4 +614,7 @@ Unless a metal valley flashing is used, the first step is to line the existing v
 <hr size="8" width="90%" color="green">
 <!--------------------------------------------------------------------->
 <!--------------------------------------------------------------------->
+<!--------------------------------------------------------------------->
+<!--------------------------------------------------------------------->
+<!---------------LFS101EN: Into to Cloud Development------------------->
 <!--------------------------------------------------------------------->
