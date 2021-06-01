@@ -468,6 +468,8 @@ https://youtu.be/FdLahiPBWWs
  <h4>Shingle Type Recommendations for Re-Roofing Asphalt Shingles</h4>
 
 The heavier the shingle on the new layer, the less likely it is that irregularities in the surface below will telegraph through.
+ 
+Say your in Chicago.  The windy city.  There you would want a high weight/square so your shingles don't blow into the Calumet river.  360 is max, 200 min.
 
 Laminated or other heavy-textured shingles work well, as they do not need to be carefully fitted to the existing shingles, and the irregular texture will conceal any small bumps or dips from the original roof.
 
