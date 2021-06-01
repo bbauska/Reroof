@@ -4,12 +4,11 @@ https://github.com/bbauska/Table-of-Contents-WIP.git
   * [Guide to Choosing the Right Shingles](#guide-shingles)
   * [Roofing Basics](#roofing-basics)
   * [Pick Your Shingles](#pick-your-shingles)
-<!----  * [Total Protection](#total-protection-roof-system) --->
   * [Roofing Components](#roofing-components)
   * [Consumer Reports - How to Shop for Roofing Shingles](#consumer-reports)
     + [Roofing Shingles](#cr-roofing-shingles)
-    + [Shingle Types}(#shingle-types)
-    + [Roofing - Where to Start](#cr-roofing-part-2)
+    + [Shingle Types](#shingle-types)
+    + [Roofing - Where to Start](#cr-roofing-start)
   * [How to Lay Shingles](#how-to-lay-shingles)
 - [Coinbase Pro Running Balance](#cb-pro)
 - [CS50 Web Programming with JavaScript & Python](#web-programming-with-js-python)
@@ -133,7 +132,7 @@ In our recent strength tests on products from six manufacturers, we found that t
 But our testing also revealed lower-cost options with fewer layers that still perform admirably. “For most homes, a top-performing three-tab, which has only one layer, or architectural laminated shingles will work just fine,” says Misha Kollontai, who leads CR’s tests of roofing products.
 What’s more, you can find savings among similarly rated multilayered architectural laminated shingles. For instance, Iko Crowne Slate costs $180 per 100 square feet—a standard roofing quantity—compared with CertainTeed Presidential Shake at $325. That’s an 81 percent price difference for similar performance.
 
-<h4 id="cr-roofing-part-2">Where do you start?</h4>
+<h4 id="cr-roofing-start">Where do you start?</h4>
 <p>
 When performing a re-shingling project, the first step is to know the type of material that you will be working on. Of course, you need to match it with the previously installed roofing system. If you change your mind and want a different roofing system, it will be a case for replacement.
 
