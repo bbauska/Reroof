@@ -271,8 +271,6 @@ As a key component of a VentSure® Balanced Air Ventilation System, the VentSure
 <h3 id="find-contractor">Find Contractor</h3>
 <hr size="8" width="45%" color="green">
 --------------------------------------------------------------------->
-<h3 id="total-protection-roof-system">Total Protection Roof System</h3>
-<hr>
 <!-- 
 ![image](https://user-images.githubusercontent.com/41387907/120037368-5ec73a00-bfb6-11eb-808f-825d3f59a724.png)
 <hr>
