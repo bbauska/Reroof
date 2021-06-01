@@ -14,7 +14,6 @@ https://github.com/bbauska/Table-of-Contents-WIP.git
   * [GitHub, Travis](#github-travis)
   * [Scalability](#scalability)
   * [Security](#security)
-  * 
 - [Roof - with shingles](#ready-to-build-a-roof-diy)
   * [Guide to Choosing the Right Shingles](#guide-shingles)
   * [Roofing Basics](#roofing-basics)
@@ -27,7 +26,20 @@ https://github.com/bbauska/Table-of-Contents-WIP.git
     + [Roofing Shingles](#cr-roofing-shingles)
     + [Roofing Part II](#cr-roofing-part-2)
   * [How to Lay Shingles](#how-to-lay-shingles)
-  * 
+- [Coinbase Pro Running Balance](#cb-pro)
+- [CS50 Web Programming with JavaScript & Python](#web-programming-with-js-python)
+  * [git](#git)
+  * [HTML, CSS](#html-css)
+  * [Flask](#Flask)
+  * [SQL](#SQL)
+  * [ORMs, APIs](#orm-api)
+  * [JavaScript](#javascript)
+  * [Front Ends](#front-ends)
+  * [Django](#django)
+  * [Testing, CI-CD](#testing-cicd)
+  * [GitHub, Travis](#github-travis)
+  * [Scalability](#scalability)
+  * [Security](#security)
 - [CC0101EN: IBM's Intro to Cloud Computing](#CC0101EN)
   * [Overview](#CC-Overview)
   * [Cloud Adoption and Emerging Technologies](#CC-2)
@@ -49,50 +61,6 @@ https://github.com/bbauska/Table-of-Contents-WIP.git
     + [JavaScript DOM Objects](#CAD-Mod04-6)
     + [JavaScript APIs](#CAD-Mod04-7)
   * [GitHub](#CAD-Mod05)
-<hr size="8" width="90%" color="green">
-<!--------------------------------------------------------------------->
-<!----------Coinbase Pro Running Balance: st: 5/28/21 ish-------------->
-<!--------------------------------------------------------------------->
-<h2 id="cb-pro">Coinbase Pro Running Balance</h2>
-
-    SNAPSHOT 5/28/2021 10:34am<br>
-    Portfolio > 100 $:<br>
-
-![image](https://user-images.githubusercontent.com/41387907/120022505-587a9300-bfa1-11eb-82f4-35286177afd4.png)
-   Price / Coin Pd:
-   
-   ![image](https://user-images.githubusercontent.com/41387907/120022701-a2637900-bfa1-11eb-942d-100dff41a4b6.png)
-<hr size="8" width="90%" color="green">
-<!--------------------------------------------------------------------->
-<!----------C50: Web Programming with JavaScript & Python-------------->
-<!--------------------------------------------------------------------->
-
-<h2 id="web-programming-with-js-python">cs50 - Web Programming with JavaScript and Python</h2>
-
-<h3 id="git">git</h3>
-
-<h3 id="html-css">HTML/CSS</h3>
-
-<h3 id="flask">Flask</h3>
-
-<h3 id="sql">SQL</h3>
-
-<h3 id="orm-api">ORMs, APIs</h3>
-
-<h3 id="javascript">JavaScript</h3>
-
-<h3 id="front-ends">Front Ends</h3>
-
-<h3 id="django">Django</h3>
-
-<h3 id="testing-CICD">Testing, CI/CD</h3>
-
-<h3 id="github-travis">GitHub, Travis</h3>
-
-<h3 id="scalability">Scalabilty</h3>
-
-<h3 id="security">Security</h3>
-
 <hr size="8" width="90%" color="green">
 <!--------------------------------------------------------------------->
 <!---------------------re-roof (re-shingle)---------------------------->
@@ -348,7 +316,7 @@ As a key component of a VentSure® Balanced Air Ventilation System, the VentSure
   <li>Size your shingles appropriately.</li>
 Depending on how you're going to organize your rows and courses, some roofers like to cut five variable sizes of shingles when using the basic three-tab variety. Basically, you'll cut off one-half tab-width of the first tab to start the first course, changing the necessary area to fill with each row, shifting the "slots." 
 
-  Usually, the following cuts are useful:
+Usually, the following cuts are useful:
   <ul>
    <li>A half tab off for your first course shingles,</li>
    <li>A full tab for your second course shingles</li>
@@ -359,17 +327,17 @@ Depending on how you're going to organize your rows and courses, some roofers li
   </ul>
 <br>
   
-  ![Lay starting row at bottom of roof along the edge](https://user-images.githubusercontent.com/41387907/120050966-9a243180-bfd3-11eb-9048-77f382016542.png)
+![Lay starting row at bottom of roof along the edge](https://user-images.githubusercontent.com/41387907/120050966-9a243180-bfd3-11eb-9048-77f382016542.png)
 
-  <li>Lay a starting row at the bottom of the roof along the edge.</li>
-[1] Place nails in the three tab shingles about 3/4 inch (1.8 centimeters) above the cutouts, near where the tab meets the upper part of the shingle. However, make sure that you do not nail into the tar strip. Also place a nail 2 inches from each end of the shingle, in line with the other two. In all, use four nails per 3-tab shingle.
+<li>Lay a starting row at the bottom of the roof along the edge.</li>
+Place nails in the three tab shingles about 3/4 inch (1.8 centimeters) above the cutouts, near where the tab meets the upper part of the shingle. However, make sure that you do not nail into the tar strip. Also place a nail 2 inches from each end of the shingle, in line with the other two. In all, use four nails per 3-tab shingle.
 Nailing here will cause the next shingle to cover the nail heads and allow the next and subsequent rows of nails in shingles to always penetrate and hold the top edge of the lower row (this allows 8 nails to hold each shingle).
 If the nail gun is firing too deeply, almost mashing through the shingles, then the nails will soon pull through and come loose. Set the air compressor and gun depth setting lower.
 <br>
   
-  ![Lay 1st row of shingles](https://user-images.githubusercontent.com/41387907/120050918-6e08b080-bfd3-11eb-8fe5-f01534773798.png)
+![Lay 1st row of shingles](https://user-images.githubusercontent.com/41387907/120050918-6e08b080-bfd3-11eb-8fe5-f01534773798.png)
   
-  <li>Lay the first row of shingles directly covering the narrow starter row.</li>
+<li>Lay the first row of shingles directly covering the narrow starter row.</li>
 Snap a horizontal chalk line over the starting row to use as a guide.[2] Cut six inches off the length of the first starter shingle nailed on, then use the rest of them full size. Shifting them in this way will join the ends of the first regular row of shingles placed over the starter shingles. This is the basic, sometimes called "straight up" way of laying shingles.
 For the kind of shingles you purchase there may be a special starter row of shingles or a roll of strip material that you cut to the length of your roof.
 Alternatively, you can use a starting row of full-sized shingles by turning them with the tabs pointing upward.
@@ -562,7 +530,54 @@ Unless a metal valley flashing is used, the first step is to line the existing v
 <br>
   
  ![image](https://user-images.githubusercontent.com/41387907/120084914-1167cd00-c089-11eb-8f4a-5c6ba0470ae5.png)
- 
+<br>
+
+<hr size="8" width="90%" color="green">
+<!--------------------------------------------------------------------->
+<!----------Coinbase Pro Running Balance: st: 5/28/21 ish-------------->
+<!--------------------------------------------------------------------->
+<h2 id="cb-pro">Coinbase Pro Running Balance</h2>
+
+    SNAPSHOT 5/28/2021 10:34am<br>
+    Portfolio > 100 $:<br>
+
+![image](https://user-images.githubusercontent.com/41387907/120022505-587a9300-bfa1-11eb-82f4-35286177afd4.png)
+   Price / Coin Pd:
+   
+   ![image](https://user-images.githubusercontent.com/41387907/120022701-a2637900-bfa1-11eb-942d-100dff41a4b6.png)
+<hr size="8" width="90%" color="green">
+<!--------------------------------------------------------------------->
+<!----------C50: Web Programming with JavaScript & Python-------------->
+<!--------------------------------------------------------------------->
+
+<h2 id="web-programming-with-js-python">cs50 - Web Programming with JavaScript and Python</h2>
+
+<h3 id="git">git</h3>
+
+<h3 id="html-css">HTML/CSS</h3>
+
+<h3 id="flask">Flask</h3>
+
+<h3 id="sql">SQL</h3>
+
+<h3 id="orm-api">ORMs, APIs</h3>
+
+<h3 id="javascript">JavaScript</h3>
+
+<h3 id="front-ends">Front Ends</h3>
+
+<h3 id="django">Django</h3>
+
+<h3 id="testing-CICD">Testing, CI/CD</h3>
+
+<h3 id="github-travis">GitHub, Travis</h3>
+
+<h3 id="scalability">Scalabilty</h3>
+
+<h3 id="security">Security</h3>
+
+<hr size="8" width="90%" color="blue">
+
 <!---------------------------------------------------------------------
 <h4>Drip Edge Flashing</h4>
 <br>
