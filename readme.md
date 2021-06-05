@@ -116,12 +116,18 @@ One of the most popular roofing materials in the country, asphalt shingles are e
 >“Asphalt shingles possess an overwhelming share of the U.S. steep-slope roofing market and can be reinforced with organic or fiberglass materials. Although asphalt shingles reinforced with organic felts have been around much longer, fiberglass-reinforced products now dominate the market.”
 
 <!--------------------------------------------------------------------->
+<!----------------------- expert-tips  -------------------------------->
+<!--------------------------------------------------------------------->
 
-<h4>Re-Roof Over Existing Shingles</h4>
+<h4="expert-tips">Re-Roof Over Existing Shingles</h4>
 https://youtu.be/PuRoELYoUKY
 <br>
 Sharp video on re-shingling.
 <br>
+<!--------------------------------------------------------------------->
+<!------------------ cr-roofing-shingles ------------------------------>
+<!--------------------------------------------------------------------->
+
 <h4 id="cr-roofing-shingles">Consumer Reports "How to Shop for Roofing Shingles"</h4>
 Within asphalt, there’s a lot to consider. 
 <h5>Start by looking at shingle types, including </h5>
@@ -134,6 +140,9 @@ In our recent strength tests on products from six manufacturers, we found that t
 But our testing also revealed lower-cost options with fewer layers that still perform admirably. “For most homes, a top-performing three-tab, which has only one layer, or architectural laminated shingles will work just fine,” says Misha Kollontai, who leads CR’s tests of roofing products.
 What’s more, you can find savings among similarly rated multilayered architectural laminated shingles. For instance, Iko Crowne Slate costs $180 per 100 square feet—a standard roofing quantity—compared with CertainTeed Presidential Shake at $325. That’s an 81 percent price difference for similar performance.
 
+<!--------------------------------------------------------------------->
+<!--------------------- cr-roofing-start ------------------------------>
+<!--------------------------------------------------------------------->
 <h4 id="cr-roofing-start">Where do you start?</h4>
 <p>
 When performing a re-shingling project, the first step is to know the type of material that you will be working on. Of course, you need to match it with the previously installed roofing system. If you change your mind and want a different roofing system, it will be a case for replacement.
@@ -148,9 +157,12 @@ In terms of cost and duration of the project, it varies depending on the size of
 <li>Solar: Labor and materials are a huge long-term investment. In fact, it costs as much as $21 per square foot. However, solar shingles could lower electricity costs up to 60%.</li>
 <li>Copper: As a metal composition, this is highly wind and fire resistant. It can decrease energy cost but could not filter external noise. This is also on the pricier side at it costs more or less $15 per square foot.</li>
 <li>Fiberglass: This is lightweight and cost-effective ($4 to $5 per square foot). However, they are less durable than other types.</li>
- </ul>
- 
-<h4>Basic Step-by-Step Guide on How to Re-shingle a Roof</h4>
+</ul>
+
+<!--------------------------------------------------------------------->
+<!---------------------- expert-tips ---------------------------------->
+<!--------------------------------------------------------------------->
+<h4 id="expert-tips">Basic Step-by-Step Guide on How to Re-shingle a Roof</h4>
 <ol>
 You may follow this step-by-step guide on how to reshingle a roof. This is best executed by professionals so make sure to contact a trusted roofer for assistance. On the other hand, it is also good to know the process for your own guidance as a property owner.
 <li>Step #1: Inspect your damaged roof</li>
@@ -184,11 +196,14 @@ Be mindful of your surroundings. Check if there are people passing by who might 
 Take caution at all times because a roofing job is risky and difficult.
  </body>
 
+<!--------------------------------------------------------------------->
+<!---------------------- roof-layers ---------------------------------->
+<!--------------------------------------------------------------------->
 <h4 id="roof-layers">Layers to a roof</h4>
 <ul>
- <li>1st Layer: Ice & Water Barrier</li>
+<li>1st Layer: Ice & Water Barrier</li>
 Overview<br>
- Ice & Water Barrier Protection Underlay - Rhinoproof barrier next to the wood
+Ice & Water Barrier Protection Underlay - Rhinoproof barrier next to the wood
 The self-adhered layer in a roof deck protection system provides a waterproof barrier for vulnerable areas on a roof. Whether the building is faced with wind-driven rain or the potential for ice damming, having a waterproof barrier will help provide protection for a long-lasting roof.
 
 RhinoRoof® Granulated self-adhered underlayment provides that essential waterproof barrier as a second line of defense against water mitigation. RhinoRoof® Granulated combined with a synthetic underlayment, such as RhinoRoof® U20 creates an underlayment system to protect the roof deck from eave to peak.
@@ -209,7 +224,7 @@ RhinoRoof® U20 is 12 times stronger than #30 felt and offers excellent wind res
 Titanium® UDL25, UDL30, & UDL50 Synthetic Roofing Underlayment
 Titanium® X30 Premium Synthetic Underlayment
  
- <li>3rd Layer: Hip & Ridge Shingles</li>
+<li>3rd Layer: Hip & Ridge Shingles</li>
 Overview<br>
 Berkshire® Hip & Ridge Shingles
 
@@ -259,45 +274,25 @@ The versatile DeckSeal Roofing System can be applied as either a 2 or 3 ply syst
 
 As a key component of a VentSure® Balanced Air Ventilation System, the VentSure® vents are an essential part of the Total Protection Roofing System^. 
 
- <h4>Which Roofing Shingle to Buy?</h4>
+<h4>Which Roofing Shingle to Buy?</h4>
  
- ![image](https://user-images.githubusercontent.com/41387907/120050108-094c5680-bfd1-11eb-8ff1-9e5b2abd259c.png)
+![image](https://user-images.githubusercontent.com/41387907/120050108-094c5680-bfd1-11eb-8ff1-9e5b2abd259c.png)
 
-<hr size="8" width="45%" color="green">
-<!---------------------------------------------------------------------
-<h3 id="find-store">Find a Store</h3>
-<hr size="8" width="45%" color="green">
-<!---------------------------------------------------------------------
-<h3 id="pick-your-shingles">Pick Your Shingles</h3>
-<hr size="8" width="45%" color="green">
-<!---------------------------------------------------------------------
-<h3 id="find-contractor">Find Contractor</h3>
-<hr size="8" width="45%" color="green">
---------------------------------------------------------------------->
-<!-- 
-![image](https://user-images.githubusercontent.com/41387907/120037368-5ec73a00-bfb6-11eb-808f-825d3f59a724.png)
-<hr>
- 
-![image](https://user-images.githubusercontent.com/41387907/120037480-90400580-bfb6-11eb-9fcb-d94cc873b0f5.png)
-<hr>
- 
-![image](https://user-images.githubusercontent.com/41387907/120037519-9e8e2180-bfb6-11eb-9c7b-168ef29190ff.png)
-<hr>
- 
-![image](https://user-images.githubusercontent.com/41387907/120037564-afd72e00-bfb6-11eb-85b8-e64f75ad2700.png)
----->
 <hr size="8" width="45%" color="green">
 
 <!--------------------------------------------------------------------->
+<!------------ roofing-components (anatomy of a roof) ----------------->
+<!--------------------------------------------------------------------->
 <h3 id="roofing-components">Roofing Components (or, what makes up a roof?)</h3>
-<!----- <h4>Anatomy of a Roof</h4>----->
  
 ![image](https://user-images.githubusercontent.com/41387907/120049999-b4a8db80-bfd0-11eb-9317-22cde13b470c.png)
 
 <hr size="8" width="45%" color="green">
 <!--------------------------------------------------------------------->
- <h3 id="how-to-lay-shingles">How to Lay Shingles</h2>
- <ol>
+<!--------------------- how-to-lay-shingles  -------------------------->
+<!--------------------------------------------------------------------->
+<h3 id="how-to-lay-shingles">How to Lay Shingles</h2>
+<ol>
 <li>Size your shingles appropriately.</li>
 Depending on how you're going to organize your rows and courses, some roofers like to cut five variable sizes of shingles when using the basic three-tab variety. Basically, you'll cut off one-half tab-width of the first tab to start the first course, changing the necessary area to fill with each row, shifting the "slots." 
 
@@ -331,21 +326,21 @@ Alternatively, you can use a starting row of full-sized shingles by turning them
 
 ![Lay 2nd row of shingles](https://user-images.githubusercontent.com/41387907/120051009-cf308400-bfd3-11eb-9438-be647e7e5453.png)
 
-  <li>Lay the second row of shingles.</li>
+<li>Lay the second row of shingles.</li>
 Set the first shingle of the second row back a half tab, 6 inches (17 centimeters), from the edge of first shingle on the first row and so that the bottom of its tabs just touches the tops of the cutout slots on the shingle below. This 1/2 tab has to be cut off where it hangs off the left edge of the gable roof.
 Snap a vertical chalk line from the inside edge of the first shingle on the second row to the top of the roof, and from the inside edge of the first shingle to the top of the roof. These chalk lines will serve as a guide for subsequent even-numbered rows of shingles, and odd-numbered rows, respectively. Continue working horizontally up the roof until you reach the peaks.
 <br>
   
 ![Shingle around stacks, vents & chimneys as needed](https://user-images.githubusercontent.com/41387907/120051039-ee2f1600-bfd3-11eb-8038-8b331a310805.png)
 
-  <li>Shingle around stacks, vents and chimneys as necessary.</li>
+<li>Shingle around stacks, vents and chimneys as necessary.</li>
 Nail pieces of aluminum sheeting over holes that you can stick your finger through to protect roofing over holes from sagging, dimpling, cracking and leaking.
 Stack pipes, vents and chimneys are surrounded with metal flashing laid over tar. Shingles should be interlaced with this flashing, which is usually cemented and nailed-down under upper shingles, but over the shingles on the sides. This is so water will run down the roof but not under the interlacing. For stacks and vents, have the bottom 2 or 3 rows that meet the flashing go under it, while the upper rows go over the flashing.
 <br>
   
-  ![Interlace the flashing around chimney with rows of shingles](https://user-images.githubusercontent.com/41387907/120051079-17e83d00-bfd4-11eb-8dd9-72e3edfd1578.png)
+![Interlace the flashing around chimney with rows of shingles](https://user-images.githubusercontent.com/41387907/120051079-17e83d00-bfd4-11eb-8dd9-72e3edfd1578.png)
 <br>
-  <li>Interlace the flashing around the chimney with the rows of shingles.</li>
+<li>Interlace the flashing around the chimney with the rows of shingles.</li>
 Cement a sheet metal flashing apron over the upper edge of the chimney flange before laying shingles over it and cement another flashing apron over the lower half. Then cover the lower apron on each cemented side layer of flashing that tucks under the top apron using asphalt roofing cement.
 <br>
   
@@ -375,11 +370,11 @@ The basic patterns include:
  
 <h4>2. Stagger each course to achieve the half pattern.</h4>
 All the other patterns work in essentially the same way, offsetting the courses by a particular amount. For the 6-inch or "half" offset, you can protect butt joints and horizontally-moving water by starting a new course 6-inches in every row. Every seventh course, the butt joints will realign and offer stability and protection.
- <br>
+<br>
  
- ![4" and 5" offsets for added protection](https://user-images.githubusercontent.com/41387907/120051762-d1481200-bfd6-11eb-951d-c8931de20417.png)
+![4" and 5" offsets for added protection](https://user-images.githubusercontent.com/41387907/120051762-d1481200-bfd6-11eb-951d-c8931de20417.png)
 
- <h4>3. Consider four and five inch offsets for added protection.</h4>
+<h4>3. Consider four and five inch offsets for added protection.</h4>
 The method is exactly the same, though the measurement of the offset is slightly different. In an offset of four inches, standard shingles will realign every ten courses, while the five inch offsets will realign every eight. Understanding the benefits of each will help you decide which method to use for your roof:
 The short overlap of the four inch offset is somewhat easier, allowing you to use cutouts to overlap every two courses, making less work for you. Unfortunately, because of this, the pattern is less desirable for extremely cold climates or very wet places.
 For most DIY roofers, the five-inch offset is the most desirable pattern. It offers the most protection per shingle, making it much less likely that runoff will cut through the in-betweens, hiding shingle irregularities, and getting the most bang for your buck.
@@ -404,14 +399,14 @@ https://youtu.be/FdLahiPBWWs
 <li>CertainTeed</li>
 <li>Malarkey</li>
 </ul>
- <h4>Tier 2 Shingle Makers</h4>
+<h4>Tier 2 Shingle Makers</h4>
 <ul>
- <li>Pabco</li>
- <li>Ico</li>
- <li>Tamco</li>
- <li>BP</li>
- <li>Private Labels</li>
- </ul>
+<li>Pabco</li>
+<li>Ico</li>
+<li>Tamco</li>
+<li>BP</li>
+<li>Private Labels</li>
+</ul>
 
 <hr size="8" width="45%" color="green">
 
@@ -425,10 +420,14 @@ https://youtu.be/FdLahiPBWWs
 
 <hr size="8" width="45%" color="green">
 
+<!--------------------------------------------------------------------->
+<!--------------------------- reroof  --------------------------------->
+<!----------------------- roofing-basics  ----------------------------->
+<!--------------------------------------------------------------------->
 <h3 id="reroof">Re-Roofing Asphalt Shingles</h3>
 <h3 id="roofing-basics">Roofing Basics</h3>
 
-<h4>Shingle Type Recommendations for Re-Roofing Asphalt Shingles</h4>
+<h4 id="shingle-recommended">Shingle Type Recommendations for Re-Roofing Asphalt Shingles</h4>
 
 The heavier the shingle on the new layer, the less likely it is that irregularities in the surface below will telegraph through.
  
@@ -451,7 +450,7 @@ Inspect the condition of the existing roof and roof deck for numer of roof layer
 
 <h5>Roof Drip Edge Flashing at Roof Eaves & Gable Ends<h5>
   
-![image](https://user-images.githubusercontent.com/41387907/120088253-95c74980-c0a3-11eb-8d3c-1265baff52c3.png)
+![Roof Drip Edge Flashing at Roof Eaves & Gable Ends](https://user-images.githubusercontent.com/41387907/120088253-95c74980-c0a3-11eb-8d3c-1265baff52c3.png)
 
 Roof drip edge flashing serves multiple functions on a building, the foremost of which is to assist water in leaving the roof edge with minimum damage to other building components by directing the water off of the roof and into the gutter.
 
@@ -465,16 +464,16 @@ Lengths of drip vary but typically it's sold in ten foot lengths (120").
 
 The sketch above illustrates the end-profile of roof drip edge flashing and shows its placement on the roof. Usually you won't see much of drip edge as it's under the roof shingles, under the underlayment, and behind the roof gutter.
   
-<h4 id="drip-edge">Where Should Roof Drip Edge Flashing Be Placed ?<h4>
+<h4>Where Should Roof Drip Edge Flashing Be Placed ?<h4>
 
-![image](https://user-images.githubusercontent.com/41387907/120088300-e3dc4d00-c0a3-11eb-8865-fee59e1cb764.png)
+![Drip Edge Flashing Placement](https://user-images.githubusercontent.com/41387907/120088300-e3dc4d00-c0a3-11eb-8865-fee59e1cb764.png)
 
 Our illustration above shows proper placement of the roof drip edge atop the roof sheathing - before installation of roofing felt or ice and water shield and spaced a bit away from the fascia board to improve its drainage.
  
 <h4>Use a Furring Strip to Improve Drip Edge Drainage</h4>
 Some roofing manufacturers such as IKO suggest installing a furring strip to make sure that the drip edge is spaced well out from the fascia. 
 
-![image](https://user-images.githubusercontent.com/41387907/120088353-47667a80-c0a4-11eb-9c8f-edfe8cc6ea1b.png)
+![Drip Edge](https://user-images.githubusercontent.com/41387907/120088353-47667a80-c0a4-11eb-9c8f-edfe8cc6ea1b.png)
 
 If using a Type C drip edge, you can install a furring strip to increase its performance. A furring edge is a strip of one-by-two wood you install on the vertical surface of the house just beneath the roof’s edge. When you install the drip edge over this strip, it keeps the lower flange further from the home’s siding, which helps to keep water further from the home. (IKO 2019)
 
@@ -543,10 +542,10 @@ Unless a metal valley flashing is used, the first step is to line the existing v
     SNAPSHOT 5/28/2021 10:34am<br>
     Portfolio > 100 $:<br>
 
-![image](https://user-images.githubusercontent.com/41387907/120022505-587a9300-bfa1-11eb-82f4-35286177afd4.png)
+![Price Paid Per Coin](https://user-images.githubusercontent.com/41387907/120022505-587a9300-bfa1-11eb-82f4-35286177afd4.png)
    Price / Coin Pd:
-   
-![image](https://user-images.githubusercontent.com/41387907/120022701-a2637900-bfa1-11eb-942d-100dff41a4b6.png)
+
+![Portfolio Snapshot](https://user-images.githubusercontent.com/41387907/120022701-a2637900-bfa1-11eb-942d-100dff41a4b6.png)
    Portfolio Snapshot
 
 <hr size="8" width="90%" color="blue">
