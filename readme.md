@@ -4,47 +4,14 @@ https://github.com/bbauska/Table-of-Contents-WIP.git
   * [Guide to Choosing the Right Shingles](#guide-shingles)
   * [Roofing Basics](#roofing-basics)
   * [Expert Tips](#expert-tips)
+  * [Asphalt Shingles](#ashalt-shingles)
   * [Roofing Components](#materials)
   * [Consumer Reports - How to Shop for Roofing Shingles](#consumer-reports)
     + [Roofing Shingles](#cr-roofing-shingles)
     + [Shingle Types](#shingle-types)
     + [Roofing - Where to Start](#cr-roofing-start)
   * [How to Lay Shingles](#how-to-lay-shingles)
-- [Coinbase Pro Running Balance](#cb-pro)
-- [CS50 Web Programming with JavaScript & Python](#web-programming-with-js-python)
-  * [git](#git)
-  * [HTML, CSS](#html-css)
-  * [Flask](#Flask)
-  * [SQL](#SQL)
-  * [ORMs, APIs](#orm-api)
-  * [JavaScript](#javascript)
-  * [Front Ends](#front-ends)
-  * [Django](#django)
-  * [Testing, CI-CD](#testing-cicd)
-  * [GitHub, Travis](#github-travis)
-  * [Scalability](#scalability)
-  * [Security](#security)
-- [CC0101EN: IBM's Intro to Cloud Computing](#CC0101EN)
-  * [Overview](#CC-Overview)
-  * [Cloud Adoption and Emerging Technologies](#CC-2)
-  * [Cloud Computing Service & Deployment Models](#CC-3)
-    + [Service Models: IaaS, PaaS, Saas](#CC-3a-Service-Models)
-    + [Deployment-Models: Public, Private, Hybrid](#CC-3b-Deployment-Models)
-- [CAD101EN: IBM's Introduction to Cloud Development with HTML5, CSS3, & JavaScript](#CAD101EN)
-  * [Introduction to Programming for the Cloud](#CAD-Mod01)
-  * [HTML5 and CSS3](#CAD-Mod02)
-  * [HTML5 Elements](#CAD-Mod03)
-    + [HTML5 Tags & Structural Elements](#CAD-Mod03-1)
-    + [HTML5 Input Element: Attributes for the Input Tag](#CAD-Mod03-2)
-  * [JavaScript Programming for Web Applications](#CAD-Mod04)
-    + [JavaScript Language: Overview & Syntax](#CAD-Mod04-1)
-    + [JavaScript: Variables & Control Statements](#CAD-Mod04-2)
-    + [JavaScript: Functions & Prototypes](#CAD-Mod04-3)
-    + [Client-Side: JavaScript with HTML](#CAD-Mod04-4)
-    + [Client-Side: JavaScript with DOM](#CAD-Mod04-5)
-    + [JavaScript DOM Objects](#CAD-Mod04-6)
-    + [JavaScript APIs](#CAD-Mod04-7)
-  * [GitHub](#CAD-Mod05)
+
 <hr size="8" width="90%" color="blue">
 
 <!--------------------------------------------------------------------->
@@ -124,6 +91,13 @@ https://youtu.be/PuRoELYoUKY
 <br>
 Sharp video on re-shingling.
 <br>
+<!--------------------------------------------------------------------->
+<!-------------------- asphalt-shingles ------------------------------->
+<!--------------------------------------------------------------------->
+<h4 id="asphalt-shingles">Wikipedia Asphalt Shingles"</h4>
+Architectural or 3-Tab
+Asphalt Shingles come in two standard design options: Architectural (also known as Dimensional) Shingles, and 3-Tab Shingles. 3-Tab are essentially flat simple shingles with a uniform shape and size. They use less material and are thinner than Architectural Shingles, and are therefore lighter and lower cost for both the material and the installation. They also do not last as long or offer Manufacturer's Warranties as long as good architectural asphalt shingles. 3-Tab are still the most commonly installed in lower-value homes, such as those used as rental properties. However, they are declining in popularity in favor of the architectural style. Dimensional, or architectural shingles are thicker and stronger, vary in shape and size, and offer more aesthetic appeal; casting more distinct, random shadow lines better mimics the appearance of traditional roofing materials such as wood shake shingles.[7] The result is a more natural, traditional look. While more expensive to install, they come with longer manufacturer's warranties, sometimes up to 50 Years - typically prorated, as virtually all asphalt shingle roofs are replaced before such an expiration could be reached. While 3-tab shingles typically need to be replaced after 15–18 years, Dimensional typically last 24–30 years.
+
 <!--------------------------------------------------------------------->
 <!------------------ cr-roofing-shingles ------------------------------>
 <!--------------------------------------------------------------------->
@@ -534,105 +508,4 @@ Unless a metal valley flashing is used, the first step is to line the existing v
 <br>
 <!---------------------end of roofing sections------------------------->
 <hr size="8" width="90%" color="blue">
-<!--------------------------------------------------------------------->
-<!----------Coinbase Pro Running Balance: st: 5/28/21 ish-------------->
-<!--------------------------------------------------------------------->
-<h2 id="cb-pro">Coinbase Pro Running Balance</h2>
 
-    SNAPSHOT 5/28/2021 10:34am<br>
-    Portfolio > 100 $:<br>
-
-![Price Paid Per Coin](https://user-images.githubusercontent.com/41387907/120022505-587a9300-bfa1-11eb-82f4-35286177afd4.png)
-   Price / Coin Pd:
-
-![Portfolio Snapshot](https://user-images.githubusercontent.com/41387907/120022701-a2637900-bfa1-11eb-942d-100dff41a4b6.png)
-   Portfolio Snapshot
-
-<hr size="8" width="90%" color="blue">
-<!--------------------------------------------------------------------->
-<!----------C50: Web Programming with JavaScript & Python-------------->
-<!--------------------------------------------------------------------->
-
-<h2 id="web-programming-with-js-python">cs50 - Web Programming with JavaScript and Python</h2>
-
-<h3 id="git">git</h3>
-
-<h3 id="html-css">HTML/CSS</h3>
-
-<h3 id="flask">Flask</h3>
-
-<h3 id="sql">SQL</h3>
-
-<h3 id="orm-api">ORMs, APIs</h3>
-
-<h3 id="javascript">JavaScript</h3>
-
-<h3 id="front-ends">Front Ends</h3>
-
-<h3 id="django">Django</h3>
-
-<h3 id="testing-CICD">Testing, CI/CD</h3>
-
-<h3 id="github-travis">GitHub, Travis</h3>
-
-<h3 id="scalability">Scalabilty</h3>
-
-<h3 id="security">Security</h3>
-
-<hr size="8" width="90%" color="blue">
-
-<!---------------------------------------------------------------------
-<h4>Drip Edge Flashing</h4>
-<br>
- ![image](https://user-images.githubusercontent.com/41387907/120085152-84be0e80-c08a-11eb-8446-0f340f7eb5ee.png)
- <br>
------------------------------------------------------------------------>
-<!--------------------------------------------------------------------->
-<!---------------CC0101EN: Into to Cloud Computing--------------------->
-<!--------------------------------------------------------------------->
- 
-<hr size="8" width="90%" color="blue">
-<!--------------------------------------------------------------------->
-<h2 id="CC0101EN">CC0101EN: IBM's Introduction to Cloud Computing</h2>
-
-<h3 id="Overview">Overview</h3>
-<h3 id="CC-2">Cloud Adoption and Emerging Technologies</h3>
-<h3 id="CC-3">Cloud Computing Service & Deployment Model</h3>
-<ul>
- <li><h4 id="CC-3a-Service-Models">Service Models: IaaS, PaaS, Saas</h4></li>
- <li><h4 id="CC-3b-Deployment-Models">Deployment-Models: Public, Private, Hybrid</h4></li>
- </ul>
-<br>
-
-<hr size="8" width="90%" color="blue">
-<!--------------------------------------------------------------------->
-<!---------------CAD101EN: Into to Cloud Development------------------->
-<!--------------------------------------------------------------------->
-
-<h2 id="CAD101EN">CAD101EN: IBM's Introduction to Cloud Development with HTML5, CSS3, & JavaScript</h2>
-
- <h3 id="CAD-Mod01">Introduction to Programming for the Cloud</h3>
- <h3 id="CAD-Mod02">HTML5 and CSS3</h3>
- <h4 id="CAD-Mod03">HTML5 Elements</h4>
- <ul>
-  <li><h3 id="CAD-Mod03-1">HTML5 Tags & Structural Elements</h3></li>
-  <li><h3 id="CAD-Mod03-2">HTML5 Input Element: Attributes for the Input Tag</h3></li>
- </ul>
- <h4 id="CAD-Mod04">JavaScript Programming for Web Applications</h4>
-
- <h3 id="CAD-Mod04-1">JavaScript Language: Overview & Syntax</h3>
- <h3 id="CAD-Mod04-2">JavaScript: Variables & Control Statements</h3>
- <h3 id="CAD-Mod04-3">JavaScript: Functions & Protocols</h3>
- <h3 id="CAD-Mod04-4">Client-Side: JavaScript with HTML</h3>
- <h3 id="CAD-Mod04-5">Client-Side: JavaScript with DOM</h3>
- <h3 id="CAD-Mod04-6">JavaScript DOM Objects</h3>
- <h3 id="CAD-Mod04-7">JavaScript APIs</h3>
-<h3 id="CAD-Mod05">GitHub</h3>
-
-<hr size="8" width="90%" color="blue">
-<!--------------------------------------------------------------------->
-<!--------------------------------------------------------------------->
-<!--------------------------------------------------------------------->
-<!--------------------------------------------------------------------->
-<!---------------LFS101EN: Into to Cloud Development------------------->
-<!--------------------------------------------------------------------->
