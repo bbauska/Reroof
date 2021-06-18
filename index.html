@@ -500,11 +500,36 @@ To conclude, if you are installing a new roof, we would suggest that you choose 
 <br>
 <!------------------------------------------->
 <!---- re-roof over existing shingles ------->
+var canvas = document.getElementById('canvas');
+var ctx = canvas.getContext('2d');
+var video = document.getElementById('video');
+
+// set canvas size = video size when known
+video.addEventListener('loadedmetadata', function() {
+  canvas.width = video.videoWidth;
+  canvas.height = video.videoHeight;
+});
+
+video.addEventListener('play', function() {
+  var $this = this; //cache
+  (function loop() {
+    if (!$this.paused && !$this.ended) {
+      ctx.drawImage($this, 0, 0);
+      setTimeout(loop, 1000 / 30); // drawing at 30fps
+    }
+  })();
+}, 0);
 <!------------------------------------------->
 <h4><i>Re-Roof Over Existing Shingles</i></h4>
+<div id="theater">
+  <video id="video" src="https://youtu.be/PuRoELYoUKY" controls="false"></video>
+  <canvas id="canvas"></canvas>
+  <label>
+    <br />Try to play me :)</label>
+  <br />
+</div>
 
 <video src="https://youtu.be/PuRoELYoUKY" alt="Expert tips on re-roofing" width=25% length=25%>
-	
 <br><br>
 
 <!------------------------------------------->
