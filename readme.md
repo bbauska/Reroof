@@ -1,5 +1,5 @@
 
-https://github.com/bbauska/Table-of-Contents-WIP.git
+https://github.com/bbauska/CandysRoof.git
 - [Roof - with shingles](#ready-to-build-a-roof-diy)
   * [Guide to Choosing the Right Shingles](#guide-shingles)
   * [Roofing Basics](#roofing-basics)
