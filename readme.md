@@ -508,4 +508,5 @@ Unless a metal valley flashing is used, the first step is to line the existing v
 <br>
 <!---------------------end of roofing sections------------------------->
 <hr size="8" width="90%" color="blue">
+<!-- July 16, 2021 --?
 
