@@ -44,7 +44,7 @@ Top across then up, like rows
 
 ### Guide to Choosing the Right Roofing Shingles
 
-##### 1\. How Much Do Roof Shingles Cost?
+##### 1. How Much Do Roof Shingles Cost?
 
 Most homeowners pay between $4,700 and $10,460 for a new roof. When budgeting, keep in mind that the cost of installation and labor, as well as the cost of the material itself, will impact your bottom line. You’ll also need to account for the total square footage that your new shingles will cover. If you have a large roof area to cover, you might consider opting for cheaper materials.
 
@@ -52,7 +52,7 @@ Most homeowners pay between $4,700 and $10,460 for a new roof. When budgeting, k
 For more tips on calculating the square footage of your roof, check out our guide on estimating roofing materials.
 ```
 
-##### 2\. What Is the Slope and Pitch of Your Roof?
+##### 2. What Is the Slope and Pitch of Your Roof?
 
 Slope refers to how steep the angle of your roof is, and is normally measured with two numbers representing the rise, or height of your roof, and the run, representing it’s length. As an example, a slope of 4:12 indicates that a roof rises four feet and runs 12 feet. Depending on how steep the slope of your roof is, it may not be well suited for heavier roof shingle types, such as slate or clay tiles.
 
@@ -60,15 +60,15 @@ Slope refers to how steep the angle of your roof is, and is normally measured wi
 Want to learn more roofing terminology? We’ll walk you through it in Roofing 101.
 ```
 
-##### 3\. What Are the Weight Limits of Your Structure?
+##### 3. What Are the Weight Limits of Your Structure?
 
 The weights of shingle materials vary widely. That’s why it’s important to know how much weight your home’s structure can safely support before making a decision. Buildings are designated a “dead load” tolerance, or the weight of the roof structure. If the dead load is exceeded, the structure will not be able to support its own weight. The average home has a dead load of around 15 pounds per square foot.
 
-##### 4\. How Will Your Local Climate Affect the New Roof?
+##### 4. How Will Your Local Climate Affect the New Roof?
 
 Think about the weather patterns in your area during the material selection process. Extreme winds can tear lighter shingles right off, while heavy snow can add dangerous weight to roofs already weighed down by heavy materials. Also, some roofing materials, such as metal, have sun-reflective or cooling properties that make them useful in hot climates. Slate and clay also stand up very well to heat and fire, and are used in some coastal areas for their resistance to high winds.
 
-##### 5\. How Will You Choose a Roof Color?
+##### 5. How Will You Choose a Roof Color?
 
 No one wants their roof to clash with the rest of their house. When choosing shingles, take a look at the colors available for each material. Standard asphalt shingles and slate tiles tend to come in earthy and neutral blacks and grays, but metal can be painted in a wide variety of shades. As a general guideline, darker, more neutral shingles pair well with white and off-white siding, as well as red brick. It may also be worth considering a new paint job for your home to match the new roof.
 
@@ -83,13 +83,10 @@ Average lifespan: 20 years
 
 > “Asphalt shingles possess an overwhelming share of the U.S. steep-slope roofing market and can be reinforced with organic or fiberglass materials. Although asphalt shingles reinforced with organic felts have been around much longer, fiberglass-reinforced products now dominate the market.”
 
-\<h4="expert-tips">Re-Roof Over Existing Shingles  
-https://youtu.be/PuRoELYoUKY  
-  
-  
-Sharp video on re-shingling.  
-  
- 
+<h4="expert-tips">Re-Roof Over Existing Shingles</h4>
+https://youtu.be/PuRoELYoUKY
+
+Sharp video on re-shingling.
 
 #### Wikipedia Asphalt Shingles"
 
