@@ -84,7 +84,8 @@ Average lifespan: 20 years
 > “Asphalt shingles possess an overwhelming share of the U.S. steep-slope roofing market and can be reinforced with organic or fiberglass materials. Although asphalt shingles reinforced with organic felts have been around much longer, fiberglass-reinforced products now dominate the market.”
 
 <h4="expert-tips">Re-Roof Over Existing Shingles</h4>
-https://youtu.be/PuRoELYoUKY
+
+[Re-Roofing](https://youtu.be/PuRoELYoUKY)
 
 Sharp video on re-shingling.
 
