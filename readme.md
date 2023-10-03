@@ -1,4 +1,4 @@
-https://github.com/bbauska/CandysRoof.git
+https://github.com/bbauska/Reroof.git
 
 *   [Roof - with shingles](#ready-to-build-a-roof-diy)
     *   [Guide to Choosing the Right Shingles](#guide-shingles)
